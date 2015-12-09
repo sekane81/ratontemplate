@@ -1,0 +1,464 @@
+/*
+Table of contents
+1. Text logo
+2. Rating
+3. Articles tabs list post image
+4. Twitter list
+5. Carousel with horizontal scroll bar
+6. Combo Widget image size
+7. Comments Form
+8. Tag Box
+9. Link Pages
+10. Shortcodes columns styles
+11. WordPress editor classes
+12. Comments list
+13. WP default widgets
+14. Rating
+15. Fix problem with layout
+16. Facebook Comments
+*/
+
+/* 1.Text logo */
+.site-title {
+    margin: 0;
+}
+.site-title a,
+.site-title a:hover {
+    color: white;
+}
+
+/* 2.Rating */
+.kopa-rating li span {
+    color: #FBCF0A;
+}
+
+/* 3.Articles tabs list post image */
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    width: 247px;
+}
+
+/* 4.Twitter List */
+.tweetList li {
+    margin: 0;
+    color: #222222;
+    width: inherit;
+}
+
+/* 5.Carousel with horizontal scroll bar */
+.mcs5_container {
+    margin:0;
+}
+.mcs5_container .customScrollBox{
+    position:relative; 
+    overflow:hidden;
+    padding:0;
+}
+.mcs5_container .customScrollBox .horWrapper{
+    position:relative; 
+    left:0;
+}
+.mcs5_container .customScrollBox .horWrapper-container{
+    position:relative; 
+    left:0; 
+    display:inline-block; 
+    *display:inline;
+}
+.mcs5_container .customScrollBox .horWrapper-content{
+    clear:both;
+    margin-bottom:20px;
+}
+.mcs5_container .customScrollBox .horWrapper-content p img{
+    margin-right:5px;
+}
+.mcs5_container .dragger_container{
+    position:relative; 
+    height:4px; 
+    width:795px;
+    background-color:#eaeaea; 
+}
+.mcs5_container .dragger{
+    position:absolute; 
+    width:153px; 
+    height:5px;
+    margin-top:-1px; 
+    background-color:#18adb5;
+    cursor:-moz-grab; 
+}
+.mcs5_container .dragger_pressed{
+    
+}
+
+
+.mcs5_container .scrollUpBtn,.mcs5_container .scrollDownBtn{position:absolute; top:0; display:inline-block; font-family:Arial,Helvetica,sans-serif; font-size:large; font-weight:normal; color:#C30; margin:8px 5px 0 10px; text-decoration:none; display:none !important;}
+.mcs5_container .scrollDownBtn{right:10px;}
+.mcs5_container .scrollUpBtn{right:50px;}
+.mcs5_container .scrollUpBtn:hover,.mcs5_container .scrollDownBtn:hover{color:#fff;}
+
+/* 6. Combo Widget image size */
+.kopa-article-tab-widget .entry-thumb img {
+    max-width: 61px;
+}
+
+/* 7. Comment Form */
+.comment-form {
+    zoom: 1;
+}
+.comment-form:after {
+    clear:both;
+}
+.comment-form:before,
+.comment-form:after {
+    content: '.';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+}
+.comment-reply-title {
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 16px;
+    color: #222;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D6D6D6;
+    margin: 0 0 20px;
+}
+.comment .comment-respond,
+.pingback .comment-respond {
+    margin-top: 10px;
+}
+
+/* 8. Tag Box */
+.tag-box a {
+    margin-bottom: 5px;
+}
+
+/* 9. Link Pages */
+.elements-box {
+    margin-bottom: 25px;
+}
+
+.wp-link-pages {
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* 10. Shortcodes Columns Styles */
+.kopa-one-two {
+    float:left;
+    margin-right:3%;
+    width:48%;
+}
+.kopa-one-third {
+    float:left;
+    margin-right:2%;
+    width:32%;
+}
+.kopa-two-third {
+    float:left;
+    margin-right:2%;
+    width:66%;
+}
+.kopa-one-fourth {
+    float:left;
+    margin-right:2%;
+    width:23.5%;
+}
+.kopa-three-fourth {
+    float:left;
+    margin-right:2%;
+    width:74.5%;
+}
+
+.kopa-one-two.last,
+.kopa-one-third.last,
+.kopa-two-third.last,
+.kopa-one-fourth.last,
+.kopa-three-fourth.last{
+    margin-right:0 !important;
+}
+
+/* 11. WordPress Editor Classes */
+.wp-caption{
+    max-width: 100%;
+}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 10px;
+}
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 12. Comments list */
+.comments-list .pingback {
+    list-style: none;
+}
+
+/* 13. WP default widgets */
+.widget_calendar table {
+    width: 100%;
+}
+
+.widget_calendar table td,
+.widget_calendar table th,
+.widget_calendar table caption {
+    text-align: center;
+}
+
+.widget_categories ul li,
+.widget_pages ul li,
+.widget_meta ul li,
+.widget_recent_comments ul li,
+.widget_recent_entries ul li,
+.widget_rss ul li,
+.widget_nav_menu ul li {
+    font-size: 13px;
+    background: none;
+    padding-left: 0;
+}
+.widget_categories ul li,
+.widget_categories ul li a,
+.widget_pages ul li,
+.widget_pages ul li a,
+.widget_meta ul li,
+.widget_meta ul li a,
+.widget_recent_comments ul li a,
+.widget_recent_entries ul li,
+.widget_recent_entries ul li a,
+.widget_rss ul li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar a {
+    font-weight:600;
+    color:#444;
+}
+
+.widget_categories li a:hover,
+.widget_pages li a:hover,
+.widget_meta li a:hover,
+.widget_recent_comments li a:hover,
+.widget_recent_entries li a:hover,
+.widget_rss li a:hover,
+.widget_nav_menu li a:hover {
+    color: #18adb5;
+}
+
+.widget_tag_cloud .tagcloud a {
+    color: #444;
+}
+
+
+.widget_archive ul li,
+.widget_categories ul li,
+.widget_pages ul li,
+.widget_meta ul li,
+.widget_recent_comments ul li,
+.widget_recent_entries ul li,
+.widget_rss ul li,
+.widget_nav_menu ul li
+{
+    border-top: 1px dotted #C9C9C9;
+    padding-top: 10px;
+    margin-top: 10px;
+    list-style: none;
+}
+
+.widget_archive ul li:first-child,
+.widget_categories ul li:first-child,
+.widget_pages ul li:first-child,
+.widget_meta ul li:first-child,
+.widget_recent_comments ul li:first-child,
+.widget_recent_entries ul li:first-child,
+.widget_rss ul li:first-child,
+.widget_nav_menu ul li:first-child {
+    border-top: none;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.widget_pages ul.children,
+.widget_categories ul.children,
+.widget_nav_menu ul.sub-menu
+{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.widget_pages ul.children li:first-child,
+.widget_categories ul.children li:first-child,
+.widget_nav_menu ul.sub-menu li:first-child
+{
+    padding-top: 10px;
+    border-top: 1px dotted #c9c9c9;
+}
+
+
+#bottom-sidebar .widget_categories ul li {
+    font-size:12px;
+    margin:5px 0 0;
+    color:#d0d0d0;
+    background:url(../images/icons/list-icon.png) no-repeat 0 8px;
+    padding-left:10px;
+    padding-top: 0;
+    border-top: none;
+}
+#bottom-sidebar .widget_categories ul li:first-child {
+    margin:0;
+}
+#bottom-sidebar .widget_categories ul li a {
+    color:#d0d0d0;
+}
+
+#bottom-sidebar .widget_categories ul li a:hover,
+#bottom-sidebar .widget_archive ul li a:hover,
+#bottom-sidebar .widget_calendar a,
+#bottom-sidebar .widget_recent_comments li a,
+#bottom-sidebar .widget_rss li a,
+#bottom-sidebar .widget_rss .rsswidget,
+#bottom-sidebar .widget_meta li a:hover,
+#bottom-sidebar .widget_pages li a:hover,
+#bottom-sidebar .widget_nav_menu li a:hover
+{
+    color: #18adb5;
+    text-decoration: none;
+}
+
+#bottom-sidebar .widget_tag_cloud .tagcloud a,
+#bottom-sidebar .widget_calendar a:hover,
+#bottom-sidebar .widget_recent_comments li a:hover,
+#bottom-sidebar .widget_rss li a:hover
+{
+    color: #fff;
+}
+
+#bottom-sidebar .widget_pages ul.children, 
+#bottom-sidebar .widget_categories ul.children, 
+#bottom-sidebar .widget_nav_menu ul.sub-menu {
+    padding-top: 5px;
+}
+
+#bottom-sidebar .widget_archive li,
+#bottom-sidebar .widget_archive li a,
+#bottom-sidebar .widget_calendar table,
+#bottom-sidebar .widget_pages li a,
+#bottom-sidebar .widget_meta li a,
+#bottom-sidebar .widget_recent_comments li,
+#bottom-sidebar .widget_recent_entries ul li a,
+#bottom-sidebar .widget_rss li,
+#bottom-sidebar .widget_nav_menu li a
+{
+    color: #d0d0d0;
+}
+
+#bottom-sidebar .kopa-newsletter-widget {
+    color: #b1b1b1;
+    font-size: 12px;
+}
+
+/* 14.Rating */
+.kopa-rating-container {
+    margin-bottom: 25px;
+}
+
+.kopa-user-rating-box,
+.kopa-editor-rating-box {
+    float: none;
+    width: auto;
+    margin-left: 0;
+}
+
+.kopa-rating-box > li.total-score .kopa-rating span {
+    color: #fbcf0a;
+}
+
+.kopa-user-rating-box .kopa-user-rating a {
+    color: #3d3d3d;
+}
+.kopa-user-rating-box .kopa-user-rating li a.active,
+.kopa-user-rating-box .kopa-user-rating li a.hover {
+    color: #fbcf0a;
+}
+
+/* 15. Fix problem with layout */
+.light-block,
+.top-sidebar,
+#header-bottom,
+.dark-block {
+    overflow: hidden;
+}
+
+/* 16. Facebook comments */
+.fb-comments {
+    margin-bottom: 25px;
+}
+
+/* Responsive comments */
+#fbcomments, .fb-comments, .fb-comments iframe[style], .fb-comments span {
+width: 100% !important;
+}
+
+
+/* 17 */
+
+.elements-box table, .comment-body table{
+    
+    border-collapse: collapse;
+    border-spacing: 0;
+    line-height: 2;
+    margin: 0 0 20px;
+    width: 100%;
+}
+
+.elements-box dl, .comment-body dl  {
+   margin: 0 20px 0 20px;
+}
+.elements-box dd, .comment-body dd  {
+   margin-bottom: 20px;
+}
+ 
+ .elements-box ul, .comment-body ul, .elements-box ol, .comment-body ol{
+    margin-bottom: 10px;
+    padding-left: 40px;
+    margin-top: 10px;
+ }
+ .elements-box li > ol,.elements-box li > ul, .comment-body li > ol, .comment-body li > ul{
+    margin-top: 10px;
+ }
+ 
+ .elements-box ol li, .comment-body ol li{
+    list-style: decimal;
+ }
+ 
+ .elements-box address, .comment-body address{
+    font-style: italic;
+    margin-bottom: 24px;
+ }
+ .entry-box .page-links a{
+    margin-left: 0;
+ }
+ /*
+	headline slider with long title
+ */
+ .kopa-headline{
+	float:none;
+	overflow:hidden;
+	width:auto;
+ }

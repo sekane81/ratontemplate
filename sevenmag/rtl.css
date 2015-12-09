@@ -1,0 +1,164 @@
+body, .bbp-breadcrumb {overflow-x: hidden;direction: rtl}
+.owl-carousel, #slideshowt {text-align: right;direction: ltr}
+.logo, #layout .sf-menu li, #layout .sf-menu, .counter i, .freq_out, .share_post span, .counter li, .ads_widget a, .T20-tabs-nav li,
+.copyright, .newsticker li, .wp-pagenavi a, .wp-pagenavi .current, .wp-pagenavi .extend, .commentlist .comment-author, .commentlist .comment-meta, a.btn_canvas, .commentlist .comment-awaiting-moderation, #slideshowt .slider_content, #layout .sf-menu .two_col li, .mega_posts article {float: right}
+.right_bar, .banner, .sec_head .right_bar .social, #header .search, .wp-pagenavi .pages, #slideshowt .slider_tabs, #subscription-toggle, #favorite-toggle {float: left}
+#footer .sf-menu, .r_post .more_meta {float: left !important}
+#layout .sf-menu li {border-right: 0;border-left: 1px solid #2B2B2B}
+#layout .sf-menu li li:hover ul, #layout .sf-menu li li.sfHover ul {left: auto;right: 172px}
+.s_form {right: auto;left: 0}
+#header .search button {right: auto;left: 12px}
+.s_form:after {right: auto;left: 22px}
+#layout .sf-menu li li i {margin-left: 8px;margin-right: auto}
+.fll { float: left; margin: 0 0 10px 20px !important }
+.flr { float: right; margin: 0 20px 10px 0 !important }
+.mi { margin-right: 0 !important; margin-left: 4px !important }
+.mid { margin-right: 0 !important; margin-left: 8px !important }
+.mii { margin-left: 0 !important; margin-right: 4px !important }
+.miid { margin-left: 0 !important; margin-right: 8px !important }
+.small_posts .s_thumb {float: right;margin: 0 0 20px 20px}
+.blockquote {border-right: 5px solid #E6E6E6;border-left: 0}
+li li a .sf-sub-indicator {right: auto;left: 7%;-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-o-transform: rotate(180deg);}
+#layout .sf-menu li li {border-right: 0;border-left: 0;}
+.b_title {padding: 0 0 0 20px}
+.b_title h4, .b_title h3 {font-weight: 700;margin: 0 -1px 0 0;padding: 0 2px 0 10px}
+.ads_widget span {left: auto;right: 10px}
+.social a {float: right;margin: 4px 4px 4px 0}
+.widget_social .social a {margin: 4px 4px 0 0}
+.widget_social .social {margin: -4px -4px 0 0}
+#toTop i {padding: 4px 9px 0 0}
+.item_small .featured_thumb {float: right;margin: 0 0 0 15px}
+.widget_archive li span, .widget_pages li span, .widget_meta li span, .widget_nav_menu li span, .widget_categories li span {right: auto;left: 0}
+.featured_thumb .thumb-icon i {left: auto;right: 20px}
+.wgr .more_meta {right: auto;left: 20px}
+.wgr .s_category {padding: 0 20px 0 0}
+.wgr .s_category a {margin: 0 0 0 12px}
+#layout .sf-menu li:last-child {border: 0}
+.sec_head .right_bar {right: auto;left: 0}
+.search_icon {margin: 4px 4px 4px 0}
+.post-edit-link {right: auto;left: 0}
+.more_posts .featured_thumb .thumb-icon i {left: auto;right: auto}
+.wgr h3 {left: auto;right: 0}
+.today_weather .big_icon {float: left !important}
+.today_weather .details_w {float: right !important}
+.newsticker a {margin: 0 0 0 60px}
+.newsticker {left: auto;right: 1000px}
+.newsticker span {margin: 0 0 0 10px}
+.sec_head .breaking {float: right;padding: 9px 18px 9px 10px;margin: 0 -30px 0 0}
+.sec_head .breaking:after {left: -18px;right: auto;border-right: 15px solid #E75757;border-left: 4px solid rgba(0, 0, 0, 0)}
+.logo h1 {margin: 0 0 0 10px}
+.author_avatar {float: right;margin: 0 0 0 15px}
+.post_nav li.previous {text-align: left}
+.commentlist .avatar {left: auto;right: -96px}
+.commentlist li {list-style: none;padding-left: 0;padding-right: 96px}
+.commentlist li.bypostauthor > .comment-body:after, .commentlist li.comment-author-admin > .comment-body:after {left: auto;right: -36px}
+#cancel-comment-reply-link {right: auto;left: 0}
+.commentlist li li {padding-left: 0}
+.review-star {right: auto !important;left: 10px !important}
+.review-total-star.allowed-to-rate, .review-total-wrapper {float: left !important}
+.user-total-wrapper, .review-desc {float: right !important}
+.review-result {left: auto;right: 0}
+.image-container .caption, .gallery_item .caption {left: auto;right: 20px}
+.owl-theme .owl-controls {right: auto;left: 20px}
+.big_carousel .owl-theme .owl-controls {right: auto;left: 30px}
+.big_carousel .owl-buttons, .slideshow_b5 .owl-buttons {margin: 0 10px 0 0;float: left}
+.slideshow_b5 .owl-controls {right: auto;left: 0 !important}
+#block_carousel .owl-controls {right: auto;left: -18px;padding: 0 7px 0 0}
+ol li {margin: 0 20px 0 0}
+.post-edit-link {left: auto;right: 0}
+.tt_review .tt_star {float: left}
+.tt_review .review_w {text-align: right}
+.tt_star .review_w {display: inline-flex}
+.tt_review {direction: ltr;right: auto;left: 0}
+.b_4 .tt_review {right: auto;left: 3%}
+#mobilepro {float: right;margin: 34px 10px 32px 0}
+.medium_thumb .post_thumbnail {margin: 0 0 4px 20px;float: right}
+.medium_thumb .more_meta {float: left}
+.medium_thumb .s_category a {margin-right: 0;margin-left: 10px}
+.wgr .details {direction: rtl}
+#layout .sf-menu li li:hover > a, #layout .sf-menu li li > a:hover, #layout .sf-menu li li.current_page_item > a, #layout .sf-menu li li.current-menu-item > a {padding-left: 20px;padding-right: 30px}
+#layout .sf-menu li li a:before {left: auto;right: 0;-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);transform: rotate(180deg);-ms-transform: rotate(180deg);}
+#layout .sf-menu li li:hover > a:before, #layout .sf-menu li li > a:hover:before, #layout .sf-menu li li.current_page_item > a:before, #layout .sf-menu li li.current-menu-item > a:before {left: auto;right: 16px}
+.readmore {right: auto;left: -1px}
+blockquote, .blockquote {border-left: 0;border-right: 5px solid #E6E6E6}
+.comment-author cite {margin: 0}
+.wpcf7-submit, .owl-item .date_c i {float: right}
+div.wpcf7 img.ajax-loader {margin: 5px 12px 0 0}
+.symple-skillbar-title {left: auto;right: 0}
+.symple-skill-bar-percent {right: auto;left: 10px}
+.symple-tabs ul.ui-tabs-nav li {float: right !important}
+.symple-tabs ul.ui-tabs-nav li a {border-width: 1px 0 0 1px}
+.sec_head .sf-menu li:first-child a {margin-left: 16px}
+.widget_T20_posts_slideshow .owl-controls {right: auto;left: -24px;padding: 0 4px 0 0}
+#footer .widget_T20_posts_slideshow .owl-controls {right: auto;left: -6px}
+.zilla-likes:hover, .zilla-likes {background-position: right 45% !important;padding: 0 18px 0 0 !important}
+.r_post .s_category a {margin: 0 0 0 10px}
+.b_title h4, .b_title h3 {display: inline}
+.commentlist li li {padding-left: 0;padding-right: 66px}
+.commentlist li li .avatar {left: auto;right: -64px}
+.commentlist .comment-meta:before {margin-right: 6px}
+.review-total-wrapper span.review-total-box {padding: 35px 0 20px 10px !important}
+.commentlist .comment-author {margin-right: 0}
+.b_9 .tt_review {right: auto;left: -20px}
+.b_9 h3 {font-size: 22px}
+.woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale {right: auto;left: 0;margin: -10px 0 0 -10px}
+.products .product .add_to_cart_button {left: auto;right: 10px}
+.products .product .star-rating {right: auto;left: 10px}
+.products .product h3, .products .product .price, .woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart {left: auto;right: 10px}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {float: right;margin: 0 0 2.992em 3.2%;}
+.woocommerce .woocommerce-pagination ul.page-numbers, .woocommerce-page .woocommerce-pagination ul.page-numbers, 
+.woocommerce .woocommerce-pagination ul.page-numbers li, .woocommerce-page .woocommerce-pagination ul.page-numbers li, 
+.woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images, 
+.woocommerce div.product form.cart .button, .woocommerce #content div.product form.cart .button, .woocommerce-page div.product form.cart .button, .woocommerce-page #content div.product form.cart .button {float: right}
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary, 
+.woocommerce .star-rating, .woocommerce-page .star-rating, .woocommerce .woocommerce-message .button, .woocommerce .woocommerce-error .button, .woocommerce .woocommerce-info .button, .woocommerce-page .woocommerce-message .button, .woocommerce-page .woocommerce-error .button, .woocommerce-page .woocommerce-info .button {float: left}
+.woocommerce .quantity, .woocommerce #content .quantity, .woocommerce-page .quantity, .woocommerce-page #content .quantity, .woocommerce div.product form.cart div.quantity, .woocommerce-page div.product form.cart div.quantity, .woocommerce #content div.product form.cart div.quantity, .woocommerce-page #content div.product form.cart div.quantity {float: right;direction: ltr}
+.woocommerce .woocommerce-product-rating .star-rating, .woocommerce-page .woocommerce-product-rating .star-rating {margin: .5em 0 0 8px;float: right}
+.woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce-page #reviews #comments ol.commentlist li .comment-text {margin: 0 20px 0 0}
+.woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce-page #reviews #comments ol.commentlist li img.avatar {left: auto;right: -5px}
+.woocommerce ul.products li.product.last, .woocommerce-page ul.products li.product.last {margin-right: 0;margin-left: 0}
+.woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img, .woocommerce-page ul.cart_list li img, .woocommerce-page ul.product_list_widget li img {float: right;margin: 0 0 0 20px}
+.wp-polls ul, .wp-polls-ul, .wp-polls-ans ul, .wp-polls ul li, .wp-polls-ul li, .wp-polls-ans ul li {text-align: right;direction: ltr}
+#layout .sf-menu li li b {left: 14px;right: auto}
+
+#block_carousel .details a{direction:rtl;}
+#commentform p.comment-form-author{float:right;}
+#commentform p.comment-form-email{float:left;}
+.related .products .product .add_to_cart_button{max-width: 100px;right: 40px !important;left: auto !important;}
+.woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li{ text-align: right;}
+.woocommerce #payment div.payment_box:after, .woocommerce-page #payment div.payment_box:after{right:0;left:auto;  margin: -1em 2em 0 0;}
+table tfoot td, .table tfoot td{text-align: center;}
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1{float:right;}
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2{float:left;}
+.woocommerce form .form-row-first, .woocommerce form .form-row-last, .woocommerce-page form .form-row-first, .woocommerce-page form .form-row-last{float:right;}
+.woocommerce form .form-row-last, .woocommerce-page form .form-row-last{float:left;}
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce-page form.checkout_coupon, .woocommerce-page form.login, .woocommerce-page form.register{ text-align: right;}
+.wpb_images_carousel {direction: ltr;}
+a.pp_expand, a.pp_contract,a.pp_close,a.pp_arrow_previous, a.pp_arrow_next,.pp_nav .pp_play, .pp_nav .pp_pause{ text-indent: 10000px;}
+.commentlist .comment-awaiting-moderation{padding-right: 5px;}
+.dwqa-search .dwqa-search-form .dwqa-search-input{padding: 12px 40px 12px 6px;}
+.dwqa-container .dwqa-single-question .dwqa-actions{left: 10px;right: auto;}
+.dwqa-container .dwqa-single-question .dwqa-actions .dwqa-dropdown-menu, .dwqa-container .dwqa-single-question .dwqa-comment-actions .dwqa-dropdown-menu{ right: -50px;}
+.dwqa-container .dwqa-single-question .dwqa-actions .dwqa-dropdown-menu .dwqa-dropdown-caret, .dwqa-container .dwqa-single-question .dwqa-comment-actions .dwqa-dropdown-menu .dwqa-dropdown-caret{right: 60px;}
+.dwqa-container .dwqa-single-question .dwqa-comments .dwqa-comment-author .avatar{ right: 20px;left:auto;margin: 0 0 0 10px;}
+.dwqa-container .dwqa-single-question .dwqa-comments .dwqa-comment-list .dwqa-comment{ padding: 15px 70px 0 20px;}
+.dwqa-container .dwqa-single-question .dwqa-comments .dwqa-comment-actions{left: 10px;right:auto;}
+.dwqa-container .dwqa-single-question .dwqa-comment-form .avatar{right: 20px;left:auto;margin: 0 0 0 10px;}
+.dwqa-container .dwqa-single-question .dwqa-comment-form{  padding: 16px 70px 0 20px;}
+.dwqa-container .dwqa-single-question .dwqa-author .avatar{right: 0;left:auto;}
+.dwqa-container .dwqa-single-question .dwqa-author{padding: 0 70px 0 0;}
+.dwqa-container .dwqa-single-question .dwqa-footer .dwqa-current-status .dwqa-btn-group .dwqa-dropdown-menu{text-align: right;}
+.dwqa-container .dwqa-single-question .dwqa-answer-author .avatar{right: 20px;left:auto;margin: 0 0 0 10px;}
+.dwqa-container .dwqa-single-question .dwqa-answer-author{padding: 0 50px 0 0;}
+.wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon{ left: 0.7em;right:auto;}
+.dwqa-single-question .dwqa-question .dwqa-content, .dwqa-single-question .dwqa-question .dwqa-tags, .dwqa-single-question .dwqa-answer .dwqa-content{ margin-right: 80px; margin-left: 0;}
+.dwqa-single-question .dwqa-comments{ margin-right: 80px; margin-left: 0;}
+.dwqa-single-question .dwqa-answer .dwqa-privacy{float:left;}
+.dwqa-single-question .dwqa-answer .dwqa-actions{float: left; margin-right: 5px;margin-left: 0;}
+.master-slider-parent{ direction: ltr;}
+.ms-view{direction: rtl;}
+.b_title h4, .b_title h3, h1.post-title{ padding: 0 0 0 10px;}
+li .sub-menu .sub-menu a {padding-right: 40px;padding-left: 0}
+li .sub-menu .sub-menu .sub-menu a {padding-right: 60px;padding-left: 0}
+li .sub-menu .sub-menu .sub-menu .sub-menu a {padding-right: 80px;padding-left: 0}
+li .sub-menu .sub-menu .sub-menu .sub-menu .sub-menu a {padding-right: 100px;padding-left: 0}

@@ -1,0 +1,1451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SevenMag 1.8\n"
+"POT-Creation-Date: 2014-04-18 14:29+0400\n"
+"PO-Revision-Date: 2014-04-18 14:29+0400\n"
+"Last-Translator: T20 <sevenpsd@gmail.com>\n"
+"Language-Team: T20 <sevenpsd@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:220
+msgid "Primary"
+msgstr ""
+
+#: functions.php:220 admin/meta-boxes.php:69 admin/meta-boxes.php:233
+#: admin/theme-options.php:1173
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:221
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:221 admin/meta-boxes.php:75 admin/meta-boxes.php:239
+#: admin/theme-options.php:1179
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:222
+msgid "Custom 1"
+msgstr ""
+
+#: functions.php:222
+msgid "Custom Sidebar 1"
+msgstr ""
+
+#: functions.php:223
+msgid "Custom 2"
+msgstr ""
+
+#: functions.php:223
+msgid "Custom Sidebar 2"
+msgstr ""
+
+#: functions.php:224
+msgid "Custom 3"
+msgstr ""
+
+#: functions.php:224
+msgid "Custom Sidebar 3"
+msgstr ""
+
+#: functions.php:225
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:226
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:227
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:228
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:787
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:788
+msgid "Secondary menu"
+msgstr ""
+
+#: functions.php:789
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:862
+msgid "Thumbs"
+msgstr ""
+
+#: functions.php:900
+msgid "Import/Export"
+msgstr ""
+
+#: functions.php:907 functions.php:919
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:947
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: functions.php:948
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: functions.php:949
+msgid "Import Theme Options"
+msgstr ""
+
+#: functions.php:965
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: functions.php:1005
+msgid "View"
+msgstr ""
+
+#: single.php:73
+msgid "<span class=\"extend mid\">"
+msgstr ""
+
+#: single.php:91
+msgid "Website"
+msgstr ""
+
+#: single.php:94
+msgid "on Facebook"
+msgstr ""
+
+#: single.php:97
+msgid "on Twitter"
+msgstr ""
+
+#: single.php:100
+msgid "on Dribbble"
+msgstr ""
+
+#: single.php:103
+msgid "on Github"
+msgstr ""
+
+#: single.php:106
+msgid "on Instagram"
+msgstr ""
+
+#: single.php:109
+msgid "on Linkedin"
+msgstr ""
+
+#: single.php:112
+msgid "on Pinterest"
+msgstr ""
+
+#: single.php:115
+msgid "on Skype"
+msgstr ""
+
+#: single.php:118
+msgid "on Soundcloud"
+msgstr ""
+
+#: single.php:121
+msgid "on Youtube"
+msgstr ""
+
+#: single.php:124
+msgid "on Tumblr"
+msgstr ""
+
+#: single.php:127
+msgid "on Reverbnation"
+msgstr ""
+
+#: single.php:130
+msgid "on Flickr"
+msgstr ""
+
+#: single.php:133
+msgid "on Google+"
+msgstr ""
+
+#: single.php:136
+msgid "on Foursquare"
+msgstr ""
+
+#: single.php:139
+msgid "Contact with"
+msgstr ""
+
+#: admin/meta-boxes.php:11
+msgid "Page Options"
+msgstr ""
+
+#: admin/meta-boxes.php:18
+msgid "Page Title"
+msgstr ""
+
+#: admin/meta-boxes.php:22
+msgid "If you like to display page title before content please set this On"
+msgstr ""
+
+#: admin/meta-boxes.php:25 admin/meta-boxes.php:189 admin/theme-options.php:19
+msgid "Layout"
+msgstr ""
+
+#: admin/meta-boxes.php:28 admin/meta-boxes.php:192
+msgid "Overrides the default layout option"
+msgstr ""
+
+#: admin/meta-boxes.php:33 admin/meta-boxes.php:197
+msgid "Default Layout - Set from Theme Options for all pages and posts"
+msgstr ""
+
+#: admin/meta-boxes.php:38 admin/meta-boxes.php:202
+msgid "Without Sidebar - Fullwide"
+msgstr ""
+
+#: admin/meta-boxes.php:43 admin/meta-boxes.php:207
+#: admin/theme-options.php:577 admin/theme-options.php:672
+#: admin/theme-options.php:1147
+msgid "1 Sidebar Right"
+msgstr ""
+
+#: admin/meta-boxes.php:48 admin/meta-boxes.php:212
+#: admin/theme-options.php:582 admin/theme-options.php:677
+#: admin/theme-options.php:1152
+msgid "1 Sidebar Left"
+msgstr ""
+
+#: admin/meta-boxes.php:53 admin/meta-boxes.php:217
+#: admin/theme-options.php:587 admin/theme-options.php:682
+#: admin/theme-options.php:1157
+msgid "Both Sidebar"
+msgstr ""
+
+#: admin/meta-boxes.php:58 admin/meta-boxes.php:222
+#: admin/theme-options.php:592 admin/theme-options.php:687
+#: admin/theme-options.php:1162
+msgid "Both Sidebar Right"
+msgstr ""
+
+#: admin/meta-boxes.php:63 admin/meta-boxes.php:227
+#: admin/theme-options.php:597 admin/theme-options.php:692
+#: admin/theme-options.php:1167
+msgid "Both Sidebar Left"
+msgstr ""
+
+#: admin/meta-boxes.php:72 admin/meta-boxes.php:78 admin/meta-boxes.php:236
+#: admin/meta-boxes.php:242
+msgid "Overrides default"
+msgstr ""
+
+#: admin/meta-boxes.php:81
+msgid "Page Comments"
+msgstr ""
+
+#: admin/meta-boxes.php:85
+msgid "If you like to display page comments after content please set this On"
+msgstr ""
+
+#: admin/meta-boxes.php:88
+msgid "Display Loop"
+msgstr ""
+
+#: admin/meta-boxes.php:92
+msgid ""
+"If you like to display posts loops in this page please set \"on\", also you "
+"can use page builder will effective before loop."
+msgstr ""
+
+#: admin/meta-boxes.php:96
+msgid "Loop Posts"
+msgstr ""
+
+#: admin/meta-boxes.php:97 admin/meta-boxes.php:114
+#: admin/theme-options.php:387
+msgid ""
+"By not selecting a category, it will show your latest post(s) from all "
+"categories"
+msgstr ""
+
+#: admin/meta-boxes.php:105
+msgid "Slideshow Options"
+msgstr ""
+
+#: admin/meta-boxes.php:113
+msgid "Slideshow Posts"
+msgstr ""
+
+#: admin/meta-boxes.php:119
+msgid "Slideshow Numbers of slides"
+msgstr ""
+
+#: admin/meta-boxes.php:120
+msgid "Number of all posts in slideshow"
+msgstr ""
+
+#: admin/meta-boxes.php:127
+msgid "Slideshow Numbers of slides in view"
+msgstr ""
+
+#: admin/meta-boxes.php:128
+msgid "Number of posts in one slide"
+msgstr ""
+
+#: admin/meta-boxes.php:135
+msgid "autoPlay"
+msgstr ""
+
+#: admin/meta-boxes.php:142
+msgid "stopOnHover"
+msgstr ""
+
+#: admin/meta-boxes.php:149
+msgid "Pagination"
+msgstr ""
+
+#: admin/meta-boxes.php:156
+msgid "navigation"
+msgstr ""
+
+#: admin/meta-boxes.php:157
+msgid "Navigation Arrows"
+msgstr ""
+
+#: admin/meta-boxes.php:163
+msgid "SlideSpeed"
+msgstr ""
+
+#: admin/meta-boxes.php:164
+msgid ""
+"default is 1500 - This parameter is speed for when you touch and leave "
+"slides or select on arrows."
+msgstr ""
+
+#: admin/meta-boxes.php:171
+msgid "paginationSpeed"
+msgstr ""
+
+#: admin/meta-boxes.php:172
+msgid ""
+"default is 500 - This parameter is speed for when you select pagination for "
+"change slides"
+msgstr ""
+
+#: admin/meta-boxes.php:182
+msgid "Post Options"
+msgstr ""
+
+#: admin/meta-boxes.php:249
+msgid "Format: Audio"
+msgstr ""
+
+#: admin/meta-boxes.php:250
+msgid ""
+"These settings enable you to embed audio into your posts. You must provide "
+"both .mp3 and .ogg/.oga file formats in order for self hosted audio to "
+"function accross all browsers."
+msgstr ""
+
+#: admin/meta-boxes.php:256
+msgid "Audio Code"
+msgstr ""
+
+#: admin/meta-boxes.php:260
+msgid "Put your audio embed code"
+msgstr ""
+
+#: admin/meta-boxes.php:266
+msgid "Format: Gallery"
+msgstr ""
+
+#: admin/meta-boxes.php:276
+msgid "Format: Video"
+msgstr ""
+
+#: admin/meta-boxes.php:277
+msgid "This setting enable you to embed videos into your posts."
+msgstr ""
+
+#: admin/meta-boxes.php:283
+msgid "Video Embed Code"
+msgstr ""
+
+#: admin/T20_b1.php:137
+msgid "Block 1"
+msgstr ""
+
+#: admin/T20_b1.php:141 admin/T20_b2.php:131 admin/T20_b3.php:124
+#: admin/T20_b4.php:122 admin/T20_b5_slider.php:118 admin/T20_b6.php:134
+#: admin/T20_b7_slider2.php:110 admin/T20_b8.php:103
+msgid "Blocks"
+msgstr ""
+
+#: admin/T20_b1.php:148 admin/T20_b2.php:138 admin/T20_b3.php:131
+#: admin/T20_b4.php:129 admin/T20_b5_slider.php:125 admin/T20_b6.php:141
+#: admin/T20_b7_slider2.php:117 admin/T20_b8.php:110
+msgid "Category filter:"
+msgstr ""
+
+#: admin/T20_b1.php:157 admin/T20_b2.php:147 admin/T20_b3.php:140
+#: admin/T20_b4.php:138 admin/T20_b5_slider.php:134 admin/T20_b6.php:150
+#: admin/T20_b7_slider2.php:126 admin/T20_b8.php:119
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: admin/T20_b1.php:166 admin/T20_b2.php:156 admin/T20_b3.php:149
+#: admin/T20_b4.php:147 admin/T20_b5_slider.php:143 admin/T20_b6.php:159
+#: admin/T20_b7_slider2.php:135 admin/T20_b8.php:128
+msgid "Filter by tag slug:"
+msgstr ""
+
+#: admin/T20_b1.php:173 admin/T20_b6.php:166
+msgid "5"
+msgstr ""
+
+#: admin/T20_b1.php:174 admin/T20_b2.php:164 admin/T20_b3.php:157
+#: admin/T20_b4.php:155 admin/T20_b5_slider.php:151 admin/T20_b6.php:167
+#: admin/T20_b7_slider2.php:143 admin/T20_b8.php:136
+msgid "Limit post number:"
+msgstr ""
+
+#: admin/T20_b1.php:183 admin/T20_b2.php:173 admin/T20_b3.php:166
+#: admin/T20_b4.php:164 admin/T20_b5_slider.php:160 admin/T20_b6.php:176
+#: admin/T20_b7_slider2.php:152 admin/T20_b8.php:145
+msgid "Sort order:"
+msgstr ""
+
+#: admin/T20_b1.php:192 admin/T20_b2.php:182 admin/T20_b3.php:175
+#: admin/T20_b4.php:173 admin/T20_b6.php:185 admin/T20_b8.php:154
+msgid "Optional - custom title for this block:"
+msgstr ""
+
+#: admin/T20_b1.php:201 admin/T20_b2.php:191 admin/T20_b3.php:184
+#: admin/T20_b4.php:182 admin/T20_b6.php:194 admin/T20_b8.php:163
+msgid ""
+"Optional - custom url for this block (when the module title is clicked):"
+msgstr ""
+
+#: admin/T20_b1.php:210 admin/T20_b2.php:200 admin/T20_b3.php:193
+#: admin/T20_b4.php:191 admin/T20_b6.php:203 admin/T20_b8.php:172
+msgid "Hide block title:"
+msgstr ""
+
+#: admin/T20_b2.php:127
+msgid "Block 2"
+msgstr ""
+
+#: admin/T20_b2.php:163
+msgid "2"
+msgstr ""
+
+#: admin/T20_b3.php:120
+msgid "News In Picture"
+msgstr ""
+
+#: admin/T20_b3.php:156
+msgid "10"
+msgstr ""
+
+#: admin/T20_b4.php:118
+msgid "Carousel Posts"
+msgstr ""
+
+#: admin/T20_b4.php:154 admin/T20_b5_slider.php:150
+#: admin/T20_b7_slider2.php:142
+msgid "9"
+msgstr ""
+
+#: admin/T20_b5_slider.php:114
+msgid "Slideshow Block"
+msgstr ""
+
+#: admin/T20_b6.php:130
+msgid "Block 6"
+msgstr ""
+
+#: admin/T20_b7_slider2.php:106
+msgid "Slideshow 2"
+msgstr ""
+
+#: admin/T20_b8.php:99
+msgid "Small Grid"
+msgstr ""
+
+#: admin/T20_b8.php:135
+msgid "12"
+msgstr ""
+
+#: admin/theme-options.php:15
+msgid "General"
+msgstr ""
+
+#: admin/theme-options.php:23
+msgid "Header"
+msgstr ""
+
+#: admin/theme-options.php:27
+msgid "Posts"
+msgstr ""
+
+#: admin/theme-options.php:31
+msgid "Styling"
+msgstr ""
+
+#: admin/theme-options.php:35
+msgid "Create Sidebar"
+msgstr ""
+
+#: admin/theme-options.php:39
+msgid "bbpress"
+msgstr ""
+
+#: admin/theme-options.php:43
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/theme-options.php:47
+msgid "Translation"
+msgstr ""
+
+#: admin/theme-options.php:58
+msgid "Load elements on scroll"
+msgstr ""
+
+#: admin/theme-options.php:59
+msgid ""
+"Adding load effect when user scrolling down elements will load one by one."
+msgstr ""
+
+#: admin/theme-options.php:67
+msgid "Animation Type"
+msgstr ""
+
+#: admin/theme-options.php:68
+msgid "Animation load effect type."
+msgstr ""
+
+#: admin/theme-options.php:75
+msgid "fadeInUp"
+msgstr ""
+
+#: admin/theme-options.php:79
+msgid "fadeInDown"
+msgstr ""
+
+#: admin/theme-options.php:83
+msgid "fadeInLeft"
+msgstr ""
+
+#: admin/theme-options.php:87
+msgid "fadeInRight"
+msgstr ""
+
+#: admin/theme-options.php:91
+msgid "bigEntrance"
+msgstr ""
+
+#: admin/theme-options.php:98
+msgid "Favicon"
+msgstr ""
+
+#: admin/theme-options.php:99
+msgid "Upload a 16x16px Png/Gif/ico image that will be your favicon"
+msgstr ""
+
+#: admin/theme-options.php:106
+msgid "Apple Touch"
+msgstr ""
+
+#: admin/theme-options.php:107
+msgid "Upload a 144x144px Png image that will be your icon"
+msgstr ""
+
+#: admin/theme-options.php:114
+msgid "FeedBurner URL"
+msgstr ""
+
+#: admin/theme-options.php:115
+msgid ""
+"Enter your full FeedBurner URL (or any other preferred feed URL) if you wish "
+"to use FeedBurner over the standard WordPress feed e.g. http://feeds."
+"feedburner.com/yoururlhere"
+msgstr ""
+
+#: admin/theme-options.php:122
+msgid "Custom Head Codes"
+msgstr ""
+
+#: admin/theme-options.php:123
+msgid ""
+"Add your custom codes or scripts or meta tags, this will add before close "
+"head"
+msgstr ""
+
+#: admin/theme-options.php:131
+msgid "Custom Footer Codes"
+msgstr ""
+
+#: admin/theme-options.php:132
+msgid ""
+"Add your custom codes, analytics or scripts, this will add before close body"
+msgstr ""
+
+#: admin/theme-options.php:140
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-options.php:141
+msgid "add your custom css code here without style tag"
+msgstr ""
+
+#: admin/theme-options.php:148
+msgid "WP Pagenavi"
+msgstr ""
+
+#: admin/theme-options.php:149
+msgid "Adds a more advanced paging navigation to your WordPress blog."
+msgstr ""
+
+#: admin/theme-options.php:157
+msgid "Featured Image on Single post"
+msgstr ""
+
+#: admin/theme-options.php:158
+msgid ""
+"If you want also showing featured image top of the post in single post, "
+"please set this ON"
+msgstr ""
+
+#: admin/theme-options.php:166
+msgid "Post format icons"
+msgstr ""
+
+#: admin/theme-options.php:167
+msgid ""
+"if you dont like post format icons on post image hover, please set this to "
+"Off."
+msgstr ""
+
+#: admin/theme-options.php:175
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/theme-options.php:176
+msgid "Max number of words"
+msgstr ""
+
+#: admin/theme-options.php:185
+msgid "Read More button Text"
+msgstr ""
+
+#: admin/theme-options.php:186
+msgid "Example: Read More &#187; "
+msgstr ""
+
+#: admin/theme-options.php:194
+msgid "Author Box in Single Post"
+msgstr ""
+
+#: admin/theme-options.php:195
+msgid "Shows post author description, if it exists"
+msgstr ""
+
+#: admin/theme-options.php:203
+msgid "Default Posts Thumbnail Size"
+msgstr ""
+
+#: admin/theme-options.php:204
+msgid ""
+"This options will effective on posts list in blog style pages - category "
+"page - seach - author - tag and where have posts list"
+msgstr ""
+
+#: admin/theme-options.php:211
+msgid "Big Thumbnails"
+msgstr ""
+
+#: admin/theme-options.php:215
+msgid "Medium Thumbnails"
+msgstr ""
+
+#: admin/theme-options.php:222
+msgid "Related Posts"
+msgstr ""
+
+#: admin/theme-options.php:223
+msgid "Shows randomized related articles below the post in single post"
+msgstr ""
+
+#: admin/theme-options.php:230 admin/theme-options.php:263
+#: admin/theme-options.php:613
+msgid "Disable"
+msgstr ""
+
+#: admin/theme-options.php:234
+msgid "Related by categories"
+msgstr ""
+
+#: admin/theme-options.php:238
+msgid "Related by tags"
+msgstr ""
+
+#: admin/theme-options.php:245
+msgid "Related Posts Limit"
+msgstr ""
+
+#: admin/theme-options.php:246
+msgid "Max number of posts if has"
+msgstr ""
+
+#: admin/theme-options.php:255
+msgid "Share Post Buttons"
+msgstr ""
+
+#: admin/theme-options.php:256
+msgid "Shows social share buttons below the post in single post"
+msgstr ""
+
+#: admin/theme-options.php:267
+msgid "Display Share Buttons"
+msgstr ""
+
+#: admin/theme-options.php:274
+msgid "Hide Review"
+msgstr ""
+
+#: admin/theme-options.php:275
+msgid "if you dont need review system on your site please set it off"
+msgstr ""
+
+#: admin/theme-options.php:283
+msgid "Post view count"
+msgstr ""
+
+#: admin/theme-options.php:291
+msgid "Header Style"
+msgstr ""
+
+#: admin/theme-options.php:298
+msgid "Header 1"
+msgstr ""
+
+#: admin/theme-options.php:303
+msgid "Header 2"
+msgstr ""
+
+#: admin/theme-options.php:308
+msgid "Header 3"
+msgstr ""
+
+#: admin/theme-options.php:313
+msgid "Header 4"
+msgstr ""
+
+#: admin/theme-options.php:321
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/theme-options.php:322
+msgid "Upload your custom logo image"
+msgstr ""
+
+#: admin/theme-options.php:329
+msgid "Header Ads"
+msgstr ""
+
+#: admin/theme-options.php:330
+msgid "Upload your ads image or insert your ads image url"
+msgstr ""
+
+#: admin/theme-options.php:338
+msgid "Ads link address"
+msgstr ""
+
+#: admin/theme-options.php:347
+msgid "Ads Description - will show on mouse hover"
+msgstr ""
+
+#: admin/theme-options.php:354
+msgid "Or insert your Ads code"
+msgstr ""
+
+#: admin/theme-options.php:355
+msgid "Ads script or code"
+msgstr ""
+
+#: admin/theme-options.php:363
+msgid "News Bar"
+msgstr ""
+
+#: admin/theme-options.php:364
+msgid "Select Breaking News or Second Menu or Empty"
+msgstr ""
+
+#: admin/theme-options.php:371
+msgid "Breaking News"
+msgstr ""
+
+#: admin/theme-options.php:375
+msgid "Second Menu Navigation"
+msgstr ""
+
+#: admin/theme-options.php:379
+msgid "Empty"
+msgstr ""
+
+#: admin/theme-options.php:386
+msgid "Breaking News Category"
+msgstr ""
+
+#: admin/theme-options.php:394
+msgid "News Title Badge"
+msgstr ""
+
+#: admin/theme-options.php:395
+msgid "Example: News Trending"
+msgstr ""
+
+#: admin/theme-options.php:402
+msgid "Breaking News Numbers"
+msgstr ""
+
+#: admin/theme-options.php:403
+msgid "Number of Breaking News to display"
+msgstr ""
+
+#: admin/theme-options.php:412
+msgid "Breaking News Title Background color"
+msgstr ""
+
+#: admin/theme-options.php:420
+msgid "News Ticker Speed"
+msgstr ""
+
+#: admin/theme-options.php:421
+msgid "Speed of news ticker - default is 7"
+msgstr ""
+
+#: admin/theme-options.php:430
+msgid "Text after time"
+msgstr ""
+
+#: admin/theme-options.php:431
+msgid "Example: ago "
+msgstr ""
+
+#: admin/theme-options.php:439
+msgid "Search Form"
+msgstr ""
+
+#: admin/theme-options.php:440
+msgid "Search form on header"
+msgstr ""
+
+#: admin/theme-options.php:448
+msgid "Search Tooltip"
+msgstr ""
+
+#: admin/theme-options.php:449
+msgid "Tooltip fo search icon"
+msgstr ""
+
+#: admin/theme-options.php:457
+msgid "Search Placeholder"
+msgstr ""
+
+#: admin/theme-options.php:458
+msgid "Set placeholder for search form in header"
+msgstr ""
+
+#: admin/theme-options.php:466
+msgid "Search form Title"
+msgstr ""
+
+#: admin/theme-options.php:467
+msgid "Set title for search form overlay"
+msgstr ""
+
+#: admin/theme-options.php:474
+msgid "Random Post Button"
+msgstr ""
+
+#: admin/theme-options.php:475
+msgid "do you like display random post button in sub header"
+msgstr ""
+
+#: admin/theme-options.php:483
+msgid "Random Post Button Title"
+msgstr ""
+
+#: admin/theme-options.php:484
+msgid "This title showing on button hover"
+msgstr ""
+
+#: admin/theme-options.php:492
+msgid "Social Links"
+msgstr ""
+
+#: admin/theme-options.php:493
+msgid ""
+"Create and organize your social links. Icons List: <br /><br /> fa-facebook "
+"<br /> fa-twitter <br /> fa-rss <br /> fa-dribbble <br /> fa-github <br /> "
+"fa-instagram <br /> fa-linkedin <br /> fa-pinterest <br /> fa-google-plus "
+"<br /> fa-foursquare <br /> fa-skype <br /> fa-cloud <br /> fa-youtube <br /"
+"> fa-tumblr <br /> fa-star <br /> fa-flickr <br /> fa-envelope-o <br /> fa-"
+"home <br /> "
+msgstr ""
+
+#: admin/theme-options.php:500
+msgid "Icon Name"
+msgstr ""
+
+#: admin/theme-options.php:501
+msgid "Font Awesome icon names -->"
+msgstr ""
+
+#: admin/theme-options.php:508
+msgid "Link"
+msgstr ""
+
+#: admin/theme-options.php:509
+msgid "Enter the full url for your icon button"
+msgstr ""
+
+#: admin/theme-options.php:516
+msgid "Link Options"
+msgstr ""
+
+#: admin/theme-options.php:523
+msgid "Open in new window"
+msgstr ""
+
+#: admin/theme-options.php:532
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/theme-options.php:533
+msgid "Mobile and tablet optimizations [ <strong>responsive.css</strong> ]"
+msgstr ""
+
+#: admin/theme-options.php:541
+msgid "Fullwide or Boxed"
+msgstr ""
+
+#: admin/theme-options.php:542
+msgid "This option is effective on all pages"
+msgstr ""
+
+#: admin/theme-options.php:549
+msgid "Fullwide"
+msgstr ""
+
+#: admin/theme-options.php:553
+msgid "Boxed"
+msgstr ""
+
+#: admin/theme-options.php:557
+msgid "Boxed with margin"
+msgstr ""
+
+#: admin/theme-options.php:564
+msgid "Global Layout"
+msgstr ""
+
+#: admin/theme-options.php:565
+msgid ""
+"This option will set on all pages and posts, also you can create different "
+"layout with pagebuilder for any page you like."
+msgstr ""
+
+#: admin/theme-options.php:572 admin/theme-options.php:667
+#: admin/theme-options.php:1142
+msgid "Without Sidebar"
+msgstr ""
+
+#: admin/theme-options.php:605
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: admin/theme-options.php:606
+msgid "Select columns to enable footer widgets"
+msgstr ""
+
+#: admin/theme-options.php:618
+msgid "1 Column"
+msgstr ""
+
+#: admin/theme-options.php:623
+msgid "2 Columns"
+msgstr ""
+
+#: admin/theme-options.php:628
+msgid "3 Columns"
+msgstr ""
+
+#: admin/theme-options.php:633
+msgid "4 Columns"
+msgstr ""
+
+#: admin/theme-options.php:641
+msgid "Subfooter"
+msgstr ""
+
+#: admin/theme-options.php:642
+msgid "Do you like display Subfooter?"
+msgstr ""
+
+#: admin/theme-options.php:650
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-options.php:651
+msgid ""
+"Set copyright text for subfooter like: Copyright 2014 by Theme20. All Rights "
+"Reserved. Powered by Wordpress"
+msgstr ""
+
+#: admin/theme-options.php:659
+msgid "bbpress Layout"
+msgstr ""
+
+#: admin/theme-options.php:660
+msgid "This option will set on all pages of bbpress forums"
+msgstr ""
+
+#: admin/theme-options.php:714
+msgid "Create Unlimited Sidebars"
+msgstr ""
+
+#: admin/theme-options.php:715
+msgid ""
+"You must save changes for the new areas to appear below. <br /><i>Warning: "
+"Make sure each area has a unique ID.</i>"
+msgstr ""
+
+#: admin/theme-options.php:722
+msgid "Sidebar ID"
+msgstr ""
+
+#: admin/theme-options.php:723
+msgid "This ID must be unique, for example \"sidebar-about\""
+msgstr ""
+
+#: admin/theme-options.php:733
+msgid "Dark Version"
+msgstr ""
+
+#: admin/theme-options.php:734
+msgid "-"
+msgstr ""
+
+#: admin/theme-options.php:742
+msgid "Dynamic Styles"
+msgstr ""
+
+#: admin/theme-options.php:743
+msgid "Turn on to use the styling options below"
+msgstr ""
+
+#: admin/theme-options.php:751
+msgid "Body Font"
+msgstr ""
+
+#: admin/theme-options.php:752 admin/theme-options.php:759
+#: admin/theme-options.php:766
+msgid ""
+"Just paste your google font name example: Raleway you can see all fonts here "
+"https://www.google.com/fonts"
+msgstr ""
+
+#: admin/theme-options.php:758
+msgid "Menu Navigation Font"
+msgstr ""
+
+#: admin/theme-options.php:765
+msgid "H1 to H6 Font"
+msgstr ""
+
+#: admin/theme-options.php:773
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: admin/theme-options.php:781
+msgid "Top Border Color of Blocks"
+msgstr ""
+
+#: admin/theme-options.php:789
+msgid "Top Border Color of Widgets"
+msgstr ""
+
+#: admin/theme-options.php:797
+msgid "Navigation Hover/Active Style"
+msgstr ""
+
+#: admin/theme-options.php:798
+msgid ""
+"This option is effective on parent links in navigation when it is active or "
+"hover"
+msgstr ""
+
+#: admin/theme-options.php:805
+msgid "Hover with border"
+msgstr ""
+
+#: admin/theme-options.php:809
+msgid "Hover without border"
+msgstr ""
+
+#: admin/theme-options.php:813
+msgid "Hover with background"
+msgstr ""
+
+#: admin/theme-options.php:819
+msgid "Navigation Border Radius"
+msgstr ""
+
+#: admin/theme-options.php:820
+msgid "Default is 20"
+msgstr ""
+
+#: admin/theme-options.php:829
+msgid "Body Background"
+msgstr ""
+
+#: admin/theme-options.php:836
+msgid "Blocks and Widgets Title Pattern"
+msgstr ""
+
+#: admin/theme-options.php:837
+msgid "This pattern will added after title with repeat"
+msgstr ""
+
+#: admin/theme-options.php:844
+msgid "Blocks and Widgets Title Pattern on Footer"
+msgstr ""
+
+#: admin/theme-options.php:845
+msgid ""
+"This pattern will added after title with repeat for blocks and widgets in "
+"footer"
+msgstr ""
+
+#: admin/theme-options.php:852
+msgid "Featured image post hover background color"
+msgstr ""
+
+#: admin/theme-options.php:860
+msgid "Tooltip Tipsy color"
+msgstr ""
+
+#: admin/theme-options.php:868
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/theme-options.php:869
+msgid "Display Back To Top Button"
+msgstr ""
+
+#: admin/theme-options.php:877
+msgid "Translation Important Strings"
+msgstr ""
+
+#: admin/theme-options.php:878
+msgid ""
+" Important Note:  This options just is a little part of theme translation. "
+"For full control on all strings for translation you should using .po file "
+"with PoEdit software or WPML string translation plugin."
+msgstr ""
+
+#: admin/theme-options.php:879
+msgid "Error 404 !"
+msgstr ""
+
+#: admin/theme-options.php:886
+msgid "Error page title"
+msgstr ""
+
+#: admin/theme-options.php:887
+msgid "Page not found!"
+msgstr ""
+
+#: admin/theme-options.php:894
+msgid "404 Error page full message"
+msgstr ""
+
+#: admin/theme-options.php:895
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+
+#: admin/theme-options.php:902
+msgid "Posts page error message"
+msgstr ""
+
+#: admin/theme-options.php:903
+msgid "No posts - Sorry"
+msgstr ""
+
+#: admin/theme-options.php:910
+msgid "Search page details message"
+msgstr ""
+
+#: admin/theme-options.php:911
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: admin/theme-options.php:918
+msgid "Archive page latest posts title"
+msgstr ""
+
+#: admin/theme-options.php:919
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/theme-options.php:926
+msgid "Archive page popular tags title"
+msgstr ""
+
+#: admin/theme-options.php:927
+msgid "Popular Tags"
+msgstr ""
+
+#: admin/theme-options.php:934
+msgid "Archive page categories title"
+msgstr ""
+
+#: admin/theme-options.php:935
+msgid "Categories"
+msgstr ""
+
+#: admin/theme-options.php:942
+msgid "Archive page monthly archives title"
+msgstr ""
+
+#: admin/theme-options.php:943
+msgid "Monthly Archives"
+msgstr ""
+
+#: admin/theme-options.php:950
+msgid "Archive page pages title"
+msgstr ""
+
+#: admin/theme-options.php:951
+msgid "Pages"
+msgstr ""
+
+#: admin/theme-options.php:958
+msgid "Search Button"
+msgstr ""
+
+#: admin/theme-options.php:959
+msgid "Search"
+msgstr ""
+
+#: admin/theme-options.php:966
+msgid "Search page title"
+msgstr ""
+
+#: admin/theme-options.php:967
+msgid "Search results for:"
+msgstr ""
+
+#: admin/theme-options.php:974
+msgid "Default wp navigation newer posts title"
+msgstr ""
+
+#: admin/theme-options.php:975
+msgid "&raquo; Newer Posts"
+msgstr ""
+
+#: admin/theme-options.php:982
+msgid "Default wp navigation older posts title"
+msgstr ""
+
+#: admin/theme-options.php:983
+msgid "&laquo; Older Posts"
+msgstr ""
+
+#: admin/theme-options.php:990
+msgid "Pages Navigation. Just change Page and of"
+msgstr ""
+
+#: admin/theme-options.php:991
+msgid "Page"
+msgstr ""
+
+#: admin/theme-options.php:991
+msgid "of"
+msgstr ""
+
+#: admin/theme-options.php:998
+msgid "Pages nav first"
+msgstr ""
+
+#: admin/theme-options.php:999
+msgid "&laquo; First"
+msgstr ""
+
+#: admin/theme-options.php:1006
+msgid "Pages nav last"
+msgstr ""
+
+#: admin/theme-options.php:1007
+msgid "Last &raquo;"
+msgstr ""
+
+#: admin/theme-options.php:1014
+msgid "Single previous post"
+msgstr ""
+
+#: admin/theme-options.php:1015
+msgid "Previous"
+msgstr ""
+
+#: admin/theme-options.php:1022
+msgid "Single next post"
+msgstr ""
+
+#: admin/theme-options.php:1023
+msgid "Next"
+msgstr ""
+
+#: admin/theme-options.php:1030
+msgid "Single post tags"
+msgstr ""
+
+#: admin/theme-options.php:1031
+msgid "Tags"
+msgstr ""
+
+#: admin/theme-options.php:1038
+msgid "Single post more pages"
+msgstr ""
+
+#: admin/theme-options.php:1039
+msgid "Pages:"
+msgstr ""
+
+#: admin/theme-options.php:1046
+msgid "Single post about author title"
+msgstr ""
+
+#: admin/theme-options.php:1047
+msgid "About:"
+msgstr ""
+
+#: admin/theme-options.php:1054
+msgid "Single post related title"
+msgstr ""
+
+#: admin/theme-options.php:1055
+msgid "You may also like..."
+msgstr ""
+
+#: admin/theme-options.php:1062
+msgid "Author posts page title"
+msgstr ""
+
+#: admin/theme-options.php:1063
+msgid "Posts by:"
+msgstr ""
+
+#: admin/theme-options.php:1070
+msgid "Categories page title"
+msgstr ""
+
+#: admin/theme-options.php:1071
+msgid "All posts under:"
+msgstr ""
+
+#: admin/theme-options.php:1078
+msgid "Tag page title"
+msgstr ""
+
+#: admin/theme-options.php:1079
+msgid "Tagged:"
+msgstr ""
+
+#: admin/theme-options.php:1086
+msgid "Archive by day page title"
+msgstr ""
+
+#: admin/theme-options.php:1087
+msgid "Daily Archive:"
+msgstr ""
+
+#: admin/theme-options.php:1094
+msgid "Archive by month page title"
+msgstr ""
+
+#: admin/theme-options.php:1095
+msgid "Monthly Archive:"
+msgstr ""
+
+#: admin/theme-options.php:1102
+msgid "Archive by year page title"
+msgstr ""
+
+#: admin/theme-options.php:1103
+msgid "Yearly Archive:"
+msgstr ""
+
+#: admin/theme-options.php:1110
+msgid "Comments - One thought on"
+msgstr ""
+
+#: admin/theme-options.php:1111
+msgid "One thought on"
+msgstr ""
+
+#: admin/theme-options.php:1118
+msgid "Comments - thoughts on"
+msgstr ""
+
+#: admin/theme-options.php:1119
+msgid "thoughts on"
+msgstr ""
+
+#: admin/theme-options.php:1126
+msgid "Comments - closed message"
+msgstr ""
+
+#: admin/theme-options.php:1127
+msgid " Sorry - Comments are closed"
+msgstr ""
+
+#: admin/theme-options.php:1134
+msgid "Woocommerce default layout"
+msgstr ""
+
+#: admin/theme-options.php:1135
+msgid ""
+"This option will set on default woocommerce shop pages and not all. other "
+"pages you can set from edit Pages"
+msgstr ""

@@ -1,0 +1,1118 @@
+# Translation of the WordPress theme MineZine 1.0 by Tomas Toman.
+# This file is distributed under the same license as the MineZine package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MineZine v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-02 16:58+0100\n"
+"PO-Revision-Date: 2014-08-31 08:43+0100\n"
+"Last-Translator: andew <andew@andew.ru>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+
+# @ minezine
+#: 404.php:9 search.php:40
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ minezine
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"К сожалению ничего не найдено по Вашему запросу. Попробуйте воспользоваться "
+"поиском."
+
+# @ minezine
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Дневной архив: %s"
+
+# @ minezine
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Месячный архив: %s"
+
+# @ minezine
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Годовой архив: %s"
+
+# @ minezine
+#: archive.php:17
+msgid "Archive"
+msgstr "Архив"
+
+# @ minezine
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Архив автора: %s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:157 functions.php:417
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:158 functions.php:421
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Что то пошло не так."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Вернуться к панели инструментов"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был активирован успешно:"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Личное Хранилище"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress репозитория"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Необходимый"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Рекомендованный"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Не установленный"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Установленный но не активированный"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для инсталляции или активации. <a href=\"%1$s\" title="
+"\"Вернуться к панели инструментов\">Вернуться к панели инструментов</a>"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Плагин"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Источник"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Тип"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Статус"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Установить"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Активировать"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Установочный пакет не доступен."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка установочного пакета с <span class=\"code\">%s</span>&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Неудачная установка плагина."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Неудачная активация плагина."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начался. Этот процесс может занять некоторое "
+"время, поэтому, пожалуйста, будьте терпеливы."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Показать детали"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс инсталляции запущен. Этот процесс может занять некоторое время, "
+"пожалуйста, будьте терпеливы."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели инструментов."
+
+# @ minezine
+#: comments.php:21 content-archives.php:22 single.php:19
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-grid.php:108
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Комментарий"
+msgstr[1] "%1$s Комментарии"
+
+# @ minezine
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; старые комментарии"
+
+# @ minezine
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Новые Комментарии &rarr;"
+
+# @ minezine
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ minezine
+#: comments.php:42
+msgid "Your name"
+msgstr "Ваше имя"
+
+# @ minezine
+#: comments.php:43
+msgid "Website"
+msgstr "Веб сайт"
+
+# @ minezine
+#: comments.php:44
+msgid "Comment..."
+msgstr "Комментарий..."
+
+# @ minezine
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+# @ minezine
+#: content-archives.php:19 single.php:16
+msgid "Author: "
+msgstr "автор: "
+
+# @ minezine
+#: functions.php:122
+msgid "Main Header Menu"
+msgstr "Основное меню шапки"
+
+#: functions.php:123
+msgid "Top Header Menu"
+msgstr "Верхнее меню шапки"
+
+# @ minezine
+#: functions.php:135
+msgid "Right Sidebar"
+msgstr "Правый Sidebar"
+
+# @ minezine
+#: functions.php:137
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Правый Sidebar с отображением всех записей и страниц."
+
+# @ minezine
+#: functions.php:144
+msgid "Footer left widget area"
+msgstr "Футера левая область"
+
+# @ minezine
+#: functions.php:146
+msgid "Left column with widgets in footer."
+msgstr "Виджет - левый столбец футера."
+
+# @ minezine
+#: functions.php:153
+msgid "Footer middle widget area"
+msgstr "Футера средняя область"
+
+# @ minezine
+#: functions.php:155
+msgid "Middle column with widgets in footer."
+msgstr "Виджет - средний столбец футера"
+
+# @ minezine
+#: functions.php:162
+msgid "Footer right widget area"
+msgstr "Футера правая область"
+
+# @ minezine
+#: functions.php:164
+msgid "Right column with widgets in footer."
+msgstr "Виджет - правый столбец футера."
+
+# @ minezine
+#: functions.php:171
+msgid "Footer notices"
+msgstr "Футера заметок область"
+
+# @ minezine
+#: functions.php:173
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Место для авторского права и других уведомлений в нижней области виджета "
+"колонтитула. Вставьте здесь один текстовый виджет. Поле название для этого "
+"виджета нужно оставить пустым."
+
+# @ minezine
+#: functions.php:180
+msgid "Latest Posts Homepage widget area"
+msgstr "Последние записи домашней страницы"
+
+# @ minezine
+#: functions.php:182
+msgid ""
+"The area for any MineZine Posts Widgets, which displays latest posts from a "
+"specific category below the default Latest Posts area."
+msgstr ""
+"Место для любых виджетов с записями, которые отображают последние сообщения "
+"из определенной категории. Расположено в записи под областью вывода "
+"последних сообщений."
+
+#: functions.php:189
+msgid "Homepage slideshow"
+msgstr "Слайдшоу на главной"
+
+#: functions.php:191
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Место для Cyclone Slider Widget, который осуществляет показ слайдов на Вашей "
+"главной странице."
+
+# @ minezine
+#: functions.php:210
+msgid "Read more"
+msgstr "ДАЛЕЕ"
+
+# @ minezine
+#: functions.php:240
+msgid "Post navigation"
+msgstr "Навигация записи"
+
+# @ minezine
+#: functions.php:248 search.php:28
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая"
+
+# @ minezine
+#: functions.php:249 search.php:29
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+# @ minezine
+#: functions.php:271
+msgid "&larr; Previous post"
+msgstr "&larr; Предыдущая запись"
+
+# @ minezine
+#: functions.php:273
+msgid "Next post &rarr;"
+msgstr "Следующая запись &rarr;"
+
+# @ minezine
+#: functions.php:291
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ minezine
+#: functions.php:291
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+# @ minezine
+#: functions.php:304
+msgid "(Post author)"
+msgstr "(Автор записи)"
+
+# @ minezine
+#: functions.php:310
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ minezine
+#: functions.php:316
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ minezine
+#: functions.php:322
+msgid "Reply"
+msgstr "Ответить"
+
+# @ minezine
+#: functions.php:324 page.php:16 single.php:30
+#: template-full-width-without-sharing.php:17 template-full-width.php:17
+#: template-landing-page.php:16 template-sitemap.php:18
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Edit"
+msgstr "Изменить"
+
+# @ minezine
+#: functions.php:416
+msgid "Install Recommended Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ minezine
+#: functions.php:418
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s плагин необходим для этой темы. Нажмите на большую голубую кнопку ниже "
+"для инсталляции и активации плагина. %1$s."
+
+# @ minezine
+#: functions.php:419
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s установлен но не активирован. Перейдите <a href=\"%2$s\">страница "
+"управления плагином</a> для его активации."
+
+# @ minezine
+#: functions.php:420
+#, php-format
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+# @ minezine
+#: functions.php:422
+msgid "Something went wrong with the plugin API."
+msgstr "Что пошло не так с API плагина."
+
+# @ minezine
+#: functions.php:423
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Для этой темы необходим %1$s плагин. <a href=\"%2$s\"><strong>Нажмите здесь "
+"для начала процесс установки</strong></a>. От вас могут потребоваться "
+"учетные записи FTP от вашего сервера."
+
+# @ minezine
+#: functions.php:424
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Извините, но вы не имеете текущих полномочий устанавливать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в установке этого "
+"плагина."
+
+# @ minezine
+#: functions.php:425
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Для этой темы необходим %1$s плагин. Этот плагин сейчас неактивен, перейдите "
+"на <a href=\"%2$s\">страницу управления плагинами</a> для активации "
+"требуемого плагина."
+
+# @ minezine
+#: functions.php:426
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Извините, но Вы не имеете текущих полномочий активировать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в активации этого "
+"плагина."
+
+# @ minezine
+#: functions.php:427
+msgid "Return to Recommended Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ minezine
+#: functions.php:438
+msgid "MineZine"
+msgstr "MineZine"
+
+# @ minezine
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+# @ minezine
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Номера записей: "
+
+# @ minezine
+#: search.php:20
+msgid "Search results navigation"
+msgstr "Навигация по результатам поиска"
+
+# @ minezine
+#: search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствуют критериям поиска. Пожалуйста, "
+"попробуйте еще раз с использованием других ключевых слов."
+
+# @ minezine
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Искать здесь..."
+
+# @ minezine
+#: single.php:29
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ minezine
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Архив тегов: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Просмотреть увеличенное изображение"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Узнать подробнее"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Тип Презентация не поддерживается."
+
+# @ minezine
+#: functions/be/fw-options.php:1328
+msgid "settings reset."
+msgstr "сброса настроек."
+
+# @ minezine
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Не найдено расположение для введенного адреса."
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Неверный запрос. Вы ввели адрес?"
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Что-то пошло не так при получении Вашей карты, пожалуйста, убедитесь, что вы "
+"правильно ввели короткий код."
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Невозможно связаться со службой API Google."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Отображает Facebook как Box."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:14
+msgid "MineZine Facebook Like Box Widget"
+msgstr "MineZine Facebook как Box Widget"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:67
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Facebook Page URL:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Вставьте здесь полный адрес вашей странице Facebook  (пример: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Like Box Высота: (необязательно)"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Сюда вставляем высоту для Like Box. Значение в пикселях, но и в области "
+"пишите только цифры (без символа \\ \\\"PX \")!"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Показать Лица:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Укажите, следует ли отображать фотографии людей, которым нравиться страница."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Показывать направления:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Укажите, следует ли отображать направления последних сообщений на странице."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Отображает окно с Вашими текстом и значок."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:14
+msgid "MineZine Info-Box"
+msgstr "MineZine Info-Box"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Иконка:"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:44
+msgid "Basket"
+msgstr "Корзина"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:45
+msgid "Book"
+msgstr "Книга"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:46
+msgid "Calendar"
+msgstr "Календарь"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:47
+msgid "Comments"
+msgstr "Комментарии"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:48
+msgid "Download"
+msgstr "Скачать"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:49
+msgid "Envelope"
+msgstr "Конверт"
+
+#: functions/fe/widget-info-box.php:50
+msgid "Globe"
+msgstr "глобус"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:51
+msgid "Heart"
+msgstr "Сердце"
+
+#: functions/fe/widget-info-box.php:52
+msgid "Home"
+msgstr "домой"
+
+#: functions/fe/widget-info-box.php:53
+msgid "Notepad"
+msgstr "блокнот"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:54
+msgid "Pin"
+msgstr "штифт"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:55
+msgid "Star"
+msgstr "Звезда"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:56
+msgid "Tick"
+msgstr "Отметка"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:57
+msgid "User"
+msgstr "Пользователь"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:58
+msgid "none"
+msgstr "ни один"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:61
+msgid "Select an icon which will be displayed beside the title."
+msgstr "Выберите значок, который будет отображаться в заголовке окна."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:74
+msgid "Text:"
+msgstr "Текст:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как колонка с выделением "
+"первой записи."
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:14
+msgid "MineZine Posts-Column"
+msgstr "MineZine Posts-Column"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Рубрика:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Выберите рубрику записей."
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Номера записей:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Здесь следует вставить номера последних записей из выбранной рубрики, "
+"которые вы хотите показать."
+
+# @ minezine
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Отображает последние записи из выбранной категории."
+
+# @ minezine
+#: functions/fe/widget-posts-default.php:14
+msgid "MineZine Posts-Default"
+msgstr "MineZine Posts-Default"
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Отображает последние записи из выбранной категории как таблицу."
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:14
+msgid "MineZine Posts-Grid"
+msgstr "MineZine Posts-Grid"
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:111
+msgid "Read more &gt;"
+msgstr "ДАЛЕЕ &gt;"
+
+# @ minezine
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как список с выделением "
+"первой записи."
+
+# @ minezine
+#: functions/fe/widget-posts-list.php:14
+msgid "MineZine Posts-List"
+msgstr "MineZine Posts-List"
+
+# @ minezine
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Отображает последние записи из выбранной категории как слайдер."
+
+# @ minezine
+#: functions/fe/widget-posts-slider.php:14
+msgid "MineZine Posts-Slider"
+msgstr "MineZine Posts-Slider"
+
+# @ minezine
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Отображает последние записи из выбранной категории как эскизы."
+
+# @ minezine
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "MineZine Posts-Thumbnail"
+msgstr "MineZine Posts-Thumbnail"
+
+# @ minezine
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by MineZine"
+msgstr "Соц сети виджет от MineZine."
+
+# @ minezine
+#: functions/fe/widget-social.php:14
+msgid "MineZine Social Widget"
+msgstr "MineZine Social Widget"
+
+# @ minezine
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ minezine
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Вставьте полный URL Вашей Twitter страницы."
+
+# @ minezine
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ minezine
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Вставьте полный URL Ваших Facebook страницы или группы."
+
+# @ minezine
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ minezine
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+"Вставьте URL Вашей RSS ленты. Вы можете включить Вашу RSS ленту от "
+"Feedburner."
+
+# @ minezine
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+# @ minezine
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Вставьте полный URL Вашей Google Plus страницы"
+
+# @ minezine
+#: functions/fe/widget-social.php:133
+msgid "You Tube:"
+msgstr "You Tube:"
+
+# @ minezine
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Вставьте полный URL Вашей You Tube страницы."
+
+# @ minezine
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ minezine
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Вставьте полный URL Вашей Linkedin страницы."
+
+# @ minezine
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+# @ minezine
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Вставьте полный URL Вашей Delicious  страницы."
+
+# @ minezine
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ minezine
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Вставьте полный URL Вашей Pinterest страницы."
+
+# @ minezine
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ minezine
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Вставьте полный URL Вашей Flickr страницы."
+
+# @ minezine
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by MineZine"
+msgstr "Twitter виджет от MineZine"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:15
+msgid "MineZine Twitter Widget"
+msgstr "MineZine Twitter Widget"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Присоединяйтесь к нам на Twitter"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Twitter Имя пользователя:"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: minezine)."
+msgstr "Вставьте Ваше Twitter имя пользователя. (пр: minezine)."
+
+#: template-logged-in.php:29
+msgid "You must be logged in to view this page."
+msgstr "Вы должны войти в систему для просмотра этой страницы."

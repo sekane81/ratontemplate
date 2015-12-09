@@ -1,0 +1,247 @@
+/*
+Theme Name: MineZine
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+*/
+
+p, ul, ol, li, dl, address {
+  text-align: right;
+}
+ul {
+  margin-left: 0;
+  margin-right: 16px;   
+}
+ol {
+	margin-left: 0;
+  margin-right: 20px;
+}
+table, td, th {
+  text-align: right;
+}
+blockquote, q { 
+  border-left: none;
+  border-right: 1px solid #e3e3e3;
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+
+/* basic structure
+-------------------------------------------------------------- */
+
+#content {
+  float: right;         
+}
+#sidebar {
+  float: left;
+  margin-left: 0;
+  margin-right: 28px;         
+}
+.scroll-top {
+  left: 10px;
+  right: auto;           
+}
+
+
+/* menus
+-------------------------------------------------------------- */
+
+.menu-box .link-home {
+  border-right: 1px solid #535353 !important;
+  float: right;                 
+}
+.menu-box ul {
+  text-align: right;
+}
+.menu-box ul li {
+  float: right;
+}
+.menu-box a,
+.menu-box a:visited {
+  border-left: 1px solid #535353;
+  border-right: none;
+  float: right;
+}
+#header .menu-box ul ul a,
+#header .menu-box ul ul a:visited {
+  border-left: none;
+  padding: 0 19px 0 0;
+  text-align: right;
+}
+.menu-box ul ul {
+  left: auto;
+  right: 0;
+}
+.menu-box ul ul ul {
+  left: auto;
+  right: 212px;
+} 
+.top-navigation ul {
+  border-left: none;
+  border-right: 1px solid #e6e6e6;
+  float: right;
+  z-index: 100;
+}
+.top-navigation ul li {
+  float: right; 
+}
+.top-navigation a,
+.top-navigation a:visited {
+  border-left: 1px solid #e6e6e6;
+  border-right: none;
+  float: right;
+}
+#wrapper #header .top-navigation ul ul a,
+#wrapper #header .top-navigation ul ul a:visited { 
+  padding: 0 16px 0 0;
+  text-align: right;
+}
+.top-navigation ul ul {
+  border-right: none;
+  left: auto;
+  right: 0;
+}
+.top-navigation ul ul ul {
+  left: auto;
+  right: 250px;
+}
+.header-icons {
+  border-left: none;
+  border-right: 1px solid #e6e6e6;
+  left: 28px;
+  right: auto;              
+}
+.social-icon {
+  float: right;           
+}
+
+
+/* main content
+-------------------------------------------------------------- */
+
+.entry-headline-text {
+  padding-left: 15px;   
+  padding-right: 0;                  
+}
+.post-info .post-info-category,
+.post-info .post-info-tags {
+  background-position: right top;             
+}
+.post-info span { 
+  padding: 0 22px 0 0;
+}
+#main-content .post-info .post-category,
+#main-content .post-info .post-tags {
+  float: right;                      
+}
+#main-content .post-info .post-tags {
+  padding-left: 0;
+  padding-right: 5%;
+  text-align: left;                           
+}
+#main-content .nav-previous {
+  float: right;                            
+}
+#main-content .nav-next {
+  float: left;
+  text-align: left;                            
+}
+
+/* default post entry */
+.attachment-post-thumbnail { 
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+
+/* sidebar
+-------------------------------------------------------------- */
+
+.sidebar-headline-text {
+  padding-left: 10px; 
+  padding-right: 0;                    
+}
+.sidebar-widget ul li {
+  background: right top no-repeat url(images/sidebar-li-rtl.png);
+  padding-left: 0;
+  padding-right: 14px;                       
+} 
+
+
+/* footer
+-------------------------------------------------------------- */  
+
+.footer-widget-area {
+  float: right;
+  margin-left: 28px;
+  margin-right: 0;               
+}
+#footer .footer-widget-area-3 {
+  margin-left: 0;                              
+} 
+.footer-headline-text {
+  padding-left: 10px; 
+  padding-right: 0;                     
+}
+
+
+/* default widgets
+-------------------------------------------------------------- */
+
+#wp-calendar #prev {
+  text-align: right;                   
+}
+#wp-calendar #next {
+  text-align: left;                   
+}
+
+
+/* form fields
+-------------------------------------------------------------- */
+
+#searchform .searchform-wrapper #s {
+  padding: 5px 3% 5px 0;
+  left: auto;
+  right: 0;              
+}
+#searchform .searchform-wrapper .send {
+  left: 0;
+  right: auto;
+}
+.header-content #searchform .searchform-wrapper {
+  left: 28px;
+  right: auto;      
+}
+
+
+/* comments area
+-------------------------------------------------------------- */
+
+#comments ol {
+  margin-left: auto;
+  margin-right: 0;             
+}
+#comments .avatar,
+#comments .fn {
+  float: right;
+  margin: 0 0 0 6px
+}
+#comments time,
+#comments .edit-link {
+  float: left;             
+}
+
+
+/* media queries
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 1012px) { 
+  #wrapper .header-icons {
+    left: 5%;
+    right: auto;             
+}
+  .js .selectnav {
+    float: right;
+    margin: 7px 5% 0 0;
+}
+}

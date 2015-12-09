@@ -1,0 +1,99 @@
+﻿/*
+Theme Name: Flagman - Retina Responsive News Wordpress Theme
+Theme URI: http://demo.color-theme.com/eltorn
+Description: Flagman is Responsive, Retina Ready, WordPress theme Flagman for your Blog/News.
+Author: Zerge
+Author URI: http://themeforest.net/user/Zerge
+Version: 1.0
+License: 
+License URI: 
+Tags: light, two-columns, fixed-width, custom-background, threaded-comments
+*/
+
+.clearfix:after {
+ content: ".";
+ display: block;
+ height: 0;
+ clear: both;
+ visibility: hidden;
+}
+
+.wp-media-buttons { padding: 0 !important }	
+
+.clear { clear: both; }
+
+.upload-box  {
+	background-color: #fbfbfb;
+	border: 3px solid;
+	border-color: #E2EAED;
+	margin-bottom: 20px;
+	float:left;
+	padding: 0 20px 20px 20px;
+}
+
+.upload_image_button, .button-save {
+	border: 1px solid #E2EAED;
+	padding: 4px;
+	color: #333;
+	cursor: pointer;
+	border-radius: 3px;
+	background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3;
+				-webkit-transition: all 0.3s linear;
+			-moz-transition: all 0.3s linear;
+			-o-transition: all 0.3s linear;
+			-transition: all 0.3s linear;		
+	
+}
+.upload_image_button:hover, .button-save:hover {
+border-color: #bbb;	
+}
+
+.hidden-field {
+	display: none;
+}
+#meta-options {
+	background-color: #FBFBFB;
+	border: 1px solid #E2EAED;
+}
+#meta-options span {
+	color: #333;
+    font-family: sans-serif;
+    font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+    margin: 10px 0 5px;
+    padding: 5px 0;
+	display: block;	
+
+}
+#meta-options select, .hidden-field input[type=text], .showed-field input[type=text], .upload-box input[type=text] {
+	margin-bottom: 10px !important;
+	background-color: #fafafa;
+	border: 3px solid;
+	border-color: #E2EAED !important;
+	width: 330px;
+	font-family: sans-serif;
+	font-size: 11px;
+	color: #586970;	
+	height: 28px;
+	padding: 2px 5px;
+	width: 260px;
+}
+.hidden-field input[type=text], .showed-field input[type=text], .upload-box input[type=text] {
+	width: 360px
+}
+
+.info_box {
+	border: 3px solid #E2EAED; 
+	background-color: #e2febd; 
+	padding: 15px; 
+	margin: 20px 0;
+	width:427px; 
+	min-height:20px; 
+	display:block; 
+	float:left;
+}
+
+.info_box.infobox_post_format {
+	background-color: #e2febd
+}

@@ -1,0 +1,933 @@
+# Translation of the WordPress theme MineZine 1.3 by Tomas Toman.
+# This file is distributed under the same license as the MineZine package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2015.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MineZine 1.0\n"
+"POT-Creation-Date: 2014-06-02 16:58+0100\n"
+"PO-Revision-Date: 2015-08-21 09:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: Michel Taumaturgo Rocha <microcha@bol.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:9 search.php:40
+msgid "Nothing Found"
+msgstr "Nada foi encontrado"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Desculpe-nos, mas nenhum resultado foi encontrado para a sua pesquisa. "
+"Travez ajude buscar algum conteúdo relacionado."
+
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Arquivo Diário: %s"
+
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Arquivo Mensal: %s"
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Aquivo Anual: %s"
+
+#: archive.php:17
+msgid "Archive"
+msgstr "Arquivo"
+
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Arquivo do Autor: %s"
+
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Instalação de plugins requeridos"
+
+#: class-tgm-plugin-activation.php:157 functions.php:417
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: class-tgm-plugin-activation.php:158 functions.php:421
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalar Plugin: %s"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Algo deu errado."
+
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Retornar a instalação de plugins necessários"
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Voltar a área de trabalho"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado correctamente."
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plugin foi ativado com sucesso:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugin instalados e ativados correctamente. %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Ignorar esse aviso"
+
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Link externo"
+
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Repositório Privado"
+
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-empacotado"
+
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repositório WordPress"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Necessário"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Não há plugins para instalar ou ativar. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Voltar ao desktop</a>"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Fonte"
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Tipo"
+
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Estado"
+
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instalar"
+
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Ativar"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "O pacote não está disponível."
+
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Download e instalação do pacote de <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Abrir o pacote&#8230;"
+
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalar o plugin&#8230;"
+
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Intalação do plugin falhou."
+
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado corretamente."
+
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Ativação do plugin falhou."
+
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Processo de instalação e ativação iniciado. Esse processo pode levar algum "
+"tempo, por favor seja paciente."
+
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s Instalado e ativado corretamente."
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações estão compeltas."
+
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação está começando. Espe processo pode levar algum "
+"tempo, por favor seja paciente."
+
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro durante a instalação %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado corretamente."
+
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Todas as instalações estão completas."
+
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Voltar ao desktop"
+
+#: comments.php:21 content-archives.php:22 single.php:19
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-grid.php:108
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Comentário"
+msgstr[1] "%1$s Comentários"
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários Antigos"
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Novos Comentários &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Comentários encerrados."
+
+#: comments.php:42
+msgid "Your name"
+msgstr "Seu nome"
+
+#: comments.php:43
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:44
+msgid "Comment..."
+msgstr "Comentário..."
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Deixar um comentário"
+
+#: content-archives.php:19 single.php:16
+msgid "Author: "
+msgstr "Autor: "
+
+#: functions.php:122
+msgid "Main Header Menu"
+msgstr "Menu Principal do Cabeçário"
+
+#: functions.php:123
+msgid "Top Header Menu"
+msgstr "Menu do topo"
+
+#: functions.php:135
+msgid "Right Sidebar"
+msgstr "Barra lateral principal"
+
+#: functions.php:137
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Barra lateral direita que aparece nos posts e páginas."
+
+#: functions.php:144
+msgid "Footer left widget area"
+msgstr "Área Widget esquerda do rodapé"
+
+#: functions.php:146
+msgid "Left column with widgets in footer."
+msgstr "Coluna esquerda com widgets no rodapé."
+
+#: functions.php:153
+msgid "Footer middle widget area"
+msgstr "Área de Widget central do rodapé"
+
+#: functions.php:155
+msgid "Middle column with widgets in footer."
+msgstr "Coluna central com widget no rodapé."
+
+#: functions.php:162
+msgid "Footer right widget area"
+msgstr "Área de widget direita do rodapé."
+
+#: functions.php:164
+msgid "Right column with widgets in footer."
+msgstr "Widgets columna derecha pie de página."
+
+#: functions.php:171
+msgid "Footer notices"
+msgstr "Avisos de rodapé"
+
+#: functions.php:173
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Linha para copyright ou outros avisos abaixo dos widgets de rodapé. Insira "
+"aqui um widget de texto. O campo \"Título\"  deve permanecer vazio."
+
+#: functions.php:180
+msgid "Latest Posts Homepage widget area"
+msgstr "Últimas atualizações Homepage área de widget"
+
+#: functions.php:182
+msgid ""
+"The area for any MineZine Posts Widgets, which displays latest posts from a "
+"specific category below the default Latest Posts area."
+msgstr ""
+"Área para qualquer MineZine Posts Widgets, que mostram as últimas "
+"publicações de uma categoria acima da área padrão das últimas publicações."
+
+#: functions.php:189
+msgid "Homepage slideshow"
+msgstr "Slideshow Página Inicio"
+
+#: functions.php:191
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Área para Cyclone Slider Widget que mostra um slideshow na página de início."
+
+#: functions.php:210
+msgid "Read more"
+msgstr "Leia mais..."
+
+#: functions.php:240
+msgid "Post navigation"
+msgstr "Navegar pelas publicações"
+
+#: functions.php:248 search.php:28
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: functions.php:249 search.php:29
+msgid "Next &rarr;"
+msgstr "Seguinte &rarr;"
+
+#: functions.php:271
+msgid "&larr; Previous post"
+msgstr "&larr; Publicação anterior"
+
+#: functions.php:273
+msgid "Next post &rarr;"
+msgstr "Publicação siguinte &rarr;"
+
+#: functions.php:291
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:291
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:304
+msgid "(Post author)"
+msgstr "(Publicações do Autor)"
+
+#: functions.php:310
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s em %2$s"
+
+#: functions.php:316
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: functions.php:322
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:324 page.php:16 single.php:30
+#: template-full-width-without-sharing.php:17 template-full-width.php:17
+#: template-landing-page.php:16 template-sitemap.php:18
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:416
+msgid "Install Recommended Plugins"
+msgstr "Recomendado instalar plugins"
+
+#: functions.php:418
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"Este tema requer o plugin %1$s.  Aperte o botão azul para instalar e ativar "
+"%1$s."
+
+#: functions.php:419
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"O %1$s está instalado mas inativo. Por favor vá à página <a href=\"%2$s\"> "
+"administração de plugins </a> para ativá-lo."
+
+#: functions.php:420
+#, php-format
+msgid "Install %s Now"
+msgstr "Instalar %s agora"
+
+#: functions.php:422
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin"
+
+#: functions.php:423
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Este tema requer o plugin de %1$s. <a href=\"%2$s\"><strong>Clique aqui para "
+"começar o processo de instalação</strong></a>. Credenciais de FTP poderão "
+"ser necessárias."
+
+#: functions.php:424
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Sentimos muito, mas não temos permissão para instalar o plugin %s. Contacte "
+"o administrador do site para obeter ajuda na instalação do plugin."
+
+#: functions.php:425
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Este tema requer o plugin %1$s. Este plugin está atualmente inativo, por "
+"favor vá <a href=\"%2$s\">página de administração de plugins</a> e ative-o."
+
+#: functions.php:426
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Sentimos muito, mas não temos permissão para ativar o plugin  %s.. Contacte "
+"o administador do site para ativar o plugin."
+
+#: functions.php:427
+msgid "Return to Recommended Plugins Installer"
+msgstr "Coltar ao instalador de Plugins"
+
+#: functions.php:438
+msgid "MineZine"
+msgstr "MineZine"
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Nº de resultados: "
+
+#: search.php:20
+msgid "Search results navigation"
+msgstr "Navegador de resultados de pesquisa"
+
+#: search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Descupe, mas não encontramos nada com os critérios que você pesquisou. Tente "
+"novamente com palavras diferentes."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Pesquise aqui..."
+
+#: single.php:29
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archivo de Tag: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Ver imagem maior"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Mais informações"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Tipo de slide não suportado."
+
+#: functions/be/fw-options.php:1328
+msgid "settings reset."
+msgstr "Restablecer ajustes."
+
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nada encontrado para o endereço digitado."
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Solicitação inválida. Você digitou um endereço?"
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Algo de errado ocorreu com recuperamos o seu mapa, por favor verifique se o "
+"código digitado está correto."
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Não conseguimos contato com o serviço de API do Google."
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Visualização do Facebook Like Box."
+
+#: functions/fe/widget-facebook.php:14
+msgid "MineZine Facebook Like Box Widget"
+msgstr "MineZine Facebook Like Box Widget"
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:67
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Título:"
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "URL da página do Facebook:"
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Insita a URL completa da sua página do Facebook (exemplo: http://www."
+"facebook.com/FacebookDevelopers)."
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Altura Like Box: (opcional)"
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Insira aqui a altura do Like Box. Os valores em píxels. Escreva APENAS "
+"NÚMEROS (sem símbolos \"px\")!"
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Mostrar Faces:"
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Mostrar ou ocultar as fotos de perfil das pessoas que deram like na página."
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Mostrar Mensagens:"
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Mostrar ou ocultar as últimas publicações do site."
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Mostrar um quadro com seu texto e ícone."
+
+#: functions/fe/widget-info-box.php:14
+msgid "MineZine Info-Box"
+msgstr "MineZine Info-Box"
+
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Ícone:"
+
+#: functions/fe/widget-info-box.php:44
+msgid "Basket"
+msgstr "Cesta"
+
+#: functions/fe/widget-info-box.php:45
+msgid "Book"
+msgstr "Livro"
+
+#: functions/fe/widget-info-box.php:46
+msgid "Calendar"
+msgstr "Calendário"
+
+#: functions/fe/widget-info-box.php:47
+msgid "Comments"
+msgstr "Comentários"
+
+#: functions/fe/widget-info-box.php:48
+msgid "Download"
+msgstr "Download"
+
+#: functions/fe/widget-info-box.php:49
+msgid "Envelope"
+msgstr "Envoltura"
+
+#: functions/fe/widget-info-box.php:50
+msgid "Globe"
+msgstr "Globo"
+
+#: functions/fe/widget-info-box.php:51
+msgid "Heart"
+msgstr "Coração"
+
+#: functions/fe/widget-info-box.php:52
+msgid "Home"
+msgstr "Casa"
+
+#: functions/fe/widget-info-box.php:53
+msgid "Notepad"
+msgstr "Bloco de notas"
+
+#: functions/fe/widget-info-box.php:54
+msgid "Pin"
+msgstr "Pin"
+
+#: functions/fe/widget-info-box.php:55
+msgid "Star"
+msgstr "Estrela"
+
+#: functions/fe/widget-info-box.php:56
+msgid "Tick"
+msgstr "Tick"
+
+#: functions/fe/widget-info-box.php:57
+msgid "User"
+msgstr "Usuário"
+
+#: functions/fe/widget-info-box.php:58
+msgid "none"
+msgstr "Nenhum"
+
+#: functions/fe/widget-info-box.php:61
+msgid "Select an icon which will be displayed beside the title."
+msgstr "Selecione o ícone que está ao lado do título."
+
+#: functions/fe/widget-info-box.php:74
+msgid "Text:"
+msgstr "Texto:"
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Mosta as últimas publicações da categoria selecionada como uma coluna com o "
+"primeiro post em destaque."
+
+#: functions/fe/widget-posts-column.php:14
+msgid "MineZine Posts-Column"
+msgstr "MineZine Posts-Column"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Categoria:"
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Seleccione uma categoria de de publicação."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Nº de resultados de plublicações:"
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Insira aqui o número das últimas publicações da categoria selecionada que "
+"deseja mostrar."
+
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr ""
+"Mostra as últimas publicações da categoria selecionada em forma "
+"predeterminada."
+
+#: functions/fe/widget-posts-default.php:14
+msgid "MineZine Posts-Default"
+msgstr "MineZine Posts-Default"
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Mostra as últimas publicações da categoria selecionada como um grid."
+
+#: functions/fe/widget-posts-grid.php:14
+msgid "MineZine Posts-Grid"
+msgstr "MineZine Posts-Grid"
+
+#: functions/fe/widget-posts-grid.php:111
+msgid "Read more &gt;"
+msgstr "Leia mais &gt;"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Mostra as últimas publicações da categoria selecionada como uma lista "
+"desordenada com o primeiro posto em destaque."
+
+#: functions/fe/widget-posts-list.php:14
+msgid "MineZine Posts-List"
+msgstr "MineZine Posts-List"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Mostra as últimas publicações da categoria selecionada como um slider."
+
+#: functions/fe/widget-posts-slider.php:14
+msgid "MineZine Posts-Slider"
+msgstr "MineZine Posts-Slider"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr ""
+"Mostra as últimas publicações da categoria selecionada como miniaturas."
+
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "MineZine Posts-Thumbnail"
+msgstr "MineZine Posts-Thumbnail"
+
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by MineZine"
+msgstr "Widget Redes Sociais por MineZine"
+
+#: functions/fe/widget-social.php:14
+msgid "MineZine Social Widget"
+msgstr "MineZine Social Widget"
+
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Introduza a URL completa do seu perfil no Twitter."
+
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Introduza a URL completa do seu perfil , página ou grupo do Facebook."
+
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+"Introduza a URL completa do seu perfil do RSS. Pode incluir seu Feedburner "
+"RSS."
+
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Introduza a URL completa do seu perfil no Google Plus."
+
+#: functions/fe/widget-social.php:133
+msgid "You Tube:"
+msgstr "You Tube:"
+
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Introduza a URL completa do seu perfil no YouTube."
+
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Introduza a URL completa do seu perfil no Linkedin."
+
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Introduza a URL completa do seu perfil no Delicious."
+
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Introduza a URL completa do seu perfil no Pinterest."
+
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Introduza a URL completa do seu perfil no Flickr."
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by MineZine"
+msgstr "Widget Twitter por MineZine"
+
+#: functions/fe/widget-twitter.php:15
+msgid "MineZine Twitter Widget"
+msgstr "MineZine Twitter Widget"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Siga-nos no Twitter"
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Nome do usuário do Twitter:"
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: minezine)."
+msgstr "Introduza o seu nome de usuário do Twitter. (exemplo: minezine)."
+
+#: template-logged-in.php:29
+msgid "You must be logged in to view this page."
+msgstr "Você precisa estar logado para ver esta página."

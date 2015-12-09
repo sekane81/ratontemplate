@@ -1,0 +1,37 @@
+/* Color scheme Blue
+----------------------------------------------- */
+body a,
+body .site-title a,
+body .post-entry .post-entry-headline a,
+body #content .home-list-posts ul li a {
+  color: #214988;                   
+}
+body .menu-box,
+body .menu-box ul ul,
+body .top-navigation ul ul {
+  border-color: #214988;               
+}
+body #header .menu-box .current-menu-item > a,
+body #header .menu-box .current-menu-ancestor > a,
+body #header .menu-box .current_page_item > a,
+body #header .menu-box .current-page-ancestor > a,
+.home #container #header .menu-box .link-home,
+body .post-entry .read-more-button:hover,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body #searchform .searchform-wrapper .send:hover {
+  background-color: #214988;                                   
+}
+body .sidebar-widget a {
+  color: #426398;                  
+}
+body .post-entry .read-more-button,
+body input[type="submit"],
+body input[type="reset"],
+body #searchform .searchform-wrapper .send {
+  background-color: #426398;                                   
+}
+body #footer a,
+body .footer-signature .footer-signature-content a {
+  color: #8ca5cc;                     
+}

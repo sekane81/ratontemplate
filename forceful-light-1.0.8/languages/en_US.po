@@ -1,0 +1,1649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Forceful Lite v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-24 02:36:03+0000\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#: library/ini.php:94
+#@ forcefull-lite
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+#@ forcefull-lite
+msgid "Page not found..."
+msgstr ""
+
+#: 404.php:20
+#@ forcefull-lite
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of this options:"
+msgstr ""
+
+#: 404.php:23
+#@ forcefull-lite
+msgid "Go back to previous page"
+msgstr ""
+
+#: 404.php:25
+#@ forcefull-lite
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:3
+#@ forcefull-lite
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:13
+#@ forcefull-lite
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:13
+#@ forcefull-lite
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:13
+#@ forcefull-lite
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:47
+#@ forcefull-lite
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:50
+#: comments.php:82
+#@ forcefull-lite
+msgid "Edit"
+msgstr ""
+
+#: comments.php:76
+#@ forcefull-lite
+msgid "at"
+msgstr ""
+
+#: comments.php:103
+#@ forcefull-lite
+msgid "Name <span>(required):</span>"
+msgstr ""
+
+#: comments.php:108
+#@ forcefull-lite
+msgid "Email <span>(required):</span>"
+msgstr ""
+
+#: comments.php:113
+#@ forcefull-lite
+msgid "Website"
+msgstr ""
+
+#: comments.php:120
+#@ forcefull-lite
+msgid "Your comment <span>(required):</span>"
+msgstr ""
+
+#: comments.php:127
+#, php-format
+#@ forcefull-lite
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:128
+#, php-format
+#@ forcefull-lite
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:128
+#@ forcefull-lite
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:128
+#@ forcefull-lite
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:129
+#@ forcefull-lite
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:133
+#@ forcefull-lite
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:134
+#@ forcefull-lite
+msgid "Reply"
+msgstr ""
+
+#: comments.php:135
+#@ forcefull-lite
+msgid "<span class=\"title-text\">Cancel</span>"
+msgstr ""
+
+#: comments.php:136
+#@ forcefull-lite
+msgid "Post Comment"
+msgstr ""
+
+#: header.php:71
+#@ forcefull-lite
+msgid "Menu"
+msgstr ""
+
+#: library/front.php:18
+#@ forcefull-lite
+msgid "Main Menu"
+msgstr ""
+
+#: library/front.php:19
+#@ forcefull-lite
+msgid "Footer Menu"
+msgstr ""
+
+#: library/front.php:271
+#, php-format
+#@ forcefull-lite
+msgid "Page %s"
+msgstr ""
+
+#: library/front.php:46
+#@ forcefull-lite
+msgid "Flexslider Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:47
+#@ forcefull-lite
+msgid "Carousel Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:48
+#@ forcefull-lite
+msgid "Popular Widget Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:50
+#@ forcefull-lite
+msgid "Entry List Widget Small Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:51
+#@ forcefull-lite
+msgid "Gallery Widget Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:54
+#@ forcefull-lite
+msgid "Single Post Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:313
+#@ forcefull-lite
+msgid "You are here:"
+msgstr ""
+
+#: library/front.php:313
+#: library/front.php:1045
+#: library/front.php:1048
+#: library/ini.php:70
+#@ forcefull-lite
+msgid "Home"
+msgstr ""
+
+#: library/front.php:320
+#@ forcefull-lite
+msgid "Blog"
+msgstr ""
+
+#: library/front.php:450
+#, php-format
+#@ forcefull-lite
+msgid "<span class=\"%1$s\">Your search for \"%2$s\""
+msgstr ""
+
+#: library/front.php:455
+#, php-format
+#@ forcefull-lite
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: library/front.php:458
+#@ forcefull-lite
+msgid "Error 404"
+msgstr ""
+
+#: library/front.php:512
+#: library/includes/cpanel/theme-options/post.php:98
+#@ forcefull-lite
+msgid "Related Posts"
+msgstr ""
+
+#: library/front.php:630
+#@ forcefull-lite
+msgid "I recommend this page: "
+msgstr ""
+
+#: library/front.php:630
+#@ forcefull-lite
+msgid ". You can read it on: "
+msgstr ""
+
+#: library/front.php:638
+#@ forcefull-lite
+msgid "Share this Post"
+msgstr ""
+
+#: library/front.php:683
+#@ forcefull-lite
+msgid "Posted by:"
+msgstr ""
+
+#: library/front.php:693
+#@ forcefull-lite
+msgid "Follow:"
+msgstr ""
+
+#: library/front.php:696
+#: library/front.php:721
+#@ forcefull-lite
+msgid "Facebook"
+msgstr ""
+
+#: library/front.php:700
+#: library/front.php:728
+#@ forcefull-lite
+msgid "Twitter"
+msgstr ""
+
+#: library/front.php:704
+#@ forcefull-lite
+msgid "Google+"
+msgstr ""
+
+#: library/front.php:724
+#@ forcefull-lite
+msgid "Please enter your Facebook URL"
+msgstr ""
+
+#: library/front.php:731
+#@ forcefull-lite
+msgid "Please enter your Twitter URL"
+msgstr ""
+
+#: library/front.php:735
+#@ forcefull-lite
+msgid "Feed URL"
+msgstr ""
+
+#: library/front.php:738
+#@ forcefull-lite
+msgid "Please enter your Feed URL"
+msgstr ""
+
+#: library/front.php:742
+#@ forcefull-lite
+msgid "Google Plus"
+msgstr ""
+
+#: library/front.php:745
+#@ forcefull-lite
+msgid "Please enter your Google Plus URL"
+msgstr ""
+
+#: library/front.php:749
+#@ forcefull-lite
+msgid "Flickr"
+msgstr ""
+
+#: library/front.php:752
+#@ forcefull-lite
+msgid "Please enter your Flickr URL"
+msgstr ""
+
+#: library/includes/ajax.php:311
+#@ forcefull-lite
+msgid "Website:"
+msgstr ""
+
+#: library/includes/ajax.php:317
+#@ forcefull-lite
+msgid "Oops! errors occured."
+msgstr ""
+
+#: library/includes/ajax.php:357
+#@ forcefull-lite
+msgid "Sorry an error has occurred."
+msgstr ""
+
+#: library/includes/ajax.php:382
+#@ forcefull-lite
+msgid "You cannot vote twice."
+msgstr ""
+
+#: library/includes/ajax.php:435
+#: library/includes/ajax.php:436
+#: library/templates/template-post-rating.php:38
+#: library/templates/template-post-rating.php:80
+#@ forcefull-lite
+msgid "Rated %.2f out of 5"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:5
+#: library/includes/cpanel/theme-options-page.php:10
+#@ forcefull-lite
+msgid "Custom CSS"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:10
+#@ forcefull-lite
+msgid "Enter the your custom CSS code"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:16
+#: library/includes/cpanel/theme-options/general.php:22
+#: library/includes/cpanel/theme-options/general.php:28
+#: library/includes/cpanel/theme-options/general.php:34
+#@ forcefull-lite
+msgid "px"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:6
+#@ forcefull-lite
+msgid "Logo, Favicon, Apple Icon"
+msgstr ""
+
+#: header.php:101
+#@ forcefull-lite
+msgid "Logo"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:44
+#: library/includes/cpanel/theme-options/general.php:55
+#: library/includes/cpanel/theme-options/general.php:60
+#: library/includes/cpanel/theme-options/general.php:66
+#: library/includes/cpanel/theme-options/general.php:72
+#@ forcefull-lite
+msgid "Upload"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:13
+#@ forcefull-lite
+msgid "Logo margin"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:14
+#@ forcefull-lite
+msgid "Top margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:20
+#@ forcefull-lite
+msgid "Left margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:26
+#@ forcefull-lite
+msgid "Right margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:32
+#@ forcefull-lite
+msgid "Bottom margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:39
+#@ forcefull-lite
+msgid "Favicon"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:41
+#@ forcefull-lite
+msgid "Upload your own favicon."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:50
+#@ forcefull-lite
+msgid "Apple Icons"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:52
+#@ forcefull-lite
+msgid "Iphone (57px - 57px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:57
+#@ forcefull-lite
+msgid "Iphone Retina (114px - 114px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:63
+#@ forcefull-lite
+msgid "Ipad (72px - 72px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:69
+#@ forcefull-lite
+msgid "Ipad Retina (144px - 144px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:109
+#@ forcefull-lite
+msgid "Header Headline"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:114
+#@ forcefull-lite
+msgid "Header headline:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:117
+#: library/includes/cpanel/theme-options/general.php:173
+#: library/includes/cpanel/theme-options/post.php:12
+#: library/includes/cpanel/theme-options/post.php:57
+#: library/includes/cpanel/theme-options/post.php:80
+#@ forcefull-lite
+msgid "Show"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:118
+#: library/includes/cpanel/theme-options/general.php:174
+#: library/includes/cpanel/theme-options/post.php:13
+#: library/includes/cpanel/theme-options/post.php:58
+#: library/includes/cpanel/theme-options/post.php:81
+#@ forcefull-lite
+msgid "Hide"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:131
+#@ forcefull-lite
+msgid "Headline title:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:135
+#@ forcefull-lite
+msgid "Headline light title:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:139
+#@ forcefull-lite
+msgid "Headline category:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:140
+#@ forcefull-lite
+msgid "Choose category to display posts in headline"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:222
+#: library/includes/cpanel/theme-options/general.php:228
+#@ forcefull-lite
+msgid "Top Banner"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:229
+#@ forcefull-lite
+msgid "Paste your Adsense, BSA or other ad code here to show ads on top banner."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:237
+#@ forcefull-lite
+msgid "Footer"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:243
+#@ forcefull-lite
+msgid "Custom Left Footer"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:244
+#@ forcefull-lite
+msgid "Enter the content you want to display in your left footer (e.g. copyright text)."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:5
+#@ forcefull-lite
+msgid "Featured Post Thumbnail"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:9
+#@ forcefull-lite
+msgid "Show/Hide Featured Post Thumbnail"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:28
+#@ forcefull-lite
+msgid "Post Thumbnail Style"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:34
+#@ forcefull-lite
+msgid "Small Thumbnail"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:35
+#@ forcefull-lite
+msgid "Large Thumbnail"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:73
+#@ forcefull-lite
+msgid "About Author"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:104
+#@ forcefull-lite
+msgid "Get By"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:108
+#@ forcefull-lite
+msgid "-- Hide --"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:109
+#@ forcefull-lite
+msgid "Tag"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:110
+#@ forcefull-lite
+msgid "Category"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:120
+#@ forcefull-lite
+msgid "Limit"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:39
+#: library/includes/cpanel/theme-options-page.php:9
+#@ forcefull-lite
+msgid "Social Links"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:46
+#@ forcefull-lite
+msgid "RSS URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:47
+#@ forcefull-lite
+msgid "Display the RSS feed button with the default RSS feed or enter a custom feed below. <br><code>Enter <b>\"HIDE\"</b> if you want to hide it</code>"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:53
+#@ forcefull-lite
+msgid "Dribbble URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:59
+#@ forcefull-lite
+msgid "Google Plus URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:65
+#@ forcefull-lite
+msgid "Facebook_URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:71
+#@ forcefull-lite
+msgid "Twitter URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:77
+#@ forcefull-lite
+msgid "Flickr URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:83
+#@ forcefull-lite
+msgid "Youtube URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:7
+#@ forcefull-lite
+msgid "General Setting"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:8
+#@ forcefull-lite
+msgid "Single Post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:17
+#: library/kopa.php:24
+#@ forcefull-lite
+msgid "Theme Options"
+msgstr ""
+
+#: library/includes/cpanel/layout-manager.php:37
+#: library/includes/cpanel/theme-options-page.php:21
+#@ forcefull-lite
+msgid "Visit author URL:"
+msgstr ""
+
+#: library/includes/cpanel/layout-manager.php:45
+#: library/includes/cpanel/layout-manager.php:115
+#: library/includes/cpanel/theme-options-page.php:28
+#: library/includes/cpanel/theme-options-page.php:45
+#@ forcefull-lite
+msgid "Save"
+msgstr ""
+
+#: library/includes/options_post_rating.php:11
+#: library/templates/template-post-rating.php:13
+#@ forcefull-lite
+msgid "Editor Rating"
+msgstr ""
+
+#: library/includes/options_post_rating.php:26
+#@ forcefull-lite
+msgid "Rating Name:"
+msgstr ""
+
+#: library/includes/options_post_rating.php:33
+#@ forcefull-lite
+msgid " Star(s)"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:50
+#: library/includes/cpanel/sidebar-manager.php:75
+#: library/includes/options_post_rating.php:38
+#@ forcefull-lite
+msgid "Remove"
+msgstr ""
+
+#: library/includes/options_post_rating.php:45
+#@ forcefull-lite
+msgid "Add"
+msgstr ""
+
+#: library/includes/options_post_rating.php:46
+#@ forcefull-lite
+msgid "Remove All"
+msgstr ""
+
+#: library/includes/widgets.php:307
+#: library/includes/widgets.php:516
+#: library/includes/widgets.php:734
+#: library/includes/widgets.php:871
+#: library/includes/widgets.php:953
+#: library/includes/widgets.php:1033
+#: library/includes/widgets.php:1119
+#: library/includes/widgets.php:1212
+#: library/includes/widgets.php:1514
+#@ forcefull-lite
+msgid "Title:"
+msgstr ""
+
+#: library/includes/widgets.php:156
+#@ forcefull-lite
+msgid "A Posts Slider Widget"
+msgstr ""
+
+#: library/includes/widgets.php:158
+#@ forcefull-lite
+msgid "Kopa Flexslider"
+msgstr ""
+
+#: library/includes/ajax.php:593
+#: library/includes/widgets.php:235
+#: library/templates/content-single-audio.php:14
+#: library/templates/content-single-gallery.php:14
+#: library/templates/content-single-video.php:26
+#: library/templates/content-single.php:26
+#: library/templates/loop-blog.php:84
+#@ forcefull-lite
+msgid "Off"
+msgstr ""
+
+#: library/includes/widgets.php:278
+#@ forcefull-lite
+msgid "Hot"
+msgstr ""
+
+#: library/includes/widgets.php:279
+#: library/kopa.php:93
+#@ forcefull-lite
+msgid "News"
+msgstr ""
+
+#: library/includes/widgets.php:311
+#: library/includes/widgets.php:520
+#: library/includes/widgets.php:738
+#: library/includes/widgets.php:1216
+#@ forcefull-lite
+msgid "Subtitle:"
+msgstr ""
+
+#: library/includes/widgets.php:316
+#: library/includes/widgets.php:524
+#: library/includes/widgets.php:742
+#@ forcefull-lite
+msgid "Categories:"
+msgstr ""
+
+#: library/includes/widgets.php:318
+#: library/includes/widgets.php:345
+#: library/includes/widgets.php:526
+#: library/includes/widgets.php:553
+#: library/includes/widgets.php:744
+#: library/includes/widgets.php:771
+#@ forcefull-lite
+msgid "-- None --"
+msgstr ""
+
+#: library/includes/widgets.php:329
+#: library/includes/widgets.php:537
+#: library/includes/widgets.php:755
+#@ forcefull-lite
+msgid "Relation:"
+msgstr ""
+
+#: library/includes/widgets.php:333
+#: library/includes/widgets.php:541
+#: library/includes/widgets.php:759
+#@ forcefull-lite
+msgid "And"
+msgstr ""
+
+#: library/includes/widgets.php:334
+#: library/includes/widgets.php:542
+#: library/includes/widgets.php:760
+#@ forcefull-lite
+msgid "Or"
+msgstr ""
+
+#: library/includes/widgets.php:343
+#: library/includes/widgets.php:551
+#: library/includes/widgets.php:769
+#@ forcefull-lite
+msgid "Tags:"
+msgstr ""
+
+#: library/includes/widgets.php:355
+#: library/includes/widgets.php:563
+#: library/includes/widgets.php:781
+#@ forcefull-lite
+msgid "Number of article:"
+msgstr ""
+
+#: library/includes/widgets.php:359
+#: library/includes/widgets.php:567
+#: library/includes/widgets.php:785
+#@ forcefull-lite
+msgid "Orderby:"
+msgstr ""
+
+#: library/includes/widgets.php:363
+#: library/includes/widgets.php:571
+#: library/includes/widgets.php:789
+#: library/includes/widgets.php:1296
+#@ forcefull-lite
+msgid "Latest"
+msgstr ""
+
+#: library/includes/widgets.php:364
+#: library/includes/widgets.php:572
+#: library/includes/widgets.php:790
+#@ forcefull-lite
+msgid "Popular by View Count"
+msgstr ""
+
+#: library/includes/widgets.php:365
+#: library/includes/widgets.php:573
+#: library/includes/widgets.php:791
+#@ forcefull-lite
+msgid "Popular by Comment Count"
+msgstr ""
+
+#: library/includes/widgets.php:366
+#: library/includes/widgets.php:574
+#: library/includes/widgets.php:792
+#@ forcefull-lite
+msgid "Random"
+msgstr ""
+
+#: library/includes/widgets.php:377
+#@ forcefull-lite
+msgid "Animation:"
+msgstr ""
+
+#: library/includes/widgets.php:381
+#@ forcefull-lite
+msgid "Slide"
+msgstr ""
+
+#: library/includes/widgets.php:391
+#@ forcefull-lite
+msgid "Direction:"
+msgstr ""
+
+#: library/includes/widgets.php:395
+#@ forcefull-lite
+msgid "Horizontal"
+msgstr ""
+
+#: library/includes/widgets.php:405
+#@ forcefull-lite
+msgid "Speed of the slideshow cycling:"
+msgstr ""
+
+#: library/includes/widgets.php:410
+#@ forcefull-lite
+msgid "Speed of animations:"
+msgstr ""
+
+#: library/includes/widgets.php:416
+#@ forcefull-lite
+msgid "Auto Play"
+msgstr ""
+
+#: library/includes/widgets.php:451
+#@ forcefull-lite
+msgid "Display Latest Articles Widget"
+msgstr ""
+
+#: library/includes/widgets.php:453
+#@ forcefull-lite
+msgid "Kopa Articles List"
+msgstr ""
+
+#: library/includes/widgets.php:610
+#@ forcefull-lite
+msgid "Display Latest Articles with Thumbnails"
+msgstr ""
+
+#: library/includes/widgets.php:612
+#@ forcefull-lite
+msgid "Kopa Articles List With Thumbnails"
+msgstr ""
+
+#: library/includes/widgets.php:1249
+#@ forcefull-lite
+msgid "Scroll Items:"
+msgstr ""
+
+#: library/includes/widgets.php:832
+#@ forcefull-lite
+msgid "Display your latest twitter status"
+msgstr ""
+
+#: library/includes/widgets.php:834
+#@ forcefull-lite
+msgid "Kopa Twitter"
+msgstr ""
+
+#: library/includes/widgets.php:875
+#@ forcefull-lite
+msgid "Twitter Username:"
+msgstr ""
+
+#: library/includes/widgets.php:879
+#@ forcefull-lite
+msgid "Number of tweets:"
+msgstr ""
+
+#: library/includes/widgets.php:906
+#@ forcefull-lite
+msgid "Display one 300x300 advertising image"
+msgstr ""
+
+#: library/includes/widgets.php:908
+#@ forcefull-lite
+msgid "Kopa Advertising"
+msgstr ""
+
+#: library/includes/widgets.php:957
+#@ forcefull-lite
+msgid "Image Source:"
+msgstr ""
+
+#: library/includes/widgets.php:961
+#@ forcefull-lite
+msgid "Url:"
+msgstr ""
+
+#: library/includes/widgets.php:983
+#@ forcefull-lite
+msgid "Display mailchimp newsletter subscription form"
+msgstr ""
+
+#: library/includes/widgets.php:985
+#@ forcefull-lite
+msgid "Kopa Mailchimp Subscribe"
+msgstr ""
+
+#: library/includes/widgets.php:1007
+#: library/includes/widgets.php:1094
+#@ forcefull-lite
+msgid "Your email here..."
+msgstr ""
+
+#: library/includes/widgets.php:1037
+#@ forcefull-lite
+msgid "Mailchimp Form Action:"
+msgstr ""
+
+#: library/includes/widgets.php:1042
+#@ forcefull-lite
+msgid "Enable <strong>evil</strong> popup mode"
+msgstr ""
+
+#: library/includes/widgets.php:1045
+#: library/includes/widgets.php:1127
+#@ forcefull-lite
+msgid "Description"
+msgstr ""
+
+#: library/includes/widgets.php:1068
+#@ forcefull-lite
+msgid "Display Feedburner subscription form"
+msgstr ""
+
+#: library/includes/widgets.php:1070
+#@ forcefull-lite
+msgid "Kopa Feedburner Subscribe"
+msgstr ""
+
+#: library/includes/widgets.php:1123
+#@ forcefull-lite
+msgid "Feedburner ID (http://feeds.feedburner.com/<strong>wordpress/kopatheme</strong>):"
+msgstr ""
+
+#: library/includes/widgets.php:1149
+#@ forcefull-lite
+msgid "Display a carousel slider of all images in one gallery format post"
+msgstr ""
+
+#: library/includes/widgets.php:1151
+#@ forcefull-lite
+msgid "Kopa Gallery"
+msgstr ""
+
+#: library/includes/widgets.php:1220
+#@ forcefull-lite
+msgid "Select one gallery post:"
+msgstr ""
+
+#: library/includes/ajax.php:583
+#: library/includes/widgets.php:1356
+#: library/templates/content-single-audio.php:13
+#: library/templates/content-single-gallery.php:13
+#: library/templates/content-single-video.php:25
+#: library/templates/content-single.php:25
+#: library/templates/loop-blog.php:81
+#: library/templates/template-post-navigation.php:10
+#: library/templates/template-post-navigation.php:23
+#@ forcefull-lite
+msgid "By"
+msgstr ""
+
+#: library/includes/widgets.php:1276
+#@ forcefull-lite
+msgid "Display your latest posts, popular view posts and popular comment posts"
+msgstr ""
+
+#: library/includes/widgets.php:1278
+#@ forcefull-lite
+msgid "Kopa Combo Widget"
+msgstr ""
+
+#: library/includes/widgets.php:1297
+#@ forcefull-lite
+msgid "Popular"
+msgstr ""
+
+#: library/includes/widgets.php:1298
+#@ forcefull-lite
+msgid "Comments"
+msgstr ""
+
+#: library/includes/widgets.php:1391
+#: library/includes/widgets.php:1570
+#: library/includes/widgets.php:1688
+#@ forcefull-lite
+msgid "Title"
+msgstr ""
+
+#: library/includes/widgets.php:1396
+#: library/includes/widgets.php:1580
+#@ forcefull-lite
+msgid "Number of articles"
+msgstr ""
+
+#: library/includes/widgets.php:1423
+#@ forcefull-lite
+msgid "The most recent comments"
+msgstr ""
+
+#: library/includes/widgets.php:1424
+#@ forcefull-lite
+msgid "Kopa Recent Comments"
+msgstr ""
+
+#: library/includes/widgets.php:1454
+#@ forcefull-lite
+msgid "Recent Comments"
+msgstr ""
+
+#: library/includes/widgets.php:1517
+#@ forcefull-lite
+msgid "Number of comments to show:"
+msgstr ""
+
+#: library/includes/widgets.php:1529
+#@ forcefull-lite
+msgid "Display your latest photos on Flickr"
+msgstr ""
+
+#: library/includes/widgets.php:1531
+#@ forcefull-lite
+msgid "Kopa Flickr Widget"
+msgstr ""
+
+#: library/includes/widgets.php:1575
+#@ forcefull-lite
+msgid "Flickr ID"
+msgstr ""
+
+#: library/includes/widgets.php:1607
+#@ forcefull-lite
+msgid "Display socials widget"
+msgstr ""
+
+#: library/includes/widgets.php:1609
+#@ forcefull-lite
+msgid "Kopa Socials Widget"
+msgstr ""
+
+#: library/includes/widgets.php:1691
+#, php-format
+#@ forcefull-lite
+msgid "Go to your <a href=\"%1$s\">Theme Options</a> &gt; <strong>Social Links</strong> to customize social urls"
+msgstr ""
+
+#: library/includes/widgets.php:1719
+#: library/includes/widgets.php:2090
+#@ forcefull-lite
+msgid "C"
+msgstr ""
+
+#: library/includes/widgets.php:1719
+#: library/includes/widgets.php:2090
+#@ forcefull-lite
+msgid "F"
+msgstr ""
+
+#: library/includes/widgets.php:1877
+#: library/includes/widgets.php:2231
+#@ forcefull-lite
+msgid "N"
+msgstr ""
+
+#: library/includes/widgets.php:1878
+#: library/includes/widgets.php:2232
+#@ forcefull-lite
+msgid "NNE"
+msgstr ""
+
+#: library/includes/widgets.php:1879
+#: library/includes/widgets.php:2233
+#@ forcefull-lite
+msgid "NE"
+msgstr ""
+
+#: library/includes/widgets.php:1880
+#: library/includes/widgets.php:2234
+#@ forcefull-lite
+msgid "ENE"
+msgstr ""
+
+#: library/includes/widgets.php:1881
+#: library/includes/widgets.php:2235
+#@ forcefull-lite
+msgid "E"
+msgstr ""
+
+#: library/includes/widgets.php:1882
+#: library/includes/widgets.php:2236
+#@ forcefull-lite
+msgid "ESE"
+msgstr ""
+
+#: library/includes/widgets.php:1883
+#: library/includes/widgets.php:2237
+#@ forcefull-lite
+msgid "SE"
+msgstr ""
+
+#: library/includes/widgets.php:1884
+#: library/includes/widgets.php:2238
+#@ forcefull-lite
+msgid "SSE"
+msgstr ""
+
+#: library/includes/widgets.php:1885
+#: library/includes/widgets.php:2239
+#@ forcefull-lite
+msgid "S"
+msgstr ""
+
+#: library/includes/widgets.php:1886
+#: library/includes/widgets.php:2240
+#@ forcefull-lite
+msgid "SSW"
+msgstr ""
+
+#: library/includes/widgets.php:1887
+#: library/includes/widgets.php:2241
+#@ forcefull-lite
+msgid "SW"
+msgstr ""
+
+#: library/includes/widgets.php:1888
+#: library/includes/widgets.php:2242
+#@ forcefull-lite
+msgid "WSW"
+msgstr ""
+
+#: library/includes/widgets.php:1889
+#: library/includes/widgets.php:2243
+#@ forcefull-lite
+msgid "W"
+msgstr ""
+
+#: library/includes/widgets.php:1890
+#: library/includes/widgets.php:2244
+#@ forcefull-lite
+msgid "WNW"
+msgstr ""
+
+#: library/includes/widgets.php:1891
+#: library/includes/widgets.php:2245
+#@ forcefull-lite
+msgid "NW"
+msgstr ""
+
+#: library/includes/widgets.php:1892
+#: library/includes/widgets.php:2246
+#@ forcefull-lite
+msgid "NNW"
+msgstr ""
+
+#: library/includes/widgets.php:1955
+#: library/includes/widgets.php:2307
+#@ forcefull-lite
+msgid "km/h"
+msgstr ""
+
+#: library/includes/widgets.php:1955
+#: library/includes/widgets.php:2307
+#@ forcefull-lite
+msgid "mph"
+msgstr ""
+
+#: library/includes/widgets.php:1962
+#: library/includes/widgets.php:2314
+#@ forcefull-lite
+msgid "humidity:"
+msgstr ""
+
+#: library/includes/widgets.php:1963
+#: library/includes/widgets.php:2315
+#@ forcefull-lite
+msgid "wind:"
+msgstr ""
+
+#: library/includes/widgets.php:1964
+#: library/includes/widgets.php:2316
+#@ forcefull-lite
+msgid "H"
+msgstr ""
+
+#: library/includes/widgets.php:1964
+#: library/includes/widgets.php:2316
+#@ forcefull-lite
+msgid "L"
+msgstr ""
+
+#: library/includes/widgets.php:1972
+#: library/includes/widgets.php:2324
+#@ forcefull-lite
+msgid "extended forecast"
+msgstr ""
+
+#: library/includes/widgets.php:1994
+#: library/includes/widgets.php:2346
+#@ forcefull-lite
+#@ awesome-weather
+msgid "No weather information available"
+msgstr ""
+
+#: library/includes/widgets.php:2003
+#@ forcefull-lite
+msgid "Display Weather Widget base on customer location automatically"
+msgstr ""
+
+#: library/includes/widgets.php:2005
+#@ forcefull-lite
+msgid "Kopa Weather Widget (Auto Detect)"
+msgstr ""
+
+#: library/includes/widgets.php:2050
+#: library/includes/widgets.php:2414
+#@ forcefull-lite
+msgid "Units:"
+msgstr ""
+
+#: library/includes/widgets.php:2056
+#: library/includes/widgets.php:2420
+#@ forcefull-lite
+msgid "Forecast:"
+msgstr ""
+
+#: library/includes/widgets.php:2058
+#: library/includes/widgets.php:2422
+#@ forcefull-lite
+msgid "5 Days"
+msgstr ""
+
+#: library/includes/widgets.php:2059
+#: library/includes/widgets.php:2423
+#@ forcefull-lite
+msgid "4 Days"
+msgstr ""
+
+#: library/includes/widgets.php:2060
+#: library/includes/widgets.php:2424
+#@ forcefull-lite
+msgid "3 Days"
+msgstr ""
+
+#: library/includes/widgets.php:2061
+#: library/includes/widgets.php:2425
+#@ forcefull-lite
+msgid "2 Days"
+msgstr ""
+
+#: library/includes/widgets.php:2062
+#: library/includes/widgets.php:2426
+#@ forcefull-lite
+msgid "1 Day"
+msgstr ""
+
+#: library/includes/widgets.php:2067
+#: library/includes/widgets.php:2431
+#@ forcefull-lite
+msgid "Link to OpenWeatherMap:"
+msgstr ""
+
+#: library/includes/widgets.php:2356
+#@ forcefull-lite
+msgid "Display Weather Widget base on admin settings"
+msgstr ""
+
+#: library/includes/widgets.php:2358
+#@ forcefull-lite
+msgid "Kopa Weather Widget (Custom)"
+msgstr ""
+
+#: library/includes/widgets.php:2402
+#@ awesome-weather
+msgid "Location:"
+msgstr ""
+
+#: library/includes/widgets.php:2403
+#@ forcefull-lite
+msgid "(i.e: London,UK or New York City,NY)"
+msgstr ""
+
+#: library/includes/widgets.php:2409
+#@ forcefull-lite
+msgid "Override Title:"
+msgstr ""
+
+#: library/ini.php:5
+#@ forcefull-lite
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: library/ini.php:20
+#@ forcefull-lite
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: library/ini.php:32
+#@ forcefull-lite
+msgid "Single Right Sidebar"
+msgstr ""
+
+#: library/ini.php:44
+#@ forcefull-lite
+msgid "404 Page"
+msgstr ""
+
+#: library/ini.php:74
+#@ forcefull-lite
+msgid "Post"
+msgstr ""
+
+#: library/ini.php:78
+#@ forcefull-lite
+msgid "Page"
+msgstr ""
+
+#: library/ini.php:82
+#@ forcefull-lite
+msgid "Taxonomy"
+msgstr ""
+
+#: library/ini.php:86
+#@ forcefull-lite
+msgid "Search"
+msgstr ""
+
+#: library/ini.php:90
+#@ forcefull-lite
+msgid "Archive"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:6
+#: library/includes/cpanel/sidebar-manager.php:17
+#@ forcefull-lite
+msgid "Sidebar Manager"
+msgstr ""
+
+#: library/templates/content-single-audio.php:77
+#: library/templates/content-single-gallery.php:75
+#: library/templates/content-single-video.php:74
+#: library/templates/content-single.php:74
+#: library/templates/loop-page.php:13
+#@ forcefull-lite
+msgid "Page %"
+msgstr ""
+
+#: library/templates/loop-single.php:11
+#@ forcefull-lite
+msgid "About the author"
+msgstr ""
+
+#: library/templates/template-pagination.php:19
+#@ forcefull-lite
+msgid "Previous"
+msgstr ""
+
+#: library/templates/template-pagination.php:20
+#@ forcefull-lite
+msgid "Next"
+msgstr ""
+
+#: library/templates/template-post-navigation.php:19
+#@ forcefull-lite
+msgid "Next Article"
+msgstr ""
+
+#: library/templates/template-post-rating.php:20
+#, php-format
+#@ forcefull-lite
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: library/templates/template-post-rating.php:37
+#: library/templates/template-post-rating.php:74
+#@ forcefull-lite
+msgid "Total score"
+msgstr ""
+
+#: library/templates/template-post-rating.php:53
+#@ forcefull-lite
+msgid "User Rating"
+msgstr ""
+
+#: searchform.php:5
+#@ forcefull-lite
+msgid "Type your search here"
+msgstr ""
+
+#: library/front.php:228
+#@ forcefull-lite
+msgid "Submit"
+msgstr ""
+
+#: library/front.php:229
+#@ forcefull-lite
+msgid "Sending..."
+msgstr ""
+
+#: library/front.php:232
+#@ forcefull-lite
+msgid "Please enter your name."
+msgstr ""
+
+#: library/front.php:233
+#: library/front.php:245
+#@ forcefull-lite
+msgid "At least {0} characters required."
+msgstr ""
+
+#: library/front.php:236
+#@ forcefull-lite
+msgid "Please enter your email."
+msgstr ""
+
+#: library/front.php:237
+#@ forcefull-lite
+msgid "Please enter a valid email."
+msgstr ""
+
+#: library/front.php:240
+#@ forcefull-lite
+msgid "Please enter your url."
+msgstr ""
+
+#: library/front.php:241
+#@ forcefull-lite
+msgid "Please enter a valid url."
+msgstr ""
+
+#: library/front.php:244
+#@ forcefull-lite
+msgid "Please enter a message."
+msgstr ""
+
+#: library/templates/template-post-navigation.php:6
+#@ forcefull-lite
+msgid "Previous Article"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:142
+#@ forcefull-lite
+msgid "Latest Posts"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:154
+#@ forcefull-lite
+msgid "Number of posts:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:166
+#@ forcefull-lite
+msgid "Breadcrumb"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:170
+#@ forcefull-lite
+msgid "Show/Hide Breadcrumb:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:10
+#: library/includes/cpanel/theme-options/social-links.php:15
+#@ forcefull-lite
+msgid "Social Links Target"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:18
+#@ forcefull-lite
+msgid "Opens the linked document in the same frame as it was clicked"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:19
+#@ forcefull-lite
+msgid "Opens the linked document in a new window or tab"
+msgstr ""
+
+#: library/includes/ajax.php:583
+#@ forcefull-lite
+msgid "Posts by"
+msgstr ""
+
+#: library/includes/ajax.php:591
+#@ default
+msgid "Comment on"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:194
+#@ forcefull-lite
+msgid "Home Menu Item"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:198
+#@ forcefull-lite
+msgid "Add home menu item as first item on main menu:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:93
+#: library/includes/cpanel/theme-options/general.php:201
+#@ forcefull-lite
+msgid "Enable"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:94
+#: library/includes/cpanel/theme-options/general.php:202
+#@ forcefull-lite
+msgid "Disable"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:50
+#@ forcefull-lite
+msgid "View count on post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:54
+#@ forcefull-lite
+msgid "Show/Hide view count on post"
+msgstr ""
+
+#: library/includes/ajax.php:319
+#@ forcefull-lite
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:86
+#@ forcefull-lite
+msgid "Responsive layout"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:90
+#@ forcefull-lite
+msgid "Enable/Disable Responsive Layout:"
+msgstr ""
+
+#: library/front.php:249
+#: library/includes/widgets.php:850
+#@ forcefull-lite
+msgid "Loading..."
+msgstr ""
+
+#: library/front.php:250
+#@ forcefull-lite
+msgid "Sorry, twitter is currently unavailable for this user."
+msgstr ""
+
+#: library/includes/cpanel/layout-manager.php:33
+#@ forcefull-lite
+msgid "Layout And Sidebar Manager"
+msgstr ""
+
+#: library/includes/cpanel/layout-manager.php:55
+#@ forcefull-lite
+msgid "Select the layout"
+msgstr ""
+
+#: library/includes/cpanel/layout-manager.php:79
+#@ forcefull-lite
+msgid "Select sidebars"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:10
+#@ forcefull-lite
+msgid "Visit author URL: "
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:22
+#@ forcefull-lite
+msgid "Add Sidebar"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:23
+#@ forcefull-lite
+msgid "Add your sidebars below and then you can assign one of these sidebars from the individual posts/pages."
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:26
+#@ forcefull-lite
+msgid "Add sidebar"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:32
+#@ forcefull-lite
+msgid "Existing Sidebars"
+msgstr ""
+
+#: library/includes/cpanel/sidebar-manager.php:49
+#: library/includes/cpanel/sidebar-manager.php:74
+#@ forcefull-lite
+msgid "Sidebar Name"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:12
+#, php-format
+#@ forcefull-lite
+msgid "Use <a href=\"%s\">custom header</a> to upload logo image and change site title color."
+msgstr ""
+
+#: library/kopa.php:88
+#@ forcefull-lite
+msgid "BREAKING"
+msgstr ""
+
+#: library/kopa.php:122
+#, php-format
+#@ forcefull-lite
+msgid "Copyrights. &copy; %s by KOPASOFT"
+msgstr ""
+

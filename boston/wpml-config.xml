@@ -1,0 +1,42 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="translate">iframe_standard</custom-field>
+    <custom-field action="translate">gallery_images</custom-field>
+    <custom-field action="translate">iframe_audio</custom-field>
+    <custom-field action="translate">audio_type</custom-field>
+    <custom-field action="translate">video</custom-field>
+    <custom-field action="translate">video_type</custom-field>
+    <custom-field action="translate">blockquote</custom-field>
+    <custom-field action="translate">cite</custom-field>
+    <custom-field action="translate">link</custom-field>
+    <custom-field action="translate">fetured_post</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="boston">
+      <key name="last_tab"/>
+      <key name="site_favicon"/>
+      <key name="site_logo"/>
+      <key name="site_logo_dark"/>
+      <key name="logo_padding"/>
+      <key name="enable_sticky"/>
+      <key name="header_style"/>
+      <key name="featured_visible_items"/>
+      <key name="site_style"/>
+      <key name="main_font"/>
+      <key name="footer_text"/>
+      <key name="blog_listing_layout"/>
+      <key name="blog_listing_single_layout"/>
+      <key name="blog_single_author_desc_length"/>
+      <key name="blog_title_max_length"/>
+      <key name="blog_excerpt_max_length"/>
+      <key name="contact_mail"/>
+      <key name="contact_form_subject"/>
+      <key name="contact_map"/>
+      <key name="twitter-username"/>
+      <key name="twitter-oauth_access_token"/>
+      <key name="twitter-oauth_access_token_secret"/>
+      <key name="twitter-consumer_key"/>
+      <key name="twitter-consumer_secret"/>
+    </key>
+  </admin-texts>
+</wpml-config>

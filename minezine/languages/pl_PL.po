@@ -1,0 +1,1236 @@
+# Translation of the WordPress theme MineZine 1.2 by Tomas Toman.
+# This file is distributed under the same license as the MineZine package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MineZine 1.2\n"
+"POT-Creation-Date: 2014-06-02 16:58+0100\n"
+"PO-Revision-Date: 2014-10-14 11:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pawel Grochowski\n"
+"Language: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# @ minezine
+#: 404.php:9 search.php:40
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+# @ minezine
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania."
+
+# @ minezine
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ minezine
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ minezine
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ minezine
+#: archive.php:17
+msgid "Archive"
+msgstr "Archiwum"
+
+# @ minezine
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:157 functions.php:417
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:158 functions.php:421
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Coś poszło źle."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganej wtyczki"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Powrót do Kokpitu"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Wtyczka aktywowana."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Wtyczka została aktywowana:"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i są  aktywowane. %1$s"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Odrzuć tę informację"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Link zewnętrzny"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Prywatne repozytorium"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Wymagane"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Zalecane"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niezainstalowany"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nieaktywne"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczki do instalacji lub aktywacji. <a href=\"%1$s\" title=\"Return do "
+"Dashboard\">Powrót do Dashboard</a>"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Wtyczka"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Źródło"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Typ"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instaluj"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktywuj"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Pakiet instalacyjny nie jest dostępny."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Pobieranie instalowanego pakietu z <span class=\"code\">%s</span>&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie paczki&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalowanie wtyczki&#8230;"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Nie zainstalowano wtyczki"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Wtyczki zainstalowane pomyślnie."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji i aktywacji rozpoczęty. Ten proces może trochę potrwać, "
+"więc proszę o cierpliwość."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowana i aktywowana pomyślnie."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Instalacja rozpoczęta. Ten proces może trochę potrwać, więc proszę o "
+"cierpliwość."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+# @ minezine
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja wtyczki %1$s (%2$d/%3$d)"
+
+# @ minezine
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Powrót do Dashboard"
+
+# @ minezine
+#: comments.php:21 content-archives.php:22 single.php:19
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-grid.php:108
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentarz"
+msgstr[1] "%1$s Komentarzy"
+
+# @ minezine
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+# @ minezine
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Najnowsze komentarze &rarr;"
+
+# @ minezine
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Komentarze są zamknięte."
+
+# @ minezine
+#: comments.php:42
+msgid "Your name"
+msgstr "Twoje imię"
+
+# @ minezine
+#: comments.php:43
+msgid "Website"
+msgstr "strona"
+
+# @ minezine
+#: comments.php:44
+msgid "Comment..."
+msgstr "Komentarz ..."
+
+# @ minezine
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Dodaj komentarz"
+
+# @ minezine
+#: content-archives.php:19 single.php:16
+msgid "Author: "
+msgstr "Autor: "
+
+# @ minezine
+#: functions.php:122
+msgid "Main Header Menu"
+msgstr "Nagłowek - Menu główne"
+
+# @ minezine
+#: functions.php:123
+msgid "Top Header Menu"
+msgstr "Górny pasek - menu"
+
+# @ minezine
+#: functions.php:135
+msgid "Right Sidebar"
+msgstr "Prawy pasek boczny"
+
+# @ minezine
+#: functions.php:137
+msgid "Right sidebar which appears on all posts and pages."
+msgstr ""
+"Prawy pasek boczny, który pojawia się we wszystkich postach i na stronach."
+
+# @ minezine
+#: functions.php:144
+msgid "Footer left widget area"
+msgstr "Stopka, lewa strona widget"
+
+# @ minezine
+#: functions.php:146
+msgid "Left column with widgets in footer."
+msgstr "Stopka, lewa kolumna z widgetami."
+
+# @ minezine
+#: functions.php:153
+msgid "Footer middle widget area"
+msgstr "Stopka, środek widget"
+
+# @ minezine
+#: functions.php:155
+msgid "Middle column with widgets in footer."
+msgstr "Stopka, środkowa kolumna z widgetami."
+
+# @ minezine
+#: functions.php:162
+msgid "Footer right widget area"
+msgstr "Stopka, prawa strona widget"
+
+# @ minezine
+#: functions.php:164
+msgid "Right column with widgets in footer."
+msgstr "Stopka, prawa kolumna z widgetami."
+
+# @ minezine
+#: functions.php:171
+msgid "Footer notices"
+msgstr "Stopka, pole notatek"
+
+# @ minezine
+#: functions.php:173
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Linia do praw autorskich i innych informacji, poniżej obszarów widgetów "
+"stopki. Wstaw tutaj jeden widget tekstu. Pole \"Tytuł\" w tym widgecie "
+"powinno zostać puste."
+
+# @ minezine
+#: functions.php:180
+msgid "Latest Posts Homepage widget area"
+msgstr "Ostatnie posty, Homepage"
+
+# @ minezine
+#: functions.php:182
+msgid ""
+"The area for any MineZine Posts Widgets, which displays latest posts from a "
+"specific category below the default Latest Posts area."
+msgstr ""
+"Obszar dla wszelkich postów widgetu MineZine, który wyświetla najnowsze "
+"wiadomości z określonej kategorii poniżej domyślnego obszaru Ostatnich "
+"postów."
+
+# @ minezine
+#: functions.php:189
+msgid "Homepage slideshow"
+msgstr "Pokaz slajdów strona główna"
+
+# @ minezine
+#: functions.php:191
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Obszar dla Cyclone Slider Widget, który wyświetla pokaz slajdów na stronie "
+"głównej."
+
+# @ minezine
+#: functions.php:210
+msgid "Read more"
+msgstr "Więcej"
+
+# @ minezine
+#: functions.php:240
+msgid "Post navigation"
+msgstr "Temat nawigacji"
+
+# @ minezine
+#: functions.php:248 search.php:28
+msgid "&larr; Previous"
+msgstr "&larr; Poprzedni"
+
+# @ minezine
+#: functions.php:249 search.php:29
+msgid "Next &rarr;"
+msgstr "Następny &rarr;"
+
+# @ minezine
+#: functions.php:271
+msgid "&larr; Previous post"
+msgstr "&larr; Poprzedni post"
+
+# @ minezine
+#: functions.php:273
+msgid "Next post &rarr;"
+msgstr "Następny post &rarr;"
+
+# @ minezine
+#: functions.php:291
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ minezine
+#: functions.php:291
+msgid "(Edit)"
+msgstr "(Eytuj)"
+
+# @ minezine
+#: functions.php:304
+msgid "(Post author)"
+msgstr "(Post autora)"
+
+# @ minezine
+#: functions.php:310
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+# @ minezine
+#: functions.php:316
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na akceptację."
+
+# @ minezine
+#: functions.php:322
+msgid "Reply"
+msgstr "Odpowiedź"
+
+# @ minezine
+#: functions.php:324 page.php:16 single.php:30
+#: template-full-width-without-sharing.php:17 template-full-width.php:17
+#: template-landing-page.php:16 template-sitemap.php:18
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Edit"
+msgstr "Edycja"
+
+# @ minezine
+#: functions.php:416
+msgid "Install Recommended Plugins"
+msgstr "Zainstaluj rekomendowane wtyczki"
+
+# @ minezine
+#: functions.php:418
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s wtyczka jest wymagana do tego tematu. Kliknij na poniższy duży "
+"niebieski przycisk aby ją zainstalować i aktywować %1$s."
+
+# @ minezine
+#: functions.php:419
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s jest zainstalowana, ale nieaktywna. Przejdź do zakładki <a href=\"%2$s"
+"\">Wtyczki</a>, aby ją aktywować."
+
+# @ minezine
+#: functions.php:420
+#, php-format
+msgid "Install %s Now"
+msgstr "Zainstaluj teraz %s"
+
+# @ minezine
+#: functions.php:422
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+# @ minezine
+#: functions.php:423
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Temat ten wymaga %1$s wtyczki. <a href=\"%2$s\"><strong> Kliknij tutaj, aby "
+"rozpocząć proces instalacji </ strong></a>. Możesz zostać poproszony o "
+"poświadczenie FTP w oparciu o konfiguracji serwera."
+
+# @ minezine
+#: functions.php:424
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby zainstalować wtyczkę "
+"%s. Skontaktuj się z administratorem strony aby to zrobić."
+
+# @ minezine
+#: functions.php:425
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Temat ten wymaga wtyczki %1$s. Wtyczka jest aktualnie nieaktywna, proszę iść "
+"do <a href=\"%2$s\">strony administracji wtyczki</a>, aby go uaktywnić."
+
+# @ minezine
+#: functions.php:426
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczkę. "
+"Aby ją aktywować skontaktuj się z administratorem strony."
+
+# @ minezine
+#: functions.php:427
+msgid "Return to Recommended Plugins Installer"
+msgstr "Powrót do instalatora rekomendowanych wtyczek "
+
+# @ minezine
+#: functions.php:438
+msgid "MineZine"
+msgstr "MineZine"
+
+# @ minezine
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+# @ minezine
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Liczba wyników: "
+
+# @ minezine
+#: search.php:20
+msgid "Search results navigation"
+msgstr "Wyniki wyszukiwania nawigacji"
+
+# @ minezine
+#: search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych wyników spełniających kryteria "
+"wyszukiwania. Spróbuj ponownie używając innych słów kluczowych."
+
+# @ minezine
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Szukaj"
+
+# @ minezine
+#: single.php:29
+msgid "Pages:"
+msgstr "Strony:"
+
+# @ minezine
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiwum: %s"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Powiększ zdjęcie"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+# @ cycloneslider
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Typ slajdów nie działa."
+
+# @ minezine
+#: functions/be/fw-options.php:1328
+msgid "settings reset."
+msgstr "przywróć ustawienia."
+
+# @ minezine
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nie znaleziono podanego adresu lokalizacji."
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Nieprawidłowe żądanie. Czy podałeś adres?"
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Coś poszło nie tak podczas pobierania mapy, należy upewnić się, że "
+"prawidłowo wpisano krótki kod."
+
+# @ minezine
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Nie można połączyć się z serwisem Google API."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Facebook Like Box."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:14
+msgid "MineZine Facebook Like Box Widget"
+msgstr "MineZine Facebook Like Box Widget"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:67
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Tytuł:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Adres URL strony na Facebook:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Wstaw tutaj pełny adres URL swojej strony na Facebook, (przykład: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Wysokość boksu Like (opcjonalnie)"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Wstaw tutaj wysokość boksu Like. Wartość w pikselach, w polu należy wpisać "
+"TYLKO CYFRY (bez symbolu \"px\")!"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Pokaż profile:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr "Określ, czy wyświetlać zdjęcia ludzi, którzy lubią stronę."
+
+# @ minezine
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Pokaż strumień wiadomości:"
+
+# @ minezine
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Określ, czy wyświetlać strumień najnowszych wiadomości przez stronę."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Wyświetla okno z niestandardowego tekstu i ikony."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:14
+msgid "MineZine Info-Box"
+msgstr "MineZine Info-Box"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Ikona:"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:44
+msgid "Basket"
+msgstr "Koszyk"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:45
+msgid "Book"
+msgstr "Książka"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:46
+msgid "Calendar"
+msgstr "Kalendarz"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:47
+msgid "Comments"
+msgstr "Komentarze"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:48
+msgid "Download"
+msgstr "Pobierz"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:49
+msgid "Envelope"
+msgstr "Koperta"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:50
+msgid "Globe"
+msgstr "Glob"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:51
+msgid "Heart"
+msgstr "Serce"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:52
+msgid "Home"
+msgstr "Strona głowna"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:53
+msgid "Notepad"
+msgstr "Notatnik"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:54
+msgid "Pin"
+msgstr "Pin"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:55
+msgid "Star"
+msgstr "Gwiazda"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:56
+msgid "Tick"
+msgstr "Tick"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:57
+msgid "User"
+msgstr "Użytkownik"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:58
+msgid "none"
+msgstr "brak"
+
+# @ minezine
+#: functions/fe/widget-info-box.php:61
+msgid "Select an icon which will be displayed beside the title."
+msgstr "Wybierz ikonę, która będzie wyświetlana obok tytułu."
+
+# @ minezine
+#: functions/fe/widget-info-box.php:74
+msgid "Text:"
+msgstr "Tekst:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako kolumny z podświetlonym pierwszym "
+"postem."
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:14
+msgid "MineZine Posts-Column"
+msgstr "MineZine kolumna z postami"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Kategoria:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Wybierz kategorię postu."
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Liczba postów:"
+
+# @ minezine
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Wstaw tutaj liczbę najnowszych wiadomości z wybranej kategorii, które mają "
+"być wyświetlane."
+
+# @ minezine
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Najnowsze domyślne posty z wybranej kategorii."
+
+# @ minezine
+#: functions/fe/widget-posts-default.php:14
+msgid "MineZine Posts-Default"
+msgstr "MineZine domyślne posty"
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Najnowsze posty z wybranej kategorii jako tabela."
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:14
+msgid "MineZine Posts-Grid"
+msgstr "MineZine tabela postów"
+
+# @ minezine
+#: functions/fe/widget-posts-grid.php:111
+msgid "Read more &gt;"
+msgstr "Więcej &gt;"
+
+# @ minezine
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Najnowsze posty z wybranej kategorii jako nieuporządkowana lista z "
+"podświetlonym pierwszym postem."
+
+# @ minezine
+#: functions/fe/widget-posts-list.php:14
+msgid "MineZine Posts-List"
+msgstr "MineZine lista postów"
+
+# @ minezine
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Najnowsze posty z wybranej kategorii jako suwak."
+
+# @ minezine
+#: functions/fe/widget-posts-slider.php:14
+msgid "MineZine Posts-Slider"
+msgstr "MineZine suwak postów"
+
+# @ minezine
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Najnowsze posty z wybranej kategorii jako miniatury."
+
+# @ minezine
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "MineZine Posts-Thumbnail"
+msgstr "MineZine miniatury postów"
+
+# @ minezine
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by MineZine"
+msgstr "Social widget MineZine"
+
+# @ minezine
+#: functions/fe/widget-social.php:14
+msgid "MineZine Social Widget"
+msgstr "MineZine Social Widget"
+
+# @ minezine
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ minezine
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Twitterze."
+
+# @ minezine
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ minezine
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Wprowadź pełny adres URL profilu, strony lub grupy na Facebook."
+
+# @ minezine
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ minezine
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr "Wprowadź adres URL RSS. Możesz podać swój RSS z FeedBurner."
+
+# @ minezine
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+# @ minezine
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Wprowadź pełny adres URL swojego profilu Google Plus"
+
+# @ minezine
+#: functions/fe/widget-social.php:133
+msgid "You Tube:"
+msgstr "YouTube:"
+
+# @ minezine
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na YouTube."
+
+# @ minezine
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ minezine
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na LinkedIn."
+
+# @ minezine
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+# @ minezine
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Wprowadź pełny adres URL swojego profilu Delicious."
+
+# @ minezine
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ minezine
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Pinterest."
+
+# @ minezine
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ minezine
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Flickr."
+
+# @ minezine
+#: functions/fe/widget-social.php:123
+msgid "Instagram:"
+msgstr "Instagram:"
+
+# @ minezine
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Instagram profile."
+msgstr "Wprowadź pełny adres URL swojego profilu na Instagram."
+
+# @ minezine
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by MineZine"
+msgstr "MineZine Twitter widget."
+
+# @ minezine
+#: functions/fe/widget-twitter.php:15
+msgid "MineZine Twitter Widget"
+msgstr "MineZine Twitter Widget"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Dołącz do nas na Twitterze"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Nazwa użytkownika na Twitter:"
+
+# @ minezine
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: minezine)."
+msgstr "Wprowadź swoją nazwę użytkownika na Twitter. (przykład: minezine)."
+
+# @ minezine
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Wyświetl popularne posty, ostatnie posty, komentarze i tagi w formacie "
+"zakładkami."
+
+# @ minezine
+msgid "Select Tabs"
+msgstr "Wybierz zakładki"
+
+# @ minezine
+msgid "Popular Tab"
+msgstr "Popularne zakładki"
+
+# @ minezine
+msgid "Recent Tab"
+msgstr "Najnowsze zakładki"
+
+# @ minezine
+msgid "Comments Tab"
+msgstr "Zakładki komentarzy"
+
+# @ minezine
+msgid "Tags Tab"
+msgstr "Zakładka tagów"
+
+# @ minezine
+msgid "Tab Order"
+msgstr "Kolejność zakładek"
+
+# @ minezine
+msgid "Popular"
+msgstr "Popularne"
+
+# @ minezine
+msgid "Recent"
+msgstr "Najnowsze"
+
+# @ minezine
+msgid "Tags"
+msgstr "Tagi"
+
+# @ minezine
+msgid "Advanced Options"
+msgstr "Opcje zaawansowane"
+
+# @ minezine
+msgid "Allow pagination"
+msgstr "Umożliwiają podział na strony"
+
+# @ minezine
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+# @ minezine
+msgid "Show post thumbnails"
+msgstr "Pokaż miniatury postów"
+
+# @ minezine
+msgid "Show post date"
+msgstr "Pokaż datę postu"
+
+# @ minezine
+msgid "Show number of comments"
+msgstr "Pokaż liczbę komentarzy"
+
+# @ minezine
+msgid "Show post excerpt"
+msgstr "Pokaż wiadomość - fragment"
+
+# @ minezine
+msgid "Excerpt length (words):"
+msgstr "Długość fragmentu (słowa):"
+
+# @ minezine
+msgid "Number of comments on Comments Tab:"
+msgstr "Ilość komentarzy w zakładce Komentarze:"
+
+# @ minezine
+msgid "Show avatars on Comments Tab"
+msgstr "Pokaż awatary na zakładce Komentarze"
+
+# @ minezine
+msgid "No Comment"
+msgstr "Brak komentarzy"
+
+# @ minezine
+msgid "One Comment"
+msgstr "Jeden komentarz"
+
+# @ minezine
+msgid "No comments yet."
+msgstr "Brak komentarzy."
+
+# @ minezine
+msgid "No tags created."
+msgstr "Brak tagów."
+
+# @ minezine
+#: template-logged-in.php:29
+msgid "You must be logged in to view this page."
+msgstr "Musisz być zalogowany, aby zobaczyć tę stronę."
+
+# @ minezine
+#: functions.php:140
+msgid "Carousel Menu"
+msgstr "Menu karuzeli"

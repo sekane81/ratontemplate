@@ -1,0 +1,29 @@
+#ts-style-selector-wrap { width: 180px; position: fixed; top: 0px; bottom: 0px; left: -180px; border-right: 1px dashed #e1e1e1; background: #fff; z-index: 310; padding-top: 20px; }
+#ts-style-selector-wrap.open { left: 0; }
+#ts-style-selector-toggle { position: absolute; top: 40px; right: -30px; width: 30px; height: 30px; overflow: hidden; display: block; border: 1px dashed #e1e1e1; background: #fff; border-left: none; }
+body.admin-bar #ts-style-selector-toggle { top: 100px; }
+#ts-style-selector-toggle span { display: block; padding: 6px 0 0 0; text-align: center;}
+#ts-style-selector-toggle i { font-size: 18px; }
+#ts-style-selector { padding: 20px; }
+#ts-style-selector h4 { margin-bottom: 0px; border-bottom: 1px solid #e5e5e5; padding-bottom: 10px; }
+#ts-style-selector h5 { text-transform: uppercase; font-size: 12px; margin-bottom: 3px; }
+#ts-style-selector h5 span { text-transform: lowercase; }
+#ts_style_skin { padding: 5px; margin: 0; }
+.ts-style-selector-pocket { margin-top: 15px; }
+.ts-style-selector-pocket select { width: 100%; }
+.ts-style-selector-pocket .small { margin-top: 3px; }
+.ts-style-color-options a { text-decoration: none !important; display: block; float: left; position: relative; width: 24px; height: 24px; margin: 0 3px 3px 0; overflow: hidden; }
+.ts-style-bg-options a { text-decoration: none !important; display: block; float: left; position: relative; width: 24px; height: 24px; margin: 0 3px 3px 0; overflow: hidden; background-attachment: scroll; }
+.ts-style-color-options a:hover,
+.ts-style-color-options a.active,
+.ts-style-bg-options a:hover,
+.ts-style-bg-options a.active { 
+    -webkit-box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+       -moz-box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5); 
+            box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+}
+.ts-style-bg-options a.active.border-primary {
+    border-width: 1px;
+    border-style: solid;
+}
+.ts-style-bg-options a.end { margin-right: 0px; }

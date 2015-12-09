@@ -1,0 +1,67 @@
+/*
+Theme Name: Boston Blog Theme
+Theme URI: http://demo.powerthemes.club/themes/boston
+Description: Boston Theme For Bloggers
+Author: powerthemes
+Author URI: http://themeforest.net/user/banes/
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.1
+Tags: white
+*/
+/* TABLE OF CONTENTS -----------------------------
+
+0.      Colors
+1.      Overall & Common Styling
+2.      Header
+            -Logo
+            -Navigation
+            -submenu
+            -submenu level 2
+            -sticky nav
+3.      Main Content
+            -posts
+            -posts quote
+            -post gallery
+            -post link & quote
+            -responsive post
+4.      Sidebar
+            -widget categories
+            -handpicked posts
+            -widget tag cloud
+            -widget author
+            -search widget
+            -meta tags
+            -social share
+            -popular posts
+            -calendar
+5.      Post Single Page
+            -tags
+            -inner widget
+            -inner author widget
+            -iw meta widget
+            -iw share post widget
+            -iw comments link widget
+            -iw dat widget
+            -post comments
+            -leave comment
+6.      Footer
+            -text widget
+            -instafeed widget
+            -footer share
+            -footer tagcloud
+            -chosen posts widget
+7.      Copyrights
+8.      Slider
+9.      Pagination
+10.     Wordpress Core
+            -text meant only for screen readers
+11.     Contact Page
+12.     Shortcodes
+13.     Responsiveness
+
+
+----------------------------------------------- */
+
+.gallery-caption{}
+.bypostauthor{}

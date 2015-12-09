@@ -1,0 +1,19 @@
+.home-slider .entry-item .entry-thumb a,
+.search-box .search-form .search-text,
+.search-box .search-form .search-submit,
+.home-slider .flex-direction-nav a,
+.kopa-carousel-widget .list-carousel ul li .entry-thumb a, 
+.kopa-article-list-widget .tab-container-1 .entry-thumb a, 
+.kopa-related-post .list-carousel ul li .entry-thumb a,
+.kopa-social-widget ul li a,
+.kopa-popular-post-widget .entry-item .entry-thumb a,
+.play-icon,
+#pf-items .element .entry-thumb a,
+.kopa-social-static-widget ul li .social-icon,
+.entry-list li .entry-item .entry-thumb a,
+.kopa-carousel-widget .pager a, .kopa-related-post .pager a {
+	behavior: url(js/PIE.htc);
+}
+
+
+

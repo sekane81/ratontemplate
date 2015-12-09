@@ -1,0 +1,121 @@
+/* #Tablet (Landscape)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 959px) and (max-width: 1177px) {
+	body {overflow-x: hidden}
+	.boxed, .boxed-margin {width: 98%;margin: 0 auto}
+	.boxed-margin {margin: 10px auto}
+	.row {width: 88%}
+
+	a.btn_canvas, #layout .tt_nav .sf-menu {display: block}
+	.sec_head .sf-menu li a {padding: 0 10px}
+	.more_news_pic.featured_thumb {width: 28.4%}
+	.grid_6 .def_wgr {min-width: 178px;width: 40%;min-height: 200px}
+	.sec_head .subarrow, .b_4 .tt_review, #header .sf-menu, #layout .head_t a.btn_canvas {display: none}
+	.details_w {width: 36%}
+	.ads_widget a {float: none !important;margin: 10px auto;display: table}
+	.two_col_mas .post { width: 45% }
+	.grid_9 .two_col_mas .post { width: 45% }
+	.grid_6 .two_col_mas .post { width: 44% }
+	.grid_6.alpha .two_col_mas .post, .grid_6.omega .two_col_mas .post { width: 44% }
+	.three_col_mas .post { width: 29.4% }
+	.grid_9 .three_col_mas .post { width: 28% }
+	.grid_6 .three_col_mas .post { width: 43% }
+	.grid_6.alpha .three_col_mas .post, .grid_6.omega .three_col_mas .post { width: 43% }
+	.four_col_mas .post { width: 29.4% }
+	.grid_9 .four_col_mas .post { width: 29% }
+	.grid_6 .four_col_mas .post { width: 43% }
+	.grid_6.alpha .four_col_mas .post, .grid_6.omega .four_col_mas .post { width: 43% }
+}
+
+/* #Tablet (Portrait)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body {overflow-x: hidden}
+	.boxed, .boxed-margin {width: 100%;margin: 0 auto}
+	.row { width: 88% }
+	.sidebar {width: 100%;margin: 0 0 40px}
+	.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12,
+	.grid_1.alpha,.grid_1.omega, .grid_2.alpha,.grid_2.omega, .grid_3.alpha,.grid_3.omega, .grid_4.alpha,.grid_4.omega, .grid_5.alpha,.grid_5.omega,
+	.grid_6.alpha,.grid_6.omega, .grid_7.alpha,.grid_7.omega, .grid_8.alpha,.grid_8.omega, .grid_9.alpha,.grid_9.omega, .grid_10.alpha,.grid_10.omega, .grid_11.alpha,.grid_11.omega {width: 100%;margin: 0 0 30px}
+
+	a.btn_canvas, #layout .tt_nav .sf-menu {display: block}
+	#header .sf-menu, #layout .head_t a.btn_canvas { display: none }
+	h3 {font-size: 16px}
+	.pagination-tt {margin: 0 0 60px 0}
+	.copyright {float: none;display: table;margin: 0 auto}
+	#footer .grid_3, #footer .grid_4, #footer .grid_9 {width: 48%; margin: 0 1% 30px}
+	.grid_8 .grid_6 {width: 48%}
+	.b_6 .grid_6, .b_1 .grid_6, .b_3 .grid_6 {width: 48%;margin: 0 1%}
+	.b_3 .more_posts {margin-top: -10px}
+	#footer .sf-menu {float: none;margin: 20px auto 0;display: table}
+	.ads_widget a {float: none !important;margin: 10px auto;display: table}
+	.sec_head .breaking {margin: 0}
+	.masonry_T .post {width: auto}
+	.widget, .T20-tabs-nav, .load_anim .introfx, .load_anim .introfxo > div {opacity: 1 !important}
+	#masonry-container .post { width: 46% !important }
+}
+
+/* #Mobile (Landscape)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+	body {overflow-x: hidden}
+	.boxed, .boxed-margin {width: 100%;margin: 0 auto}
+	.row { width: 88% }
+	.sidebar {width: 100%;margin: 0 0 40px}
+	.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12,
+	.grid_1.alpha,.grid_1.omega, .grid_2.alpha,.grid_2.omega, .grid_3.alpha,.grid_3.omega, .grid_4.alpha,.grid_4.omega, .grid_5.alpha,.grid_5.omega,
+	.grid_6.alpha,.grid_6.omega, .grid_7.alpha,.grid_7.omega, .grid_8.alpha,.grid_8.omega, .grid_9.alpha,.grid_9.omega, .grid_10.alpha,.grid_10.omega, .grid_11.alpha,.grid_11.omega {width: 100%;margin: 0 0 30px}
+
+	a.btn_canvas {display: block}
+	h3 {font-size: 16px}
+	.pagination-tt {margin: 0 0 60px 0}
+	.copyright {float: none;display: table;margin: 0 auto}
+	#popup {width: 300px}
+	.banner {margin: 0 0 10px;width: 100%}
+	.sec_head .social, #header .sf-menu { display: none }
+	.sec_head .r_post { display: block }
+	.medium_thumb .post_thumbnail {width: 100%;margin: 0 0 10px 0}
+	#slideshowt .slider_content {width: 100%}
+	.big_carousel .owl-pagination, .slideshow_b5 .owl-pagination, #slideshowt .slider_tabs, .sec_head .breaking, #layout .e_center .sf-menu {display: none}
+	#block_carousel .owl-controls {right: -20px}
+	.grid_6 .def_wgr {min-width: inherit;width: 94%}
+	#footer .sf-menu {float: none;margin: 20px auto 0;display: table}
+	.ads_widget a {float: none !important;margin: 10px auto;display: table}
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {width: 100%}
+	.grid_6 .def_wgr {width: 92%}
+	.masonry_T .post {width: auto}
+	.widget, .T20-tabs-nav, .load_anim .introfx, .load_anim .introfxo > div {opacity: 1 !important}
+	#masonry-container .post { width: 95% !important }
+}
+
+/*  #Mobile (Portrait) 320px
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 100px) and (max-width: 480px) {
+	body {overflow-x: hidden}
+	.boxed, .boxed-margin {width: 100%;margin: 0 auto}
+	.row { width: 88%; padding: 0; }
+	.sidebar {width: 100%;margin: 0 0 40px}
+	.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12,
+	.grid_1.alpha,.grid_1.omega, .grid_2.alpha,.grid_2.omega, .grid_3.alpha,.grid_3.omega, .grid_4.alpha,.grid_4.omega, .grid_5.alpha,.grid_5.omega,
+	.grid_6.alpha,.grid_6.omega, .grid_7.alpha,.grid_7.omega, .grid_8.alpha,.grid_8.omega, .grid_9.alpha,.grid_9.omega, .grid_10.alpha,.grid_10.omega, .grid_11.alpha,.grid_11.omega {width: 100%;margin: 0 0 30px}
+
+	a.btn_canvas {display: block}
+	h3 {font-size: 16px}
+	.pagination-tt {margin: 0 0 60px 0}
+	.copyright {float: none;display: table;margin: 0 auto}
+	#popup {width: 220px}
+	.banner {margin: 0 0 10px;width: 100%}
+	#slideshowt .slider_content {width: 100%}
+	.sec_head .r_post { display: block }
+	.medium_thumb .post_thumbnail {margin: 0 0 10px 0}
+	.big_carousel .owl-pagination, .slideshow_b5 .owl-pagination, .sec_head .social, #header .sf-menu, #slideshowt .slider_tabs, .sec_head .breaking, #layout .e_center .sf-menu {display: none}
+	.more_news_pic.featured_thumb {width: 29%}
+	#block_carousel .owl-controls {right: -24px}
+	#footer .sf-menu {float: none;margin: 20px auto 0;display: table}
+	.ads_widget a {float: none !important;margin: 10px auto;display: table}
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {width: 100%}
+	.grid_6 .def_wgr {width: 92%}
+	.masonry_T .post {width: auto}
+	.widget, .T20-tabs-nav, .load_anim .introfx, .load_anim .introfxo > div {opacity: 1 !important}
+	#masonry-container .post { width: 95% !important }
+}

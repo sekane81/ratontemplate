@@ -1,0 +1,3011 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rule - Retina Responsive WordPress Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-06 22:04:06+0000\n"
+"Last-Translator: admin <zerge.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:20
+#@ color-theme-framework
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:31
+#@ color-theme-framework
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:35
+#@ color-theme-framework
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:1163
+#: admin/old/classes/class.options_machine.php:535
+#@ color-theme-framework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#: admin/old/front-end/options.php:43
+#: admin/old/front-end/options.php:67
+#@ color-theme-framework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#: admin/old/front-end/options.php:68
+#@ color-theme-framework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.options.php:165
+#@ color-theme-framework
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:169
+#@ color-theme-framework
+msgid "Seleccione Categoría para la Home principal"
+msgstr ""
+
+#: admin/functions/functions.options.php:170
+#@ color-theme-framework
+msgid "Pick a Category for the Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:177
+#@ color-theme-framework
+msgid "Select a Layout for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:178
+#@ color-theme-framework
+msgid "Select 3/4/5 columns for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:185
+#@ color-theme-framework
+msgid "Sidebar position for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:186
+#@ color-theme-framework
+msgid "Select sidebar position for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:193
+#@ color-theme-framework
+msgid "Select a Layout for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:194
+#@ color-theme-framework
+msgid "Select 3/4/5 columns for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:202
+#@ color-theme-framework
+msgid "Sidebar position for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:203
+#@ color-theme-framework
+msgid "Select sidebar position for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:210
+#@ color-theme-framework
+msgid "Type of Pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:211
+#@ color-theme-framework
+msgid "Select Standard or Infinite Scroll pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:218
+#@ color-theme-framework
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:219
+#@ color-theme-framework
+msgid "Enable/Disable responsive layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:222
+#@ color-theme-framework
+msgid "Enable"
+msgstr ""
+
+#: admin/functions/functions.options.php:223
+#@ color-theme-framework
+msgid "Disable"
+msgstr ""
+
+#: admin/functions/functions.options.php:227
+#@ color-theme-framework
+msgid "Exclude Pages From Search?"
+msgstr ""
+
+#: admin/functions/functions.options.php:228
+#@ color-theme-framework
+msgid "Select Yes, if you can exclude pages from search"
+msgstr ""
+
+#: admin/functions/functions.options.php:231
+#: admin/functions/functions.options.php:329
+#: admin/functions/functions.options.php:552
+#: admin/functions/functions.options.php:983
+#: admin/functions/functions.options.php:992
+#@ color-theme-framework
+msgid "Yes"
+msgstr ""
+
+#: admin/functions/functions.options.php:232
+#: admin/functions/functions.options.php:330
+#: admin/functions/functions.options.php:553
+#: admin/functions/functions.options.php:984
+#: admin/functions/functions.options.php:993
+#@ color-theme-framework
+msgid "No"
+msgstr ""
+
+#: admin/functions/functions.options.php:236
+#@ color-theme-framework
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:237
+#@ color-theme-framework
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:243
+#@ color-theme-framework
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:244
+#@ color-theme-framework
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:257
+#: admin/functions/functions.options.php:261
+#@ color-theme-framework
+msgid "Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:262
+#@ color-theme-framework
+msgid "Show/Hide Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:265
+#: admin/functions/functions.options.php:360
+#: admin/functions/functions.options.php:433
+#: admin/functions/functions.options.php:898
+#: admin/functions/functions.options.php:907
+#: admin/functions/functions.options.php:916
+#: admin/functions/functions.options.php:925
+#: admin/functions/functions.options.php:934
+#: admin/functions/functions.options.php:944
+#: admin/functions/functions.options.php:963
+#: admin/functions/functions.options.php:1001
+#: admin/functions/functions.options.php:1018
+#: admin/functions/functions.options.php:1028
+#: admin/functions/functions.options.php:1038
+#: admin/functions/functions.options.php:1047
+#: admin/functions/functions.options.php:1057
+#: admin/functions/functions.options.php:1067
+#@ color-theme-framework
+msgid "Show"
+msgstr ""
+
+#: admin/functions/functions.options.php:266
+#: admin/functions/functions.options.php:361
+#: admin/functions/functions.options.php:434
+#: admin/functions/functions.options.php:899
+#: admin/functions/functions.options.php:908
+#: admin/functions/functions.options.php:917
+#: admin/functions/functions.options.php:926
+#: admin/functions/functions.options.php:935
+#: admin/functions/functions.options.php:945
+#: admin/functions/functions.options.php:964
+#: admin/functions/functions.options.php:1002
+#: admin/functions/functions.options.php:1019
+#: admin/functions/functions.options.php:1029
+#: admin/functions/functions.options.php:1039
+#: admin/functions/functions.options.php:1048
+#: admin/functions/functions.options.php:1058
+#: admin/functions/functions.options.php:1068
+#@ color-theme-framework
+msgid "Hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:270
+#@ color-theme-framework
+msgid "Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:271
+#@ color-theme-framework
+msgid "Pick a background color (default: #00AEFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:278
+#@ color-theme-framework
+msgid "Background Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:279
+#@ color-theme-framework
+msgid "Set opacity for welcome block background<br /> Min: 0, max: 1, step: 0.01, default value: 0.5"
+msgstr ""
+
+#: admin/functions/functions.options.php:286
+#@ color-theme-framework
+msgid "Text and Headings Styles"
+msgstr ""
+
+#: admin/functions/functions.options.php:287
+#@ color-theme-framework
+msgid "Choose parameters for welcome text and headings"
+msgstr ""
+
+#: admin/functions/functions.options.php:294
+#@ color-theme-framework
+msgid "Text Align"
+msgstr ""
+
+#: admin/functions/functions.options.php:295
+#@ color-theme-framework
+msgid "Select left/center/right align for welcome text"
+msgstr ""
+
+#: admin/functions/functions.options.php:303
+#@ color-theme-framework
+msgid "Welcome Block Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:304
+#: admin/functions/functions.options.php:612
+#: admin/functions/functions.options.php:855
+#@ color-theme-framework
+msgid "The text-transform property controls the capitalization of text."
+msgstr ""
+
+#: admin/functions/functions.options.php:317
+#@ color-theme-framework
+msgid "Links Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:318
+#@ color-theme-framework
+msgid "Pick a links color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:325
+#@ color-theme-framework
+msgid "Remove Text Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:326
+#@ color-theme-framework
+msgid "Remove text padding for Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:335
+#@ color-theme-framework
+msgid "Text/Code for Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:336
+#@ color-theme-framework
+msgid "Enter text or code"
+msgstr ""
+
+#: admin/functions/functions.options.php:352
+#@ color-theme-framework
+msgid "Header Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+#@ color-theme-framework
+msgid "Search Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+#@ color-theme-framework
+msgid "Show/Hide the Search Block on the Home Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:365
+#@ color-theme-framework
+msgid "Logo Block Width"
+msgstr ""
+
+#: admin/functions/functions.options.php:366
+#@ color-theme-framework
+msgid "Select your logo block width"
+msgstr ""
+
+#: admin/functions/functions.options.php:373
+#@ color-theme-framework
+msgid "Right Block Width (search, social icons, contacts)"
+msgstr ""
+
+#: admin/functions/functions.options.php:374
+#@ color-theme-framework
+msgid "Select your right block width"
+msgstr ""
+
+#: admin/functions/functions.options.php:389
+#@ color-theme-framework
+msgid "Type of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:390
+#@ color-theme-framework
+msgid "Select your logo type ( Image or Text )"
+msgstr ""
+
+#: admin/functions/functions.options.php:397
+#@ color-theme-framework
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:398
+#@ color-theme-framework
+msgid "Upload image using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:404
+#@ color-theme-framework
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:405
+#@ color-theme-framework
+msgid "Enter text for logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:411
+#@ color-theme-framework
+msgid "Logo Slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:412
+#@ color-theme-framework
+msgid "Enter text for logo slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:425
+#: admin/functions/functions.options.php:429
+#@ color-theme-framework
+msgid "Social Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:430
+#@ color-theme-framework
+msgid "Show/Hide the Social Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:446
+#@ color-theme-framework
+msgid "Text For Social Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:447
+#@ color-theme-framework
+msgid "Enter the text for social icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:453
+#: header.php:201
+#@ color-theme-framework
+msgid "Android"
+msgstr ""
+
+#: admin/functions/functions.options.php:454
+#: admin/functions/functions.options.php:461
+#: admin/functions/functions.options.php:468
+#: admin/functions/functions.options.php:475
+#: admin/functions/functions.options.php:482
+#: admin/functions/functions.options.php:489
+#: admin/functions/functions.options.php:496
+#: admin/functions/functions.options.php:503
+#: admin/functions/functions.options.php:510
+#: admin/functions/functions.options.php:517
+#: admin/functions/functions.options.php:524
+#: admin/functions/functions.options.php:531
+#@ color-theme-framework
+msgid "Enter the URL in the text field"
+msgstr ""
+
+#: admin/functions/functions.options.php:460
+#: header.php:204
+#@ color-theme-framework
+msgid "Apple"
+msgstr ""
+
+#: admin/functions/functions.options.php:467
+#@ color-theme-framework
+msgid "Dribble"
+msgstr ""
+
+#: admin/functions/functions.options.php:474
+#@ color-theme-framework
+msgid "GitHub"
+msgstr ""
+
+#: admin/functions/functions.options.php:481
+#: functions/ct-flickr-widget.php:162
+#: header.php:213
+#@ color-theme-framework
+msgid "Flickr"
+msgstr ""
+
+#: admin/functions/functions.options.php:488
+#: header.php:216
+#@ color-theme-framework
+msgid "Youtube"
+msgstr ""
+
+#: admin/functions/functions.options.php:495
+#: header.php:219
+#@ color-theme-framework
+msgid "Instagram"
+msgstr ""
+
+#: admin/functions/functions.options.php:502
+#: header.php:222
+#@ color-theme-framework
+msgid "Skype"
+msgstr ""
+
+#: admin/functions/functions.options.php:509
+#: header.php:225
+#@ color-theme-framework
+msgid "Pinterest"
+msgstr ""
+
+#: admin/functions/functions.options.php:516
+#@ color-theme-framework
+msgid "Google"
+msgstr ""
+
+#: admin/functions/functions.options.php:523
+#: functions/ct-twitter-widget.php:245
+#: header.php:231
+#@ color-theme-framework
+msgid "Twitter"
+msgstr ""
+
+#: admin/functions/functions.options.php:530
+#: header.php:234
+#@ color-theme-framework
+msgid "Facebook"
+msgstr ""
+
+#: admin/functions/functions.options.php:544
+#@ color-theme-framework
+msgid "Menu Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:548
+#@ color-theme-framework
+msgid "Sticky Menu?"
+msgstr ""
+
+#: admin/functions/functions.options.php:549
+#@ color-theme-framework
+msgid "Use sticky menu?"
+msgstr ""
+
+#: admin/functions/functions.options.php:557
+#@ color-theme-framework
+msgid "Menu Layout Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:558
+#@ color-theme-framework
+msgid "Selectmenu position ( before logo/after logo )"
+msgstr ""
+
+#: admin/functions/functions.options.php:568
+#@ color-theme-framework
+msgid "Menu Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:569
+#@ color-theme-framework
+msgid "Select menu position"
+msgstr ""
+
+#: admin/functions/functions.options.php:576
+#@ color-theme-framework
+msgid "Menu Block Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:577
+#@ color-theme-framework
+msgid "Pick a background color (default: #000000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:583
+#@ color-theme-framework
+msgid "Menu Block Borders (top and bottom)"
+msgstr ""
+
+#: admin/functions/functions.options.php:593
+#@ color-theme-framework
+msgid "Menu Block Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:594
+#@ color-theme-framework
+msgid "Set opacity for menu block<br /> Min: 0, max: 1, step: 0.01, default value: 0.5"
+msgstr ""
+
+#: admin/functions/functions.options.php:600
+#@ color-theme-framework
+msgid "Top-level Menu Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:601
+#@ color-theme-framework
+msgid "Choose parameters for top-level menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:611
+#@ color-theme-framework
+msgid "Top-level Menu Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:624
+#@ color-theme-framework
+msgid "Drop-Down Menu Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:625
+#@ color-theme-framework
+msgid "Pick a background color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:631
+#@ color-theme-framework
+msgid "Drop-Down Menu Hover Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:632
+#@ color-theme-framework
+msgid "Pick a hover background color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:638
+#@ color-theme-framework
+msgid "Background Opacity for Drop-Down Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:639
+#@ color-theme-framework
+msgid "Set opacity for drop-down menu<br /> Min: 0, max: 1, step: 0.01, default value: 0.95"
+msgstr ""
+
+#: admin/functions/functions.options.php:651
+#@ color-theme-framework
+msgid "Styling Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:655
+#@ color-theme-framework
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:656
+#@ color-theme-framework
+msgid "Pick a background color (default: #3b3f41)."
+msgstr ""
+
+#: admin/functions/functions.options.php:662
+#@ color-theme-framework
+msgid "Links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:663
+#@ color-theme-framework
+msgid "Pick a color for the links (default: #00AEFF)"
+msgstr ""
+
+#: admin/functions/functions.options.php:677
+#@ color-theme-framework
+msgid "Use Predefined Background Image / BG Color / Upload Your Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:678
+#@ color-theme-framework
+msgid "Select the type of usage background"
+msgstr ""
+
+#: admin/functions/functions.options.php:685
+#@ color-theme-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/functions/functions.options.php:686
+#@ color-theme-framework
+msgid "Select the background image property"
+msgstr ""
+
+#: admin/functions/functions.options.php:693
+#@ color-theme-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:694
+#@ color-theme-framework
+msgid "Select the default background repeat for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:701
+#@ color-theme-framework
+msgid "Background Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:702
+#@ color-theme-framework
+msgid "Select the default background position for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:709
+#@ color-theme-framework
+msgid "Uploaded Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:710
+#@ color-theme-framework
+msgid "Upload image for background using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:716
+#@ color-theme-framework
+msgid "Predefined Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:717
+#@ color-theme-framework
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:724
+#@ color-theme-framework
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:725
+#@ color-theme-framework
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:737
+#@ color-theme-framework
+msgid "Headings Styles"
+msgstr ""
+
+#: admin/functions/functions.options.php:741
+#@ color-theme-framework
+msgid "Google Fonts for Headings"
+msgstr ""
+
+#: admin/functions/functions.options.php:742
+#@ color-theme-framework
+msgid "Select Google Font for H1-H6 Headings "
+msgstr ""
+
+#: admin/functions/functions.options.php:755
+#@ color-theme-framework
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:756
+#@ color-theme-framework
+msgid "Choose parameters for H1 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:762
+#@ color-theme-framework
+msgid "H2 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:763
+#@ color-theme-framework
+msgid "Choose parameters for H2 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:769
+#@ color-theme-framework
+msgid "H3 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:770
+#@ color-theme-framework
+msgid "Choose parameters for H3 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:776
+#@ color-theme-framework
+msgid "H4 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:777
+#@ color-theme-framework
+msgid "Choose parameters for H4 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:783
+#@ color-theme-framework
+msgid "H5 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:784
+#@ color-theme-framework
+msgid "Choose parameters for H5 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:790
+#@ color-theme-framework
+msgid "H6 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:791
+#@ color-theme-framework
+msgid "Choose parameters for H6 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:805
+#@ color-theme-framework
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:810
+#@ color-theme-framework
+msgid "Type of Featured Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:811
+#: admin/functions/functions.options.php:969
+#@ color-theme-framework
+msgid "Choose the type of featured image."
+msgstr ""
+
+#: admin/functions/functions.options.php:821
+#@ color-theme-framework
+msgid "Use Excerpt or Content Function"
+msgstr ""
+
+#: admin/functions/functions.options.php:822
+#@ color-theme-framework
+msgid "Select a Excerpt (automatically) or Content (More tag)"
+msgstr ""
+
+#: admin/functions/functions.options.php:829
+#: includes/theme-metaboxes.php:178
+#@ color-theme-framework
+msgid "Length of Excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:830
+#@ color-theme-framework
+msgid "Set length of excerpt in chars<br /> Min: 1, max: 500, step: 1, default value: 100"
+msgstr ""
+
+#: admin/functions/functions.options.php:840
+#: includes/theme-metaboxes.php:155
+#@ color-theme-framework
+msgid "Background Color For Post Top Line"
+msgstr ""
+
+#: admin/functions/functions.options.php:841
+#@ color-theme-framework
+msgid "Pick a color (text, icons) (default: #000000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:847
+#@ color-theme-framework
+msgid "Blog Post Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:848
+#@ color-theme-framework
+msgid "Specify the blog post title font properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:854
+#@ color-theme-framework
+msgid "Blog Post Title Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:867
+#@ color-theme-framework
+msgid "Pagination Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:868
+#: admin/functions/functions.options.php:1277
+#@ color-theme-framework
+msgid "Pick a background color (default: #111111)."
+msgstr ""
+
+#: admin/functions/functions.options.php:874
+#@ color-theme-framework
+msgid "Pagination Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:894
+#: admin/functions/functions.options.php:1014
+#@ color-theme-framework
+msgid "Date"
+msgstr ""
+
+#: admin/functions/functions.options.php:895
+#: admin/functions/functions.options.php:1015
+#@ color-theme-framework
+msgid "Show/Hide blog post date"
+msgstr ""
+
+#: admin/functions/functions.options.php:903
+#: admin/functions/functions.options.php:1024
+#: functions/ct-categories-widget.php:128
+#: template-sitemap.php:63
+#@ color-theme-framework
+msgid "Categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:904
+#: admin/functions/functions.options.php:1025
+#@ color-theme-framework
+msgid "Show/Hide blog post categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:912
+#@ color-theme-framework
+msgid "Author"
+msgstr ""
+
+#: admin/functions/functions.options.php:913
+#@ color-theme-framework
+msgid "Show/Hide blog post author"
+msgstr ""
+
+#: admin/functions/functions.options.php:921
+#: admin/functions/functions.options.php:1034
+#@ color-theme-framework
+msgid "Comments"
+msgstr ""
+
+#: admin/functions/functions.options.php:922
+#: admin/functions/functions.options.php:1035
+#: admin/functions/functions.options.php:1064
+#@ color-theme-framework
+msgid "Show/Hide blog post comments"
+msgstr ""
+
+#: admin/functions/functions.options.php:930
+#: admin/functions/functions.options.php:1043
+#: functions.php:799
+#: functions.php:929
+#@ color-theme-framework
+msgid "Views"
+msgstr ""
+
+#: admin/functions/functions.options.php:931
+#: admin/functions/functions.options.php:1044
+#@ color-theme-framework
+msgid "Show/Hide blog post views"
+msgstr ""
+
+#: admin/functions/functions.options.php:940
+#: admin/functions/functions.options.php:1053
+#: functions.php:936
+#@ color-theme-framework
+msgid "Likes"
+msgstr ""
+
+#: admin/functions/functions.options.php:941
+#: admin/functions/functions.options.php:1054
+#@ color-theme-framework
+msgid "Show/Hide blog post likes"
+msgstr ""
+
+#: admin/functions/functions.options.php:955
+#@ color-theme-framework
+msgid "Single Page Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:959
+#@ color-theme-framework
+msgid "Featured image"
+msgstr ""
+
+#: admin/functions/functions.options.php:960
+#@ color-theme-framework
+msgid "Show or Hide featured image in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:968
+#@ color-theme-framework
+msgid "Type of Featured Image For Single Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:979
+#@ color-theme-framework
+msgid "Stretch thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:980
+#@ color-theme-framework
+msgid "Stretch or Not thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:988
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:989
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images with links"
+msgstr ""
+
+#: admin/functions/functions.options.php:997
+#@ color-theme-framework
+msgid "About Author"
+msgstr ""
+
+#: admin/functions/functions.options.php:998
+#@ color-theme-framework
+msgid "Show or Hide about author information in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:1063
+#: single.php:336
+#@ color-theme-framework
+msgid "Tags"
+msgstr ""
+
+#: admin/functions/functions.options.php:1072
+#@ color-theme-framework
+msgid "Code for About the author block"
+msgstr ""
+
+#: admin/functions/functions.options.php:1073
+#@ color-theme-framework
+msgid "Paste code for about the author block."
+msgstr ""
+
+#: admin/functions/functions.options.php:1079
+#@ color-theme-framework
+msgid "Code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:1080
+#@ color-theme-framework
+msgid "Paste code for bookmarking and sharing services (for example: www.addthis.com, www.sharethis.com, etc. )"
+msgstr ""
+
+#: admin/functions/functions.options.php:1092
+#@ color-theme-framework
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/functions/functions.options.php:1096
+#@ color-theme-framework
+msgid "Page Title Bar Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:1097
+#@ color-theme-framework
+msgid "Set opacity for the page title block background<br /> Min: 0, max: 1, step: 0.01, default value: 0.7"
+msgstr ""
+
+#: admin/functions/functions.options.php:1103
+#@ color-theme-framework
+msgid "Page Title Bar Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1104
+#@ color-theme-framework
+msgid "Pick a background color forthe page title bar (default: #000000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1110
+#@ color-theme-framework
+msgid "Page Title Bar Top Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:1120
+#@ color-theme-framework
+msgid "Page Title Bar Bottom Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:1137
+#@ color-theme-framework
+msgid "Sidebar Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1140
+#@ color-theme-framework
+msgid "Sidebar Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:1141
+#@ color-theme-framework
+msgid "Set opacity for the sidebar background<br /> Min: 0, max: 1, step: 0.01, default value: 0.7"
+msgstr ""
+
+#: admin/functions/functions.options.php:1147
+#@ color-theme-framework
+msgid "Widget Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1148
+#@ color-theme-framework
+msgid "Pick a background color for widget block in the sidebar (default: #000000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1154
+#@ color-theme-framework
+msgid "Widget Top Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:1164
+#@ color-theme-framework
+msgid "Widget Bottom Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:1174
+#@ color-theme-framework
+msgid "Widget Margin Bottom"
+msgstr ""
+
+#: admin/functions/functions.options.php:1175
+#@ color-theme-framework
+msgid "Set margin bottom in pixels<br /> Min: 0, max: 90, step: 5, default value: 0"
+msgstr ""
+
+#: admin/functions/functions.options.php:1184
+#@ color-theme-framework
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1185
+#@ color-theme-framework
+msgid "Pick a color for sidebar (default: #777777)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1192
+#@ color-theme-framework
+msgid "Widget Title Border Left"
+msgstr ""
+
+#: admin/functions/functions.options.php:1216
+#@ color-theme-framework
+msgid "Ads Banner Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1220
+#@ color-theme-framework
+msgid "Show banner: "
+msgstr ""
+
+#: admin/functions/functions.options.php:1221
+#@ color-theme-framework
+msgid "Show or hide banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:1228
+#@ color-theme-framework
+msgid "Site Header Banner Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:1229
+#@ color-theme-framework
+msgid "Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:1235
+#@ color-theme-framework
+msgid "Site Header Banner URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1236
+#@ color-theme-framework
+msgid "Enter clickthrough url for banner in top section"
+msgstr ""
+
+#: admin/functions/functions.options.php:1242
+#@ color-theme-framework
+msgid "Site Header Ads\\Banner Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:1243
+#@ color-theme-framework
+msgid "Paste your Google Adsense (or other) code here."
+msgstr ""
+
+#: admin/functions/functions.options.php:1262
+#@ color-theme-framework
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1266
+#@ color-theme-framework
+msgid "Number of Columns In Footer"
+msgstr ""
+
+#: admin/functions/functions.options.php:1267
+#@ color-theme-framework
+msgid "Select number of columns for footer"
+msgstr ""
+
+#: admin/functions/functions.options.php:1276
+#@ color-theme-framework
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1283
+#@ color-theme-framework
+msgid "Footer Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:1284
+#@ color-theme-framework
+msgid "Set opacity for the footer background<br /> Min: 0, max: 1, step: 0.01, default value: 0.7"
+msgstr ""
+
+#: admin/functions/functions.options.php:1297
+#@ color-theme-framework
+msgid "Copyrights for your theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:1298
+#@ color-theme-framework
+msgid "Enter your copyrights."
+msgstr ""
+
+#: admin/functions/functions.options.php:1304
+#@ color-theme-framework
+msgid "Additional Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:1305
+#@ color-theme-framework
+msgid "Enter you additional info"
+msgstr ""
+
+#: admin/functions/functions.options.php:1317
+#@ color-theme-framework
+msgid "Twitter Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1329
+#@ color-theme-framework
+msgid "Consumer Key:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1330
+#: admin/functions/functions.options.php:1337
+#: admin/functions/functions.options.php:1344
+#: admin/functions/functions.options.php:1351
+#@ color-theme-framework
+msgid "Enter Your Twitter App Consumer Key"
+msgstr ""
+
+#: admin/functions/functions.options.php:1336
+#@ color-theme-framework
+msgid "Consumer Secret:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1343
+#@ color-theme-framework
+msgid "Access Token:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1350
+#@ color-theme-framework
+msgid "Access Token Secret:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1363
+#@ color-theme-framework
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1367
+#@ color-theme-framework
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1374
+#@ color-theme-framework
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: archive.php:47
+#, php-format
+#@ color-theme-framework
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:49
+#, php-format
+#@ color-theme-framework
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:49
+#@ color-theme-framework
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:51
+#, php-format
+#@ color-theme-framework
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:51
+#@ color-theme-framework
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:53
+#@ color-theme-framework
+msgid "Archives"
+msgstr ""
+
+#: author.php:42
+#, php-format
+#@ color-theme-framework
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:51
+#@ color-theme-framework
+msgid "Full Name: "
+msgstr ""
+
+#: author.php:53
+#@ color-theme-framework
+msgid "Website: "
+msgstr ""
+
+#: author.php:54
+#@ color-theme-framework
+msgid "Info: "
+msgstr ""
+
+#: category.php:39
+#, php-format
+#@ color-theme-framework
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+#@ color-theme-framework
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#@ color-theme-framework
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39
+#@ color-theme-framework
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40
+#@ color-theme-framework
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:49
+#@ color-theme-framework
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:98
+#: content-gallery.php:90
+#: content-image.php:88
+#: content-standard.php:89
+#: content-video.php:186
+#, php-format
+#@ color-theme-framework
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-audio.php:107
+#: content-gallery.php:99
+#: content-image.php:97
+#: content-standard.php:98
+#: content-video.php:195
+#@ color-theme-framework
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-audio.php:122
+#: content-gallery.php:114
+#: content-image.php:112
+#: content-standard.php:113
+#: content-video.php:210
+#@ color-theme-framework
+msgid "in "
+msgstr ""
+
+#: content-audio.php:127
+#: content-gallery.php:119
+#: content-image.php:117
+#: content-standard.php:118
+#: content-video.php:215
+#@ color-theme-framework
+msgid " &mdash; by "
+msgstr ""
+
+#: content-audio.php:128
+#: content-gallery.php:120
+#: content-image.php:118
+#: content-standard.php:119
+#: content-video.php:216
+#@ color-theme-framework
+msgid "by "
+msgstr ""
+
+#: content-audio.php:140
+#: content-gallery.php:132
+#: content-image.php:130
+#: content-page.php:18
+#: content-standard.php:131
+#: content-video.php:228
+#: functions.php:1492
+#: template-contacts.php:112
+#: template-full-width.php:37
+#@ color-theme-framework
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:13
+#@ color-theme-framework
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#@ color-theme-framework
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: content-page.php:14
+#: functions.php:1195
+#@ color-theme-framework
+msgid "Pages:"
+msgstr ""
+
+#: content-video.php:99
+#@ color-theme-framework
+msgid "Watch Youtube Video"
+msgstr ""
+
+#: content-video.php:99
+#@ color-theme-framework
+msgid "Youtube Video"
+msgstr ""
+
+#: content-video.php:134
+#@ color-theme-framework
+msgid "Watch Vimeo Video"
+msgstr ""
+
+#: content-video.php:134
+#@ color-theme-framework
+msgid "Vimeo Video"
+msgstr ""
+
+#: content-video.php:167
+#@ color-theme-framework
+msgid "Watch DailyMotion Video"
+msgstr ""
+
+#: content-video.php:167
+#@ color-theme-framework
+msgid "Dailymotion Video"
+msgstr ""
+
+#: functions/ct-categories-widget.php:41
+#@ color-theme-framework
+msgid "Two columns categories widget"
+msgstr ""
+
+#: functions/ct-categories-widget.php:47
+#@ color-theme-framework
+msgid "CT: Categories Widget"
+msgstr ""
+
+#: functions/ct-categories-widget.php:134
+#: functions/ct-flickr-widget.php:173
+#: functions/ct-instagram-widget.php:173
+#: functions/ct-popular-posts-widget.php:279
+#: functions/ct-recent-posts-widget.php:198
+#: functions/ct-related-posts-thumbs-widget.php:167
+#: functions/ct-small-slider-widget.php:251
+#: functions/ct-twitter-widget.php:259
+#@ color-theme-framework
+msgid "Title:"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:41
+#@ color-theme-framework
+msgid "CT: Flickr Widget"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:178
+#@ color-theme-framework
+msgid "User ID:"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:183
+#: functions/ct-instagram-widget.php:193
+#@ color-theme-framework
+msgid "The number of displayed images:"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:188
+#@ color-theme-framework
+msgid "Image size (height/width):"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:193
+#: functions/ct-instagram-widget.php:198
+#@ color-theme-framework
+msgid "Feed type:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:41
+#@ color-theme-framework
+msgid "CT: Instagram Widget"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:161
+#@ color-theme-framework
+msgid "Instagram Feed"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:178
+#@ color-theme-framework
+msgid "Your Instagram application clientID:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:183
+#@ color-theme-framework
+msgid "Your Instagram access token:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:188
+#@ color-theme-framework
+msgid "Query (user name or tag):"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:41
+#@ color-theme-framework
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:51
+#@ color-theme-framework
+msgid "CT: Popular Posts"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:189
+#: functions/ct-popular-posts-widget.php:195
+#: functions/ct-popular-posts-widget.php:203
+#: functions/ct-recent-posts-widget.php:110
+#: functions/ct-recent-posts-widget.php:116
+#: functions/ct-recent-posts-widget.php:124
+#: functions/ct-small-slider-widget.php:156
+#: functions.php:1415
+#@ color-theme-framework
+msgid "Permalink to "
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:212
+#: functions/ct-recent-posts-widget.php:133
+#@ color-theme-framework
+msgid "&mdash;&nbsp;"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:213
+#: functions/ct-recent-posts-widget.php:134
+#@ color-theme-framework
+msgid "Leave a comment"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:213
+#: functions/ct-recent-posts-widget.php:134
+#@ color-theme-framework
+msgid "1 Comment"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:213
+#: functions/ct-recent-posts-widget.php:134
+#@ color-theme-framework
+msgid "% Comments"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:265
+#@ color-theme-framework
+msgid "Most Popular"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:284
+#: functions/ct-recent-posts-widget.php:204
+#: functions/ct-small-slider-widget.php:291
+#@ color-theme-framework
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:289
+#@ color-theme-framework
+msgid "Show popular posts from the last N days (default 0 - show all):"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:295
+#: functions/ct-recent-posts-widget.php:210
+#@ color-theme-framework
+msgid "Show related category posts"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:300
+#: functions/ct-recent-posts-widget.php:215
+#@ color-theme-framework
+msgid "Show thumbnail image"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:304
+#: functions/ct-recent-posts-widget.php:219
+#@ color-theme-framework
+msgid "Post meta info"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:309
+#: functions/ct-recent-posts-widget.php:224
+#: functions/ct-small-slider-widget.php:272
+#@ color-theme-framework
+msgid "Show date"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:314
+#: functions/ct-recent-posts-widget.php:229
+#: functions/ct-small-slider-widget.php:277
+#@ color-theme-framework
+msgid "Show comments"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:318
+#@ color-theme-framework
+msgid "Order by:"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:327
+#: functions/ct-recent-posts-widget.php:233
+#: functions/ct-small-slider-widget.php:317
+#@ color-theme-framework
+msgid "Filter by Category:"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:41
+#@ color-theme-framework
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:47
+#@ color-theme-framework
+msgid "CT: Recent Posts"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:146
+#@ color-theme-framework
+msgid "No posts were found for display"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:186
+#@ color-theme-framework
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show related posts by tags or category"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: Related Posts Thumbs"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:98
+#: functions/ct-related-posts-thumbs-widget.php:99
+#: functions/ct-related-posts-thumbs-widget.php:120
+#: functions/ct-small-slider-widget.php:187
+#@ color-theme-framework
+msgid "No related posts were found"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:158
+#@ color-theme-framework
+msgid "Related Posts"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:172
+#@ color-theme-framework
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:178
+#: functions/ct-small-slider-widget.php:287
+#@ color-theme-framework
+msgid "Random order"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:182
+#@ color-theme-framework
+msgid "Show related posts by:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:41
+#@ color-theme-framework
+msgid "Small Flex Slider widget"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:51
+#@ color-theme-framework
+msgid "CT: Small Slider Widget"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:233
+#@ color-theme-framework
+msgid "Featured Slider"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:257
+#@ color-theme-framework
+msgid "Animate slider automatically"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:262
+#@ color-theme-framework
+msgid "Show likes"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:267
+#@ color-theme-framework
+msgid "Show views"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:282
+#@ color-theme-framework
+msgid "Show related category posts (for posts, category pages, etc.)"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:297
+#@ color-theme-framework
+msgid "Slideshow speed, in millisec:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:303
+#@ color-theme-framework
+msgid "Animation speed, in millisec:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:309
+#@ color-theme-framework
+msgid "Animation type:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:35
+#@ color-theme-framework
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:41
+#@ color-theme-framework
+msgid "CT: Twitter Widget"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:170
+#@ color-theme-framework
+msgid " seconds ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:172
+#@ color-theme-framework
+msgid "about 1 minute ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:174
+#@ color-theme-framework
+msgid " minutes ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:176
+#@ color-theme-framework
+msgid "about 1 hour ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:178
+#@ color-theme-framework
+msgid " hours ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:180
+#@ color-theme-framework
+msgid "yesterday"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:182
+#@ color-theme-framework
+msgid " days ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:184
+#@ color-theme-framework
+msgid "over a year ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:254
+#@ color-theme-framework
+msgid "Also, be sure to fill the Twitter Settings (menu Appearance -> Theme Options -> Twitter settings)"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:265
+#@ color-theme-framework
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:271
+#@ color-theme-framework
+msgid "Tweets to display"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:276
+#@ color-theme-framework
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:278
+#@ color-theme-framework
+msgid "hours"
+msgstr ""
+
+#: functions.php:92
+#: includes/class-tgm-plugin-activation.php:164
+#@ color-theme-framework
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:93
+#: includes/class-tgm-plugin-activation.php:165
+#@ color-theme-framework
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:94
+#: includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ color-theme-framework
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:95
+#@ color-theme-framework
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:96
+#: includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ color-theme-framework
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:97
+#: includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ color-theme-framework
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:98
+#: includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:99
+#: includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ color-theme-framework
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:100
+#: includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ color-theme-framework
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:101
+#: includes/class-tgm-plugin-activation.php:173
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:102
+#: includes/class-tgm-plugin-activation.php:174
+#, php-format
+#@ color-theme-framework
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:103
+#: includes/class-tgm-plugin-activation.php:175
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:104
+#: includes/class-tgm-plugin-activation.php:176
+#@ color-theme-framework
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:105
+#: includes/class-tgm-plugin-activation.php:177
+#@ color-theme-framework
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:106
+#: includes/class-tgm-plugin-activation.php:178
+#: includes/class-tgm-plugin-activation.php:498
+#@ color-theme-framework
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:107
+#: includes/class-tgm-plugin-activation.php:179
+#: includes/class-tgm-plugin-activation.php:1854
+#@ color-theme-framework
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:108
+#, php-format
+#@ color-theme-framework
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:126
+#@ color-theme-framework
+msgid "main navigation"
+msgstr ""
+
+#: functions.php:267
+#, php-format
+#@ color-theme-framework
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:283
+#@ color-theme-framework
+msgid "Appears on the Homepage"
+msgstr ""
+
+#: functions.php:293
+#@ color-theme-framework
+msgid "Appears on the Single post page"
+msgstr ""
+
+#: functions.php:303
+#@ color-theme-framework
+msgid "Appears on the Category page"
+msgstr ""
+
+#: functions.php:313
+#@ color-theme-framework
+msgid "Appears on the Pages"
+msgstr ""
+
+#: functions.php:377
+#@ color-theme-framework
+msgid "Featured"
+msgstr ""
+
+#: functions.php:721
+#@ color-theme-framework
+msgid "Error retrieving video information from the URL"
+msgstr ""
+
+#: functions.php:922
+#@ color-theme-framework
+msgid "0"
+msgstr ""
+
+#: functions.php:922
+#@ color-theme-framework
+msgid "1"
+msgstr ""
+
+#: functions.php:922
+#@ color-theme-framework
+msgid "%"
+msgstr ""
+
+#: functions.php:964
+#@ color-theme-framework
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:1200
+#@ color-theme-framework
+msgid "Next page"
+msgstr ""
+
+#: functions.php:1201
+#@ color-theme-framework
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:1271
+#: includes/theme-metaboxes.php:379
+#@ color-theme-framework
+msgid "Overall Score"
+msgstr ""
+
+#: functions.php:1340
+#@ color-theme-framework
+msgid "Review Score: "
+msgstr ""
+
+#: functions.php:1405
+#@ color-theme-framework
+msgid "Criteria Score: "
+msgstr ""
+
+#: functions.php:1415
+#@ color-theme-framework
+msgid "more"
+msgstr ""
+
+#: functions.php:1454
+#@ color-theme-framework
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1454
+#@ color-theme-framework
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:1470
+#@ color-theme-framework
+msgid "(author)"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:1479
+#, php-format
+#@ color-theme-framework
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1483
+#@ color-theme-framework
+msgid "Reply"
+msgstr ""
+
+#: functions.php:1487
+#@ color-theme-framework
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:89
+#@ color-theme-framework
+msgid "Close Welcome Screen"
+msgstr ""
+
+#: header.php:180
+#@ color-theme-framework
+msgid "Follow Us:"
+msgstr ""
+
+#: header.php:207
+#@ color-theme-framework
+msgid "Dribbble"
+msgstr ""
+
+#: header.php:210
+#@ color-theme-framework
+msgid "Github"
+msgstr ""
+
+#: header.php:228
+#@ color-theme-framework
+msgid "Google Plus"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:167
+#@ color-theme-framework
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:180
+#, php-format
+#@ color-theme-framework
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:525
+#: includes/class-tgm-plugin-activation.php:2066
+#@ color-theme-framework
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:553
+#, php-format
+#@ color-theme-framework
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:712
+#@ color-theme-framework
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1099
+#@ color-theme-framework
+msgid "External Link"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1104
+#@ color-theme-framework
+msgid "Private Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1107
+#@ color-theme-framework
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1111
+#@ color-theme-framework
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1114
+#@ color-theme-framework
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1114
+#@ color-theme-framework
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1117
+#@ color-theme-framework
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1119
+#@ color-theme-framework
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1289
+#, php-format
+#@ color-theme-framework
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1305
+#@ color-theme-framework
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1306
+#@ color-theme-framework
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1307
+#@ color-theme-framework
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1308
+#@ color-theme-framework
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1326
+#@ color-theme-framework
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1327
+#@ color-theme-framework
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1552
+#@ color-theme-framework
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:1837
+#@ color-theme-framework
+msgid "Install package not available."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1838
+#, php-format
+#@ color-theme-framework
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1839
+#@ color-theme-framework
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1840
+#@ color-theme-framework
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1841
+#@ color-theme-framework
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1842
+#@ color-theme-framework
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1853
+#@ color-theme-framework
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1963
+#@ color-theme-framework
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ color-theme-framework
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1964
+#: includes/class-tgm-plugin-activation.php:1973
+#@ color-theme-framework
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1964
+#: includes/class-tgm-plugin-activation.php:1973
+#@ color-theme-framework
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1965
+#@ color-theme-framework
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1966
+#, php-format
+#@ color-theme-framework
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1970
+#@ color-theme-framework
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1971
+#, php-format
+#@ color-theme-framework
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1972
+#, php-format
+#@ color-theme-framework
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1973
+#, php-format
+#@ color-theme-framework
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1974
+#@ color-theme-framework
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1975
+#, php-format
+#@ color-theme-framework
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/sidebar-generator.php:60
+#@ color-theme-framework
+msgid "Custom Sidebar. Appears on posts or pages"
+msgstr ""
+
+#: includes/sidebar-generator.php:176
+#: includes/sidebar-generator.php:197
+#@ color-theme-framework
+msgid "Custom Sidebars"
+msgstr ""
+
+#: includes/sidebar-generator.php:227
+#@ color-theme-framework
+msgid "No Sidebars defined"
+msgstr ""
+
+#: includes/sidebar-generator.php:280
+#@ color-theme-framework
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:34
+#@ color-theme-framework
+msgid "Custom Page Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:40
+#@ color-theme-framework
+msgid "Allow Comments"
+msgstr ""
+
+#: includes/theme-metaboxes.php:62
+#: includes/theme-metaboxes.php:68
+#@ color-theme-framework
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:71
+#@ color-theme-framework
+msgid "Select Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:85
+#@ color-theme-framework
+msgid "Custom Background Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:91
+#@ color-theme-framework
+msgid "Custom Background Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:96
+#@ color-theme-framework
+msgid "Upload a custom background image for this page. Once uploaded, click \"Insert to Post\"."
+msgstr ""
+
+#: includes/theme-metaboxes.php:99
+#@ color-theme-framework
+msgid "Custom Background Repeat"
+msgstr ""
+
+#: includes/theme-metaboxes.php:102
+#: includes/theme-metaboxes.php:114
+#: includes/theme-metaboxes.php:126
+#: includes/theme-metaboxes.php:221
+#: includes/theme-metaboxes.php:243
+#: includes/theme-metaboxes.php:268
+#: includes/theme-metaboxes.php:299
+#@ color-theme-framework
+msgid "Select an Item"
+msgstr ""
+
+#: includes/theme-metaboxes.php:111
+#@ color-theme-framework
+msgid "Custom Background Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:123
+#@ color-theme-framework
+msgid "Custom Background Attachment"
+msgstr ""
+
+#: includes/theme-metaboxes.php:133
+#@ color-theme-framework
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/theme-metaboxes.php:136
+#@ color-theme-framework
+msgid "Select a custom background color for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:149
+#@ color-theme-framework
+msgid "General Post Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:158
+#@ color-theme-framework
+msgid "Select a custom background color for the post top line."
+msgstr ""
+
+#: includes/theme-metaboxes.php:163
+#@ color-theme-framework
+msgid "Title"
+msgstr ""
+
+#: includes/theme-metaboxes.php:164
+#@ color-theme-framework
+msgid "Show/Hide Title"
+msgstr ""
+
+#: includes/theme-metaboxes.php:170
+#@ color-theme-framework
+msgid "Content"
+msgstr ""
+
+#: includes/theme-metaboxes.php:171
+#@ color-theme-framework
+msgid "Show/Hide Content"
+msgstr ""
+
+#: includes/theme-metaboxes.php:196
+#@ color-theme-framework
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:200
+#@ color-theme-framework
+msgid "Add Images for Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:212
+#@ color-theme-framework
+msgid "Post Format: Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:218
+#@ color-theme-framework
+msgid "Type of Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:231
+#@ color-theme-framework
+msgid "Video ID"
+msgstr ""
+
+#: includes/theme-metaboxes.php:233
+#@ color-theme-framework
+msgid "Enter Video ID (example: WluQQiXKVc8)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:239
+#@ color-theme-framework
+msgid "Type of Video Thumbnail"
+msgstr ""
+
+#: includes/theme-metaboxes.php:240
+#@ color-theme-framework
+msgid "Choose the type of thumbnail: auto generated from video service or use featured image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:258
+#@ color-theme-framework
+msgid "Post Format: Audio"
+msgstr ""
+
+#: includes/theme-metaboxes.php:264
+#@ color-theme-framework
+msgid "Type of Audio Thumbnail (for Blog, Widgets, etc.)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:276
+#@ color-theme-framework
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/theme-metaboxes.php:278
+#@ color-theme-framework
+msgid "Paste code from Soundcloud Service"
+msgstr ""
+
+#: includes/theme-metaboxes.php:291
+#@ color-theme-framework
+msgid "Settings for Review"
+msgstr ""
+
+#: includes/theme-metaboxes.php:296
+#@ color-theme-framework
+msgid "Select Type of Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:302
+#@ color-theme-framework
+msgid "Standard Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:303
+#@ color-theme-framework
+msgid "Review Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:304
+#@ color-theme-framework
+msgid "Review Post With The Numerical Value"
+msgstr ""
+
+#: includes/theme-metaboxes.php:311
+#@ color-theme-framework
+msgid "Overall Score ( only for the Numerical Value )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:326
+#@ color-theme-framework
+msgid "Background Color ( only for the Numerical Value )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:334
+#@ color-theme-framework
+msgid "Text Color ( only for the Numerical Value )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:340
+#@ color-theme-framework
+msgid "Good ( only for the Numerical Value )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:342
+#@ color-theme-framework
+msgid "Enter text for Good review"
+msgstr ""
+
+#: includes/theme-metaboxes.php:344
+#@ color-theme-framework
+msgid "Good"
+msgstr ""
+
+#: includes/theme-metaboxes.php:349
+#@ color-theme-framework
+msgid "Bad ( only for the Numerical Value )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:351
+#@ color-theme-framework
+msgid "Enter text for Bad review"
+msgstr ""
+
+#: includes/theme-metaboxes.php:353
+#@ color-theme-framework
+msgid "Bad"
+msgstr ""
+
+#: includes/theme-metaboxes.php:359
+#@ color-theme-framework
+msgid "Color for Score Stars"
+msgstr ""
+
+#: includes/theme-metaboxes.php:367
+#@ color-theme-framework
+msgid "Color for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:375
+#@ color-theme-framework
+msgid "Overall Score Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:377
+#@ color-theme-framework
+msgid "Enter name for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:385
+#@ color-theme-framework
+msgid "Overall Score ( from 0.5 to 5 )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:387
+#: includes/theme-metaboxes.php:421
+#: includes/theme-metaboxes.php:454
+#: includes/theme-metaboxes.php:487
+#: includes/theme-metaboxes.php:520
+#: includes/theme-metaboxes.php:552
+#@ color-theme-framework
+msgid "Select Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:409
+#@ color-theme-framework
+msgid "Criteria #1 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:411
+#@ color-theme-framework
+msgid "Enter name for Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:413
+#@ color-theme-framework
+msgid "Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:418
+#@ color-theme-framework
+msgid "Criteria #1 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:442
+#@ color-theme-framework
+msgid "Criteria #2 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:444
+#@ color-theme-framework
+msgid "Enter name for Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:446
+#@ color-theme-framework
+msgid "Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:451
+#@ color-theme-framework
+msgid "Criteria #2 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:475
+#@ color-theme-framework
+msgid "Criteria #3 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:477
+#@ color-theme-framework
+msgid "Enter name for Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:479
+#@ color-theme-framework
+msgid "Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:484
+#@ color-theme-framework
+msgid "Criteria #3 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:508
+#@ color-theme-framework
+msgid "Criteria #4 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:510
+#@ color-theme-framework
+msgid "Enter name for Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:512
+#@ color-theme-framework
+msgid "Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:517
+#@ color-theme-framework
+msgid "Criteria #4 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:540
+#@ color-theme-framework
+msgid "Criteria #5 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:542
+#@ color-theme-framework
+msgid "Enter name for Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:544
+#@ color-theme-framework
+msgid "Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:549
+#@ color-theme-framework
+msgid "Criteria #5 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:571
+#@ color-theme-framework
+msgid "Summary"
+msgstr ""
+
+#: includes/theme-metaboxes.php:572
+#@ color-theme-framework
+msgid "Enter your text"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:252
+#@ rwmb
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:426
+#@ rwmb
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:448
+#@ rwmb
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/button.php:36
+#@ rwmb
+msgid "Click me"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:23
+#@ rwmb
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:66
+#@ rwmb
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:102
+#: meta-box/inc/fields/file.php:138
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:103
+#: meta-box/inc/fields/file.php:139
+#@ rwmb
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:19
+#, php-format
+#@ rwmb
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:20
+#, php-format
+#@ rwmb
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:70
+#@ rwmb
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:84
+#@ rwmb
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:85
+#@ rwmb
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:22
+#@ rwmb
+msgid "Select Images"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:71
+#@ rwmb
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:107
+#: meta-box/inc/fields/image.php:144
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:108
+#: meta-box/inc/fields/image.php:145
+#@ rwmb
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:64
+#@ rwmb
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:78
+#: meta-box/inc/fields/thickbox-image.php:35
+#@ rwmb
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:79
+#@ rwmb
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:48
+#@ rwmb
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:104
+#@ rwmb
+msgctxt "image upload"
+msgid "Arrastre el archivo aqui"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:105
+#@ rwmb
+msgctxt "imagen subida"
+msgid "o"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:106
+#@ rwmb
+msgctxt "imagen subida"
+msgid "Seleccione archivos"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:181
+#@ rwmb
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:54
+#@ rwmb
+msgid "Post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:68
+#: meta-box/inc/fields/taxonomy.php:40
+#, php-format
+#@ rwmb
+msgid "Seleccionar %s"
+msgstr ""
+
+#: meta-box/inc/fields/select-advanced.php:71
+#@ rwmb
+msgid "Seleccione opción"
+msgstr ""
+
+#: post-like.php:86
+#: post-like.php:88
+#@ color-theme-framework
+msgid "Me gusta el artículo"
+msgstr ""
+
+#: search.php:31
+#@ color-theme-framework
+msgid "Buscar resultados por"
+msgstr ""
+
+#: searchform.php:11
+#: searchform.php:12
+#@ color-theme-framework
+msgid "Buscar en la web"
+msgstr ""
+
+#: single.php:42
+#: single.php:388
+#@ color-theme-framework
+msgid "Post navigation"
+msgstr ""
+
+#: single.php:43
+#: single.php:390
+#@ color-theme-framework
+msgctxt "Próximo artículo"
+msgid ""
+msgstr ""
+
+#: single.php:44
+#: single.php:389
+#@ color-theme-framework
+msgctxt "Artículo anterior"
+msgid ""
+msgstr ""
+
+#: single.php:80
+#: single.php:461
+#@ color-theme-framework
+msgid "Categoria: "
+msgstr ""
+
+#: single.php:92
+#: single.php:473
+#@ color-theme-framework
+msgid "<b>0</b>"
+msgstr ""
+
+#: single.php:92
+#: single.php:473
+#@ color-theme-framework
+msgid "<b>1</b>"
+msgstr ""
+
+#: single.php:92
+#: single.php:473
+#@ color-theme-framework
+msgid "<b>%</b>"
+msgstr ""
+
+#: single.php:174
+#@ color-theme-framework
+msgid "Bien:"
+msgstr ""
+
+#: single.php:179
+#@ color-theme-framework
+msgid "Mal:"
+msgstr ""
+
+#: single.php:373
+#@ color-theme-framework
+msgid "Ver otros artículos"
+msgstr ""
+
+#: tag.php:39
+#, php-format
+#@ color-theme-framework
+msgid "Tags: %s"
+msgstr ""
+
+#: template-archives.php:47
+#@ color-theme-framework
+msgid "Útlimos 30 artículos"
+msgstr ""
+
+#: template-archives.php:57
+#@ color-theme-framework
+msgid "Archivos por mes:"
+msgstr ""
+
+#: template-archives.php:64
+#@ color-theme-framework
+msgid "Artículos por asunto:"
+msgstr ""
+
+#: template-contacts.php:60
+#@ color-theme-framework
+msgid "Mensaje enviado al administrador. Gracias!"
+msgstr ""
+
+#: template-contacts.php:85
+#@ color-theme-framework
+msgid "Tu nombre"
+msgstr ""
+
+#: template-contacts.php:88
+#@ color-theme-framework
+msgid "Tu email"
+msgstr ""
+
+#: template-contacts.php:91
+#@ color-theme-framework
+msgid "Tu URL"
+msgstr ""
+
+#: template-contacts.php:94
+#@ color-theme-framework
+msgid "Asunto"
+msgstr ""
+
+#: template-contacts.php:101
+#@ color-theme-framework
+msgid "Escriba sus preguntas..."
+msgstr ""
+
+#: template-contacts.php:102
+#@ color-theme-framework
+msgid "Enviar mensaje"
+msgstr ""
+
+#: template-sitemap.php:39
+#@ color-theme-framework
+msgid "Artículos"
+msgstr ""
+
+#: template-sitemap.php:74
+#@ color-theme-framework
+msgid "Páginas"
+msgstr ""
+

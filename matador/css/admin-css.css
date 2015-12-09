@@ -1,0 +1,4 @@
+#page-builder-archive #blocks-archive .block { margin-right: 8px !important; }
+.mce-i-ts-tinymce-shortcode { background-image: url(../includes/shortcodes/tinymce/images/shortcodes.png) !important; background-repeat: no-repeat !important; }
+.mce-floatpanel.mce-menu .mce-text { font-size: 12px !important; }
+th#ts_post_id { max-width:60px; }

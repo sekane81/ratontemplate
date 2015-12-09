@@ -1,0 +1,2556 @@
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+.search-box .search-form .search-text {
+    background:url(../images/icons/search-icon@2x.png) no-repeat 10px center #000;
+    background-size: 16px 16px;
+}
+.kopa-gallery-widget .list-carousel .carousel-nav .carousel-prev {
+    background-size: 8px 12px;
+    background-image:url(../images/slider/carousel-prev@2x.png);
+}
+.kopa-gallery-widget .list-carousel .carousel-nav .carousel-next {
+    background-size: 8px 12px;
+    background-image:url(../images/slider/carousel-next@2x.png);
+}
+.widget_categories ul li {
+    background:url(../images/icons/list-icon@2x.png) no-repeat 0 8px;
+    background-size: 5px 7px;
+}
+.kopa-newsletter-widget .newsletter-form .submit {
+    background:url(../images/icons/mail-icon@2x.png) no-repeat center center #18adb5;
+    background-size: 17px 13px;
+}
+.tweetList li {
+    background:url(../images/icons/twitter-icon@2x.png) no-repeat 0 center;
+    background-size: 40px 40px;
+}
+.home-slider .flex-direction-nav .flex-prev {
+    background-image:url(../images/slider/flex-prev@2x.png);
+    background-size: 7px 12px;
+}
+.home-slider .flex-direction-nav .flex-next {
+    background-image:url(../images/slider/flex-next@2x.png);
+    background-size: 7px 12px;  
+}
+.kp-single-slider .flex-direction-nav .flex-prev {
+    background-image:url(../images/slider/big-flex-prev@2x.png);
+    background-size: 13px 21px;
+}
+.kp-single-slider .flex-direction-nav .flex-next {
+    background-image:url(../images/slider/big-flex-next@2x.png);
+    background-size: 13px 21px;
+}
+.kp-single-carousel .flex-direction-nav .flex-prev {
+    background-image:url(../images/slider/flex-carousel-prev@2x.png);
+    background-size: 19px 28px;
+}
+.kp-single-carousel .flex-direction-nav .flex-next {
+    background-image:url(../images/slider/flex-carousel-next@2x.png);
+    background-size: 19px 28px;
+}
+
+
+
+}
+
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1163px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+.wrapper{
+    width:980px;
+}
+
+.l-col {
+    width: 650px;
+    padding-right: 15px;
+}
+.r-col {
+    width: 300px;
+    padding-left: 15px;
+}
+
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-bottom .l-col {
+    padding:30px 15px 30px 0;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:15px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 20px -15px;
+    padding-left:15px;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 285px;
+}
+.home-slider .entry-item .entry-content {
+    width: 350px;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 303px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline {
+    width:500px;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:386px;
+}
+
+.kopa-video-widget .entry-item {
+    width:387px;
+    margin-right:15px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 30px;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 62px;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 15px 9px 0;
+}
+.dark-block .r-col {
+    padding: 15px 0 5px 15px;
+}
+.tweetList li {
+    width:262px;
+    margin:0 0 0 15px;
+}
+#mcs5_container .dragger_container {
+    width: 650px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 163px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 143px;
+    top: 96px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 143px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 5px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 11px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:312px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 280px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 355px;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 308px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 581px;
+}
+
+.entry-box footer > div {
+    width:325px;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 553px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:566px;
+}
+#comments .comments-list .children .comment-body {
+    width:482px;
+}
+
+/*---Comment form---*/
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 280px;
+    margin-right: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 355px;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 310px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+
+
+}
+
+@media only screen and (min-width: 980px) and (max-width: 1023px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+.wrapper{
+    width:940px;
+}
+
+.l-col {
+    width: 610px;
+    padding-right: 15px;
+}
+.r-col {
+    width: 300px;
+    padding-left: 15px;
+}
+
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-bottom .l-col {
+    padding:30px 15px 30px 0;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:15px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 20px -15px;
+    padding-left:15px;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 265px;
+}
+.home-slider .entry-item .entry-content {
+    width: 330px;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 285px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline {
+    width:463px;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:15px;
+    width: 229px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:366px;
+}
+
+.kopa-video-widget .entry-item {
+    width:347px;
+    margin-right:15px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 58px;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 15px 9px 0;
+}
+.dark-block .r-col {
+    padding: 15px 0 5px 15px;
+}
+.tweetList li {
+    width:242px;
+    margin:0 0 0 15px;
+}
+#mcs5_container .dragger_container {
+    width: 610px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 153px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 133px;
+    top: 93px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 133px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:292px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 260px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 335px;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 288px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 541px;
+}
+
+.entry-box footer > div {
+    width:305px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 513px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:526px;
+}
+#comments .comments-list .children .comment-body {
+    width:442px;
+}
+
+/*---Comment form---*/
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 260px;
+    margin-right: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 335px;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 290px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 97px;
+}
+
+
+
+}
+
+@media only screen and (min-width: 800px) and (max-width: 979px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+.wrapper{
+    width:740px;
+}
+
+.l-col {
+    width: 410px;
+    padding-right: 15px;
+}
+.r-col {
+    width: 300px;
+    padding-left: 15px;
+}
+
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-bottom .l-col {
+    padding:30px 15px 30px 0;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:15px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 20px -15px;
+    padding-left:15px;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.home-slider .entry-item .entry-content {
+    width: 100%;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 365px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline {
+    width:263px;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+.widget-area-6 .widget {
+    margin-bottom: 10px;
+}
+.kopa-article-list-widget .tab-container-1 ul li {
+    margin-bottom: 15px;
+}
+.list-container-1 ul li a {
+    font-size: 13px;
+    padding: 10px 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:100%;
+}
+
+.kopa-video-widget .entry-item {
+    width:100%;
+    margin-right:0;
+    margin-bottom: 20px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+.kopa-video-widget .older-post {
+    width: 100%;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 59px;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 15px 9px 0;
+}
+.dark-block .r-col {
+    padding: 15px 0 5px 15px;
+}
+.tweetList li {
+    width:355px;
+    margin:10px 0 0 0;
+}
+.tweetList li:first-child {
+    margin:0;
+}
+#mcs5_container .dragger_container {
+    width: 610px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 137px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 117px;
+    top: 95px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 117px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:192px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 100%;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 363px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 341px;
+}
+
+.entry-box footer > div {
+    width:205px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 313px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:326px;
+}
+#comments .comments-list .children {
+    margin-left: 0;
+}
+#comments .comments-list .children .comment-body {
+    width:326px;
+}
+
+/*---Comment form---*/
+#comments-form #comment_name, 
+#comments-form #comment_email, 
+#comments-form #comment_url, 
+#contact-form #contact_name, 
+#contact-form #contact_email, 
+#contact-form #contact_url {
+    width: 100%;
+}
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 100%;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 365px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 64px;
+}
+.list-container-2 ul li {
+    width: 65px;
+}
+.accordion-title h3 {
+    margin: 0 0 0 40px;
+    font-size: 12px;
+}
+#toggle-view li h3 {
+    font-size: 12px;
+    line-height: 16px;
+}
+.kp-single-carousel {
+    display: none;
+}
+.kp-single-slider {
+    margin-bottom: 15px;
+}
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 799px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+.wrapper{
+    width:740px;
+}
+
+.l-col {
+    width: 410px;
+    padding-right: 15px;
+}
+.r-col {
+    width: 300px;
+    padding-left: 15px;
+}
+
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-bottom .l-col {
+    padding:30px 15px 30px 0;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:15px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 20px -15px;
+    padding-left:15px;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.home-slider .entry-item .entry-content {
+    width: 100%;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 365px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline {
+    width:263px;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+.widget-area-6 .widget {
+    margin-bottom: 10px;
+}
+.kopa-article-list-widget .tab-container-1 ul li {
+    margin-bottom: 15px;
+}
+.list-container-1 ul li a {
+    font-size: 13px;
+    padding: 10px 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:100%;
+}
+
+.kopa-video-widget .entry-item {
+    width:100%;
+    margin-right:0;
+    margin-bottom: 20px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+.kopa-video-widget .older-post {
+    width: 100%;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 59px;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 15px 9px 0;
+}
+.dark-block .r-col {
+    padding: 15px 0 5px 15px;
+}
+.tweetList li {
+    width:355px;
+    margin:10px 0 0 0;
+}
+.tweetList li:first-child {
+    margin:0;
+}
+#mcs5_container .dragger_container {
+    width: 610px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 137px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 117px;
+    top: 95px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 117px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:192px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 100%;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 363px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 341px;
+}
+
+.entry-box footer > div {
+    width:205px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 313px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:326px;
+}
+#comments .comments-list .children {
+    margin-left: 0;
+}
+#comments .comments-list .children .comment-body {
+    width:326px;
+}
+
+/*---Comment form---*/
+#comments-form #comment_name, 
+#comments-form #comment_email, 
+#comments-form #comment_url, 
+#contact-form #contact_name, 
+#contact-form #contact_email, 
+#contact-form #contact_url {
+    width: 100%;
+}
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 100%;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 365px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 64px;
+}
+.list-container-2 ul li {
+    width: 65px;
+}
+.accordion-title h3 {
+    margin: 0 0 0 40px;
+    font-size: 12px;
+}
+#toggle-view li h3 {
+    font-size: 12px;
+    line-height: 16px;
+}
+.kp-single-carousel {
+    display: none;
+}
+.kp-single-slider {
+    margin-bottom: 15px;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+body {
+    padding: 0;
+}
+.wrapper{
+    width:600px;
+}
+
+.l-col {
+    width: 270px;
+    padding-right: 15px;
+}
+.r-col {
+    width: 300px;
+    padding-left: 15px;
+}
+
+.top-sidebar .l-col,
+.top-sidebar .r-col {
+    width: 100%;
+    padding: 0;
+}
+.top-sidebar .r-col {
+    background-color: #060606;
+    background-image: none;
+}
+
+.top-sidebar .r-color {
+    display: none;
+}
+
+/* =========================================================
+Header
+============================================================ */
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-bottom .l-col {
+    padding:30px 15px 30px 0;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:15px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 5px -15px;
+    padding-left:15px;
+    background-color: #060606;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 285px;
+}
+.home-slider .entry-item .entry-content {
+    width: 300px;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 255px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline-title {
+    display: none;
+}
+.kp-headline {
+    width:100%;
+    margin-left: 0;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+#main-content .l-col,
+#main-content .r-col {
+    width: 100%;
+    padding: 0;
+}
+#main-content .l-col {
+    margin-top: 20px;
+}
+#main-content .r-color {
+    display: none;
+}
+.widget-area-6 .widget {
+    margin-bottom: 10px;
+}
+.kopa-article-list-widget .tab-container-1 ul li {
+    margin-bottom: 15px;
+}
+.list-container-1 ul li a {
+    font-size: 13px;
+    padding: 10px 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:15px;
+    width: 285px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:300px;
+}
+
+.kopa-video-widget .entry-item {
+    width:340px;
+    margin-right:15px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+.kopa-video-widget .older-post {
+    width: 245px;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+#main-content .r-color, #main-content .r-col {
+    background-color: #fff;
+    margin-top: 20px;
+}
+.kopa-popular-post-widget .entry-item .entry-thumb {
+    margin-bottom: 0;
+    margin-right: 15px;
+    float: left;
+    width: 265px;
+}
+.kopa-popular-post-widget .entry-item .entry-content {
+    float: left;
+    width: 320px;
+}
+.kopa-adv-widget {
+    display: none;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 60px;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 15px 9px 0;
+}
+.dark-block .r-col {
+    padding: 15px 0 5px 15px;
+}
+.light-block {
+    margin-bottom: 25px;
+}
+.light-block .l-col,
+.light-block .r-col {
+    width: 100%;
+    padding: 0;
+}
+.light-block .l-col .r-color {
+    display:none;
+}
+.tweetList li {
+    width:230px;
+    margin:10px 0 0 0;
+}
+.tweetList li:first-child {
+    margin:0;
+}
+#mcs5_container .dragger_container {
+    width: 600px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 150px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 130px;
+    top: 90px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 130px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:183px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 15px;
+    width: 285px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 300px;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 253px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 531px;
+}
+
+.entry-box footer > div {
+    width:300px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 503px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:516px;
+}
+#comments .comments-list .children {
+    margin-left: 0;
+}
+#comments .comments-list .children .comment-body {
+    width:516px;
+}
+
+/*---Comment form---*/
+#comments-form #comment_name, 
+#comments-form #comment_email, 
+#comments-form #comment_url, 
+#contact-form #contact_name, 
+#contact-form #contact_email, 
+#contact-form #contact_url {
+    width: 100%;
+}
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 100%;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 555px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 64px;
+}
+.list-container-2 ul li {
+    width: 65px;
+}
+.accordion-title h3 {
+    margin: 0 0 0 40px;
+    font-size: 12px;
+}
+.kp-single-carousel {
+    display: none;
+}
+.kp-single-slider {
+    margin-bottom: 15px;
+}
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 639px) {
+
+/* =========================================================
+Colunms
+============================================================ */
+body {
+    padding: 0;
+}
+.wrapper{
+    width:440px;
+}
+
+.l-col {
+    width: 100%;
+    padding-right: 0px;
+}
+.r-col {
+    width: 100%;
+    padding-left: 0px;
+}
+.top-sidebar .l-col,
+.top-sidebar .r-col {
+    width: 100%;
+    padding: 0;
+}
+.top-sidebar .r-col {
+    background-color: #060606;
+    background-image: none;
+}
+
+.top-sidebar .r-color {
+    display: none;
+}
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-top .r-col {
+    background-color: #111;
+}
+
+#header-bottom .l-col {
+    padding:20px 0px 20px 0;
+    height:auto;
+}
+#header-bottom .r-col {
+    margin-bottom: 20px;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:0px;
+}
+.top-banner {
+    display: none;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 5px -15px;
+    padding-left:15px;
+    background-color: #060606;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.home-slider .entry-item .entry-content {
+    width: 100%;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 395px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline-wrapper .r-col {
+    background-color: #eaeaea;
+}
+.kp-headline {
+    width:293px;
+}
+.kopa-social-widget {
+    text-align: center;
+}
+.kopa-social-widget ul {
+    display: inline-block;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+#main-content .l-col,
+#main-content .r-col {
+    width: 100%;
+    padding: 0;
+}
+#main-content .l-col {
+    margin-top: 20px;
+}
+#header-top {
+    overflow:inherit;
+}
+.r-color {
+    display: none;
+}
+.widget-area-6 .widget {
+    margin-bottom: 10px;
+}
+.kopa-article-list-widget .tab-container-1 ul li {
+    margin-bottom: 15px;
+}
+.list-container-1 ul li a {
+    font-size: 13px;
+    padding: 10px 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:100%;
+}
+
+.kopa-video-widget .entry-item {
+    width:100%;
+    margin-right:0px;
+    margin-bottom: 15px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+.kopa-video-widget .older-post {
+    width: 100%;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+#main-content .r-color, #main-content .r-col {
+    background-color: #fff;
+    margin-top: 20px;
+}
+.kopa-adv-widget {
+    display: none;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+    background-color: #111;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 65px;
+}
+.kopa-newsletter-widget .newsletter-form .email {
+    background-color: #202020;
+}
+#page-footer {
+    text-align: center;
+}
+#page-footer .r-col {
+    background-color: #000;
+}
+#copyright {
+    float: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#footer-menu {
+    display: inline-block;
+    float: none;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 0px 0px 0;
+}
+.dark-block .r-col {
+    padding: 0px 0 15px 0px;
+}
+.light-block {
+    margin-bottom: 25px;
+}
+.light-block .l-col,
+.light-block .r-col {
+    width: 100%;
+    padding: 0;
+}
+#tweets {
+    margin-bottom: 20px;
+}
+.tweetList li {
+    width:385px;
+    margin:10px 0 0 0;
+}
+.tweetList li:first-child {
+    margin:0;
+}
+.kopa-social-static-widget {
+    text-align: center;
+}
+.kopa-social-static-widget ul {
+    display: inline-block;
+}
+#mcs5_container .dragger_container {
+    width: 440px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 147px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 127px;
+    top: 85px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 127px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:207px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 100%;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 393px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+
+.entry-box .entry-box-title {
+    width: 371px;
+}
+.entry-box header .entry-title {
+    font-size: 16px;
+}
+
+.entry-box footer > div {
+    width:220px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 343px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:356px;
+}
+#comments .comments-list .children {
+    margin-left: 0;
+}
+#comments .comments-list .children .comment-body {
+    width:356px;
+}
+
+/*---Comment form---*/
+#comments-form #comment_name, 
+#comments-form #comment_email, 
+#comments-form #comment_url, 
+#contact-form #contact_name, 
+#contact-form #contact_email, 
+#contact-form #contact_url {
+    width: 100%;
+}
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 100%;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 395px;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 64px;
+}
+.list-container-2 ul li {
+    width: 65px;
+}
+.accordion-title h3 {
+    margin: 0 0 0 40px;
+    font-size: 12px;
+}
+.error-404 .left-col p {
+    font-size: 80px;
+}
+.error-404 .right-col h1 {
+    font-size: 20px;
+}
+.kp-single-carousel {
+    display: none;
+}
+.kp-single-slider {
+    margin-bottom: 15px;
+}
+
+
+}
+
+
+
+@media only screen and (max-width: 479px) {
+    
+/* =========================================================
+Colunms
+============================================================ */
+body {
+    padding: 0;
+}
+.wrapper{
+    width:280px;
+}
+
+.l-col {
+    width: 100%;
+    padding-right: 0px;
+}
+.r-col {
+    width: 100%;
+    padding-left: 0px;
+}
+.top-sidebar .l-col,
+.top-sidebar .r-col {
+    width: 100%;
+    padding: 0;
+}
+.top-sidebar .r-col {
+    background-color: #060606;
+    background-image: none;
+}
+
+.top-sidebar .r-color {
+    display: none;
+}
+
+/* =========================================================
+Header
+============================================================ */
+
+#main-menu {
+    display: none;
+}
+#mobile-menu {
+    display: block;
+}
+
+#header-top .r-col {
+    background-color: #111;
+}
+
+#header-bottom .l-col {
+    padding:20px 0px 20px 0;
+    height:auto;
+}
+#header-bottom .r-col {
+    margin-bottom: 20px;
+}
+
+#logo-image {
+    text-align: center;
+    float:none;
+    width: 100%;
+    margin-top:0px;
+}
+.top-banner {
+    display: none;
+}
+.awesome-weather-left {
+    padding-left: 5%;
+}
+.awesome-weather-todays-stats {
+    width: 29.6%;
+}
+.awesome-weather-header {
+    margin-left: 5%;
+}
+
+/* =========================================================
+Top Sidebar
+============================================================ */
+
+.top-sidebar .kopa-latest-post-widget .widget-title {
+    margin: 0 0 5px -15px;
+    padding-left:15px;
+    background-color: #060606;
+}
+.home-slider .entry-item .entry-thumb {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.home-slider .entry-item .entry-content {
+    width: 100%;
+}
+.home-slider .entry-item .entry-content header .entry-title a {
+    width: 235px;
+}
+.home-slider .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+.home-slider .entry-item .entry-content header {
+    margin-bottom: 10px;
+}
+.home-slider {
+    margin: 25px 0 0;
+}
+.home-slider .flex-direction-nav {
+    top: -60px;
+}
+.top-sidebar .kopa-latest-post-widget ul {
+    margin-bottom: 20px;
+}
+.top-sidebar .kopa-latest-post-widget ul li {
+    padding-top: 10px;
+    margin:10px 0 0;
+}
+.top-sidebar .kopa-latest-post-widget ul li .entry-date {
+    margin-bottom: 5px;
+}
+
+.kp-headline-wrapper .r-col {
+    background-color: #eaeaea;
+}
+.kp-headline-title {
+    display: none;
+}
+.kp-headline {
+    margin-left: 0;
+    width:100%;
+}
+.kopa-social-widget {
+    text-align: center;
+}
+.kopa-social-widget ul {
+    display: inline-block;
+}
+
+/* =========================================================
+Main Content
+============================================================ */
+#main-content .l-col,
+#main-content .r-col {
+    width: 100%;
+    padding: 0;
+}
+#main-content .l-col {
+    margin-top: 20px;
+}
+#header-top {
+    overflow:inherit;
+}
+.r-color {
+    display: none;
+}
+.widget-area-6 .widget {
+    margin-bottom: 20px;
+}
+.kopa-article-list-widget .tab-container-1 ul li {
+    margin-bottom: 15px;
+}
+.list-container-1 ul li a {
+    font-size: 13px;
+    padding: 5px 15px;
+}
+.kopa-article-list-widget .tab-container-1 .entry-thumb {
+    margin-right:0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.kopa-article-list-widget .tab-container-1 .entry-content {
+    width:100%;
+}
+
+.kopa-video-widget .entry-item {
+    width:100%;
+    margin-right:0px;
+    margin-bottom: 15px;
+}
+.kopa-video-widget .older-post li {
+    padding-top:15px;
+    margin-top:15px;
+}
+.kopa-video-widget .older-post {
+    width: 100%;
+}
+.kopa-carousel-widget .pager {
+    top: -32px;
+}
+.kopa-related-post .pager {
+    top: -58px;
+}
+.kopa-carousel-widget .list-carousel ul li .entry-date,
+.kopa-carousel-widget .list-carousel ul li .entry-content .entry-title span {
+    display: none;
+}
+.list-container-1 ul,
+.list-container-1 ul li a,
+.list-container-1 ul li.active a, 
+.list-container-1 ul li:hover a {
+    border: none;
+}
+.list-container-1 ul li {
+    float: none;
+}
+.list-container-1 ul li a {
+    padding-left: 0;
+}
+.list-container-1 ul {
+    margin-bottom: 10px;
+}
+.list-container-1 ul {
+    border-top: 1px solid #d6d6d6;
+    padding-top: 5px;
+}
+.kopa-related-post .list-carousel ul li .entry-content .entry-title span,
+.kopa-related-post .list-carousel ul li .entry-date {
+    display: none;
+}
+
+/* =========================================================
+Right Sidebar
+============================================================ */
+#main-content {
+    padding-top:0px;
+}
+.widget-area-6,
+.widget-area-7 {
+    padding-top: 20px;
+}
+#main-content .r-color, #main-content .r-col {
+    background-color: #fff;
+    margin-top: 20px;
+}
+.kopa-adv-widget {
+    display: none;
+}
+
+/* =========================================================
+Bottom Sidebar
+============================================================ */
+#bottom-sidebar {
+    padding-top: 0;
+}
+#bottom-sidebar .l-col,
+#bottom-sidebar .r-col {
+    padding-top: 30px;
+    background-color: #111;
+}
+.kopa-widget-flickr {
+    margin-right:-10px;
+}
+.kopa-widget-flickr li {
+    margin:0 10px 10px 0;
+    width: 62px;
+}
+.kopa-newsletter-widget .newsletter-form .email {
+    background-color: #202020;
+}
+#page-footer {
+    text-align: center;
+}
+#page-footer .r-col {
+    background-color: #000;
+}
+#copyright {
+    float: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#footer-menu {
+    display: inline-block;
+    float: none;
+}
+
+/* =========================================================
+Home style 2
+============================================================ */
+.dark-block .l-col {
+    padding: 20px 0px 0px 0;
+}
+.dark-block .r-col {
+    padding: 0px 0 15px 0px;
+}
+.light-block {
+    margin-bottom: 25px;
+}
+.light-block .l-col,
+.light-block .r-col {
+    width: 100%;
+    padding: 0;
+}
+
+#tweets {
+    margin-bottom: 20px;
+}
+.tweetList li {
+    width:225px;
+    margin:10px 0 0 0;
+}
+.tweetList li:first-child {
+    margin:0;
+}
+.kopa-social-static-widget {
+    text-align: center;
+}
+.kopa-social-static-widget ul {
+    display: inline-block;
+}
+.kopa-social-static-widget ul li {
+    width: 65px;
+}
+#mcs5_container .dragger_container {
+    width: 280px;
+}
+.kopa-carousel-2-widget ul li {
+    width: 140px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content {
+    width: 120px;
+    top: 82px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content {
+    padding: 0 10px;
+    width: 120px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-title {
+    line-height: 16px;
+}
+.kopa-carousel-2-widget ul li .entry-item:hover .entry-content .entry-title {
+    margin: 5px 0;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .meta-box {
+    margin-bottom: 0px;
+}
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-date, 
+.kopa-carousel-2-widget ul li .entry-item .entry-content .entry-author {
+    font-size: 10px;
+}
+.widget-area-12 {
+    padding:25px 15px 30px 0;
+}
+.widget-area-13 {
+    padding-top:25px;
+}
+
+
+/**** Isotope Filtering ****/
+
+#pf-items article {
+    width:280px;
+}
+
+.widget-area-7 .widget .list-container-2 ul li {
+    width: 91px;
+}
+
+/* =========================================================
+Categories page
+============================================================ */
+.entry-list > li {
+    padding-bottom: 10px;
+}
+.entry-list li .entry-item .entry-thumb {
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.entry-list li .entry-item .entry-content {
+     width: 100%;
+}
+.entry-list li .entry-item .entry-content header .entry-title a {
+    width: 233px;
+}
+.entry-list li .entry-item .entry-content header .entry-title {
+    font-size: 16px;
+}
+.pagination .page-numbers li a, .pagination .page-numbers li span {
+    font-size: 12px;
+    padding: 1px 5px;
+}
+
+/* =========================================================
+Single page
+============================================================ */
+.entry-box span.entry-box-icon {
+    display: none;
+}
+.entry-box .entry-box-title {
+    width: 100%;
+}
+.entry-box header .entry-title,
+.kopa-single-2 .entry-box header .entry-title {
+    font-size: 16px;
+}
+.kopa-rating-box {
+    margin-left: 0;
+    width: 278px;
+    margin-bottom: 15px;
+}
+.entry-box .entry-thumb audio {
+    width: 100%;
+}
+.kp-single-carousel {
+    display: none;
+}
+.kp-single-slider {
+    margin-bottom: 15px;
+}
+
+.entry-box footer > div {
+    width:140px;
+}
+.entry-box footer div p {
+    border-bottom: none;
+}
+.entry-box footer div.prev-post p {
+    padding-right: 15px;
+}
+.entry-box footer div.next-post p {
+    padding-left: 15px;
+}
+.entry-box footer div a {
+    font-size: 16px;
+}
+.entry-box footer div a.article-title {
+    font-size: 12px;
+}
+
+
+/*----- About Author -----*/
+.about-author {
+    padding-top: 15px;
+}
+.about-author .avatar-thumb {
+    margin-right: 15px;
+}
+.about-author .author-content {
+    width: 183px;
+}
+.about-author .social-link li {
+    margin: 0 2px 0 0;
+}
+.tag-box a {
+    margin-bottom: 4px;
+}
+
+/*---Comments List---*/
+
+#comments .comment-body {
+    width:196px;
+}
+#comments .comments-list .children {
+    margin-left: 0;
+}
+#comments .comments-list .children .comment-body {
+    width:196px;
+}
+
+/*---Comment form---*/
+#comments-form #comment_name, 
+#comments-form #comment_email, 
+#comments-form #comment_url, 
+#contact-form #contact_name, 
+#contact-form #contact_email, 
+#contact-form #contact_url {
+    width: 100%;
+}
+
+.kopa-single-2 .entry-box .entry-thumb {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.kopa-single-2 .entry-box header {
+    width: 100%;
+}
+.kopa-single-2 .entry-box .entry-box-title {
+    width: 100%;
+}
+
+.kopa-404-page .breadcrumb {
+    margin-top: 20px;
+}
+
+.list-container-3 ul li {
+    width: 64px;
+}
+.list-container-2 ul li {
+    width: 65px;
+}
+.accordion-title h3 {
+    margin: 0 0 0 40px;
+    font-size: 12px;
+}
+.error-404 .left-col p {
+    font-size: 80px;
+    text-align: center;
+}
+.error-404 .right-col h1 {
+    font-size: 20px;
+}
+
+.error-404 .left-col,
+.error-404 .right-col {
+    float: none;
+    width: 100%;
+    margin: 0;
+}
+
+}

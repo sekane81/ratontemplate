@@ -1,0 +1,1787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boston\n"
+"POT-Creation-Date: 2015-07-22 12:54+0100\n"
+"PO-Revision-Date: 2015-07-22 12:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: powerthemes <support@powerthemes.club>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\themes\\boston\n"
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/404.php:9
+msgid "404"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/404.php:10
+msgid "Sorry but page you are looking for doesn't exist!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/404.php:12
+msgid "Try to search"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/404.php:14
+msgid "GO"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:71
+msgid "Leave comment"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:78
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:82
+#: C:\wamp\www\wordpress\wp-content\themes\boston/page-tpl_contact.php:49
+msgid "NAME"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:85
+#: C:\wamp\www\wordpress\wp-content\themes\boston/page-tpl_contact.php:52
+msgid "EMAIL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:89
+#: C:\wamp\www\wordpress\wp-content\themes\boston/page-tpl_contact.php:55
+msgid "MESSAGE"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/comments.php:91
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:75
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:76
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:77
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:78
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:89
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:90
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:177
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:91
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:108
+msgid "Search"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:145
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:151
+msgid "Appears on the right side of the blog."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:155
+msgid "Page Sidebar Right"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:161
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:165
+msgid "Page Sidebar Left"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:171
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:175
+msgid "Bottom Sidebar 1"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:181
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:191
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:201
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:211
+msgid "Appears at the bottom of the page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:185
+msgid "Bottom Sidebar 2"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:195
+msgid "Bottom Sidebar 3"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:205
+msgid "Bottom Sidebar 4"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:344
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:475
+msgid "Embed URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:477
+msgid "Input custom URL which will be embeded as the blog post media."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:482
+msgid "Standard Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:490
+msgid "Gallery Images"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:493
+msgid "Add images for the gallery post format. Drag and drop to change their order."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:498
+msgid "Gallery Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:507
+msgid "Audio URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:509
+msgid "Input url to the audio source which will be media for the audio post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:514
+msgid "Audio Type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:517
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:542
+msgid "Embed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:518
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:543
+msgid "Direct Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:520
+msgid "Select format of the audio URL ( Direct Link - for mp3, Embed - for the links from SoundCloud, MixCloud,... )."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:525
+msgid "Audio Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:533
+msgid "Video URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:535
+msgid "Input url to the video source which will be media for the audio post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:539
+msgid "Video Type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:545
+msgid "Select format of the video URL ( Direct Link - for ogg, mp4..., Embed - for the links from YouTube, Vimeo,... )."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:550
+msgid "Video Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:558
+msgid "Input Quotation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:560
+msgid "Input quote as blog media for the quote post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:564
+msgid "Input Quoted Person's Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:566
+msgid "Input quoted person's name for the quote post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:571
+msgid "Quote Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:579
+msgid "Input Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:581
+msgid "Input link as blog media for the link post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:586
+msgid "Link Post Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:594
+msgid "Featured Post"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:597
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:91
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:180
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:156
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:598
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:92
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:181
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:155
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:600
+msgid "Make this post to be featured."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:605
+msgid "Featured Information"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:899
+msgid "&raquo;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:900
+msgid "&laquo;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1020
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1021
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1022
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1027
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1033
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1040
+msgid "Message is not send since the recepient email is not yet set."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1047
+msgid "Email is not valid."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1054
+msgid "All fields are required."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1061
+msgid "Captcha is wrong."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1105
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1111
+msgid "You have successfully subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1116
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1120
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1169
+msgid " ago"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1175
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1193
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1328
+msgid "User Social Networks"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1332
+msgid "Facebook"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1338
+msgid "Twitter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1344
+msgid "Google +"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1350
+msgid "Pinterest"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/functions.php:1356
+msgid "Tumblr"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/header.php:103
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:61
+#: C:\wamp\www\wordpress\wp-content\themes\boston/single.php:130
+msgid "by "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/header.php:127
+msgid "Category: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/header.php:131
+msgid "Search by tag: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/header.php:201
+msgid "Archive for "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/header.php:204
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:19
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:28
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:532
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1167
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1170
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1288
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1312
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2070
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2070
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2076
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/headers/header1.php:13
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/headers/header2.php:14
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/headers/header3.php:13
+#: C:\wamp\www\wordpress\wp-content\themes\boston/searchform.php:2
+msgid "Search blog..."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/headers/navigation.php:2
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:42
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:67
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:72
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:262
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/parsers.php:451
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:210
+msgid "Demo already imported"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:230
+msgid "Import Again"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:234
+msgid "Import Demo Data"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:437
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:495
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:568
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:590
+msgid "Site does not support widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:613
+msgid "Widget already exists"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:662
+msgid "Imported"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:665
+msgid "Imported to Inactive"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/radium-importer.php:672
+msgid "No Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:134
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:143
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:194
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:198
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:199
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item "
+"to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set "
+"as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:505
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, "
+"categories, and tags into this site."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes.php:66
+msgid "Add Image"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes.php:71
+msgid "Add Images"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes.php:86
+msgid "Insert"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:56
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:43
+msgid "Titles"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:59
+msgid "Input accordion titles separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:65
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:52
+msgid "Contents"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:68
+msgid "Input accordion contents separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:76
+msgid "Accordion"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/accordion.php:78
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:121
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:201
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:64
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gap.php:30
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:49
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:158
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:65
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:48
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:73
+msgid "Content"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:31
+msgid "Close"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:43
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:20
+msgid "Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:46
+msgid "Input alert text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:52
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:55
+msgid "Select border color for the alert box."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:61
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:29
+msgid "Background Color Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:64
+msgid "Select background color of the alert box."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:70
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:38
+msgid "Text Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:73
+msgid "Select font color for the alert box text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:79
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:49
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:82
+msgid "Select icon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:88
+msgid "Closeable"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:94
+msgid "Enable or disable alert closing."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:100
+msgid "Close Icon Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:103
+msgid "Select color for the close icon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:109
+msgid "Close Icon Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:112
+msgid "Select color for the close icon on hover."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/alert.php:119
+msgid "Alert"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:55
+msgid "Button Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:58
+msgid "Input button text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:64
+msgid "Button Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:67
+msgid "Input button link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:73
+msgid "Select Window"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:76
+msgid "Same Window"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:77
+msgid "New Window"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:79
+msgid "Select window where to open the link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:85
+msgid "Background Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:88
+msgid "Select button background color."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:94
+msgid "Background Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:97
+msgid "Select button background color on hover."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:103
+msgid "Button Border Radius"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:106
+msgid "Input button border radius. For example 5px or 5ox 9px 0px 0px or 50% or 50% 50% 20% 10%."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:112
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:20
+msgid "Select Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:115
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:23
+msgid "Select an icon you want to display."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:121
+msgid "Font Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:124
+msgid "Select button font color."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:130
+msgid "Font Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:133
+msgid "Select button font color on hover."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:139
+msgid "Button Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:142
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:168
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:145
+msgid "Normal"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:143
+msgid "Medium"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:144
+msgid "Large"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:146
+msgid "Select button size."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:152
+msgid "Button Align"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:155
+msgid "Left"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:156
+msgid "Center"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:157
+msgid "Right"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:159
+msgid "Select button align."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:165
+msgid "Select Button Width"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:169
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:271
+msgid "Full Width"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:171
+msgid "Select button alwidthign."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:177
+msgid "Display Inline"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:183
+msgid "Display button inline."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:189
+msgid "Button Margins"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:192
+msgid "Add button margins."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/button.php:199
+msgid "Button"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/column.php:18
+msgid "Column Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/column.php:21
+msgid "Input column size. min 1 max 12. Sum of these numbers in a row must be 12."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:24
+msgid "Select Images"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:27
+msgid "Select images for the gallery."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:33
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:36
+msgid "Select image size you want to display for the thumbnails."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:42
+msgid "Columns"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:56
+msgid "Select number of columns for the thumbnails."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gallery.php:62
+msgid "Gallery"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gap.php:18
+msgid "Gap Height"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gap.php:21
+msgid "Input gap height."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/gap.php:28
+msgid "Gap"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:29
+msgid "Icon Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:32
+msgid "Select color of the icon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:38
+msgid "Icon Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/icon.php:41
+msgid "Input size of the icon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:24
+msgid "Iframe link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:27
+msgid "Input link you want to embed."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:33
+msgid "Iframe Proportion"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:36
+msgid "4 by 3"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:37
+msgid "16 by 9"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:39
+msgid "Select iframe proportion."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/iframe.php:47
+msgid "Iframe"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:23
+msgid "Input label text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:32
+msgid "Select background color of the label."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:41
+msgid "Select font color for the label text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/label.php:49
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:61
+msgid "Label"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:64
+msgid "Input progress bar label."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:70
+msgid "Label Font Size"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:73
+msgid "Input label font size."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:79
+msgid "Value"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:82
+msgid "Input progress bar value. Input number only unit is in percentage."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:88
+msgid "Progress Bar Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:91
+msgid "Select progress bar color."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:97
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:100
+msgid "Select progress bar background color."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:106
+msgid "Progress Bar Label Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:109
+msgid "Select progress bar label color."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:115
+msgid "Progress Bar Height"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:118
+msgid "Input progress bar height."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:124
+msgid "Progress Bar Label Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:127
+msgid "Select icon for the label."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:133
+msgid "Progress Bar Border Radius"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:136
+msgid "Input progress bar border radius."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:142
+msgid "Progress Bar Style"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:146
+msgid "Stripes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:147
+msgid "Active Stripes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:149
+msgid "Select progress bar style."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/progressbar.php:156
+msgid "Progress Bar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:46
+msgid "Input tab titles separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:55
+msgid "Input tab contents separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/tabs.php:63
+msgid "Tabs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:39
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:42
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:51
+msgid "Input toggle title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:57
+msgid "Default State"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:60
+msgid "Closed"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:61
+msgid "Opened"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:63
+msgid "Select default toggle state."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/shortcodes/toggle.php:71
+msgid "Toggle"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:110
+msgid "Overall Setup"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:111
+msgid "Here in overall setup section you can edit basic settings related to overall website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:119
+msgid "Site Favicon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:121
+msgid "Upload site favicon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:128
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:130
+msgid "Upload site logo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:136
+msgid "Site Logo Dark"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:138
+msgid "Upload site logo for dark version of the site"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:144
+msgid "Logo Padding"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:146
+msgid "Add logo padding in the format TOP RIGHT BOTTOM LEFT for example 10px 10px 10px 10px"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:152
+msgid "Enable Sticky Navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:158
+msgid "Show or hide sticky navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:168
+msgid "Header"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:169
+msgid "Set visual feel of the header."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:176
+msgid "Left Logo Right Navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:177
+msgid "Top Logo Centered Navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:178
+msgid "Total Overlay Navigation"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:180
+msgid "Site Header Style"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:182
+msgid "Select header style for the site."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:194
+msgid "Input number of item you want to initially display"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:203
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:204
+msgid "Set visual feel of the site."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:210
+msgid "Site Style"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:213
+msgid "Light Version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:214
+msgid "Dark Version"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:216
+msgid "Select site style"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:224
+msgid "Main Font"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:226
+msgid "Font for the site"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:233
+msgid "Secondary Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:236
+msgid "Select color for the hover elements"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:244
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:251
+msgid "Copyrights"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:245
+msgid "Copyrights content."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:253
+msgid "Input copyrights"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:261
+msgid "Blog Options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:262
+msgid "Blog settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:269
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:282
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:270
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:283
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:273
+msgid "Blog Listing Layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:275
+msgid "Select blog listing layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:285
+msgid "Blog Single Layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:287
+msgid "Select blog single layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:293
+msgid "Blog Single Author Excerpt"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:295
+msgid "Input number of letters to be visible for the author description or leave empty for all."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:301
+msgid "Blog Title Max Length On Listing"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:303
+msgid "Input number of characters for the title on the blog listing or leave empty to display complete title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:309
+msgid "Blog Excerpt Max Length On Listing"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:311
+msgid "Input number of characters for the excerpt on the blog listing or leave empty to display complete title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:318
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:319
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:326
+msgid "Mail"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:328
+msgid "Input email where sent messages will arrive"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:333
+msgid "Mail Subject"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:335
+msgid "Input subject for the message."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:340
+msgid "Google Map Markers"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:342
+msgid ""
+"Input longitudes and latitudes separated by comma for example 92.3123,-105.54353 (longitude,latitude). <a href=\"http://"
+"www.latlong.net/\" target=\"_blank\">Find Long/Lat</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:350
+msgid "Twitter API"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:351
+msgid "Twitter API Settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:359
+msgid "Twitter Username"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:360
+msgid "Input your twitter username."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:366
+msgid "OAuth Access Token"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:367
+msgid "Input your oauth access token."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:373
+msgid "OAuth Access Token Secret"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:374
+msgid "Input your oauth access token secret."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:381
+msgid "Consumer Key"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:382
+msgid "Input your consumer key."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:389
+msgid "Consumer Secret"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:390
+msgid "Input your consumer secret."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:420
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/theme-options.php:421
+msgid "Boston"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:16
+msgid "404 Page Doesn't exists"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:22
+msgid "Posts by"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:25
+msgid "Archive for:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:43
+msgid "All Deals & Coupons"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:46
+msgid "All Deals"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:49
+msgid "All Coupons"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:62
+msgid "Showing "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:65
+msgid "deals and coupons "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:68
+msgid "deals "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:71
+msgid "coupons "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:76
+msgid "from category "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:83
+msgid "located in "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/title.php:101
+msgid "Page you have requested is not found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:9
+msgid "Boston Popular Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:121
+msgid "Display popular posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:19
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:129
+msgid "Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:108
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:189
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:260
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:368
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:456
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:111
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:121
+msgid "Boston Handpicked Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:192
+msgid "Select posts to show:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:213
+msgid "Boston Social Follow"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:213
+msgid "Adds list of the social icons."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:264
+msgid "Facebook:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:268
+msgid "Twitter:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:272
+msgid "Google +:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:276
+msgid "Pinterest:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:280
+msgid "Tumblr:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:293
+msgid "Follow Us On Instagram"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:371
+msgid "Username:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:374
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:459
+msgid "Count:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:377
+msgid "Columns:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:400
+msgid "Latest Tweets"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/includes/widgets.php:436
+msgid "ago"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/media/media-video.php:13
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/page-tpl_contact.php:59
+msgid "SUBMIT MESSAGE"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\boston/single.php:116
+msgid "Related Posts"
+msgstr ""

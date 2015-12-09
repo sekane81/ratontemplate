@@ -1,0 +1,202 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(13/10/2015) - Update - Version 1.3.3
+
+[*] Updated the TGM Plugin Activation to the version 2.5.2.
+[*] Updated Post Meta Data classes to pass the Google Structured Data test.
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(21/08/2015) - Update - Version 1.3.2
+
+[+] Added Brazilian Portuguese translation.
+[*] Updated deprecated constructor method of the MineZine Posts-List Widget.
+
+----
+
+(23/06/2015) - Update - Version 1.3.1
+
+[*] Updated the TGM Plugin Activation to the version 2.4.2.
+[*] Updated German translation.
+[*] Increased height of the responsive drop-down menus.
+[*] Specified a recommended height of the Header Image.
+
+----
+
+(30/03/2015) - Update - Version 1.3.0
+
+[*] Updated Spanish translation.
+[*] Updated Czech translation.
+[*] Updated the list of available Google fonts.
+[*] Minor CSS changes (updated floating of the main content area to avoid possible problems with a plugin-generated content).
+
+----
+
+(19/02/2015) - Update - Version 1.2.9
+
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated editor-style.css.
+[*] Updated 404 Page and No Search Results templates (added search form).
+
+----
+
+(16/01/2015) - Update - Version 1.2.8
+
+[+] Added support for the Title Tag feature.
+[*] Updated paginate_links() arguments (added "add_args").
+
+----
+
+(01/01/2015) - Update - Version 1.2.7
+
+[*] Updated editor-style.css.
+[x] Removed some unnecessary code from functions/fe/headerdata.php (the main stylesheet is already enqueued in functions.php).
+
+----
+
+(19/12/2014) - Update - Version 1.2.6
+
+[+] Added ability to use the "nextpage" tag on pages.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+
+----
+
+(10/12/2014) - Update - Version 1.2.5
+
+[+] Enabled opening of the Social networks links in a new window.
+
+----
+
+(01/12/2014) - Update - Version 1.2.4
+
+[*] Updated Placeholders.js script to the version 3.0.2.
+
+----
+
+(20/11/2014) - Update - Version 1.2.3
+
+[*] Updated the "viewport" meta tag.
+[*] Enqueue the "HTML5 Shiv" through the function minezine_scripts_styles().
+[*] Updated German translation.
+
+----
+
+(10/11/2014) - Update - Version 1.2.2
+
+[+] Mentioned the Text Domain in style.css.
+[*] Set the priority of excerpt_length filter from 999 to 20.
+
+----
+
+(28/10/2014) - Update - Version 1.2.1
+
+[+] Added Polish translation.
+
+----
+
+(15/10/2014) - Update - Version 1.2.0
+
+[*] Updated displaying of featured images on the post entries (added condition has_post_thumbnail).
+[*] Updated custom WooCommerce styles (Sale Marker position and Related Products floating).
+
+----
+
+(07/10/2014) - Update - Version 1.1.9
+
+[*] Updated theme documentation.
+[!] Fixed Uncaught JavaScript TypeError which occurred on the Landing Page template (because there is no Main Header Menu in this template).
+[x] Removed deprecated function "screen_icon()" from class-tgm-plugin-activation.php.
+
+----
+
+(28/09/2014) - Update - Version 1.1.8
+
+[+] Added Danish translation.
+[+] Added support for the Google font Oswald (used for headlines) within the Visual Editor.
+
+----
+
+(21/09/2014) - Update - Version 1.1.7
+
+[+] Added Dutch translation.
+
+----
+
+(14/09/2014) - Update - Version 1.1.6
+
+[*] Changed position of the scroll-top button.
+[*] Updated displaying of widgets in the Right Sidebar.
+
+----
+
+(07/09/2014) - Update - Version 1.1.5
+
+[+] Added custom Page Template for displaying the page content only for logged in users.
+[*] Updated language localizations.
+[*] Changed z-index value of the Top Menu to avoid overlapping with the Main Menu.
+
+----
+
+(31/08/2014) - Update - Version 1.1.4
+
+[*] Changed function for displaying the breadcrumb navigation (hide it on a static front page).
+[*] Updated displaying of the footer widget areas.
+
+----
+
+(24/08/2014) - Update - Version 1.1.3
+
+[+] Added custom Page Template for displaying Full-width pages without Title.
+[*] Updated editor-style.css.
+
+----
+
+(17/08/2014) - Update - Version 1.1.2
+
+[+] Added Italian translation.
+
+----
+
+(10/08/2014) - Update - Version 1.1.1
+
+[+] Added Greek translation.
+[+] Added filter for enabling shortcode use within the Text widgets.
+[*] Updated theme documentation.
+
+----
+
+(01/08/2014) - Update - Version 1.1.0
+
+[+] Added support for WooCommerce plugin.
+
+----
+
+(25/06/2014) - Update - Version 1.0.3
+
+[*] Changed screenshot.png.
+
+----
+
+(21/06/2014) - Update - Version 1.0.2
+
+[!] Fixed "Undefined index" debug notices in widget-posts-list.php.
+
+----
+
+(21/06/2014) - Update - Version 1.0.1
+
+[!] Fixed "Undefined index" debug notices in widget-posts-list.php.
+
+----
+
+(04/06/2014) - The initial public release. - Version 1.0.0
